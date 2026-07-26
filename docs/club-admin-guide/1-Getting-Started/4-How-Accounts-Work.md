@@ -74,8 +74,6 @@ When TUSA needs to contact the president personally, they reach Alex, not “who
 
 There are various situations that a club admin needs to be contacted:
 
-
-
 | Scenario                  | What’s Needed                                                |
 | ------------------------- | ------------------------------------------------------------ |
 | **Emergency at an event** | Need to call the actual president, not “President — Chess Club” |
@@ -128,7 +126,7 @@ This protects personal contact details while still allowing the right people to 
 
 ## Other Club Admin / Exec Committee Accounts
 
-Unlike the president accounts will always firmly stay, there are **two** scenarios for other club admin or executive committee accounts. The main way to distinguish these two scenarios is via **account's email address.**
+Your club admin or executive committee accounts will have the most power besides the club president. The main way to distinguish these two scenarios is via **account's email address.**
 
 ### Scenario One: Role-Based Club Emails
 
@@ -214,12 +212,15 @@ Example: treasurer@club.com, president@club.com, secretary@club.com
 
 **Example:**
 
-    treasurer@club.com account:
-      Last year: Alex Morgan's details
-      This year: John Brown's details (Alex handed over login to John)
+```
+treasurer@club.com account:
+  Last year: Alex Morgan's details
+  This year: John Brown's details (Alex handed over login to John)
+```
 
-**If a role is removed:**\
-If you had assistanttreasurer@club.com last year but don’t have that role this year – remove that account entirely from the reaffiliation.
+**If a role is removed:**
+
+Let's say if you had assistanttreasurer@club.com last year but don’t have that role this year, please remove that account entirely from the reaffiliation.
 
 ### Scenario 2: Personal Email Accounts
 
@@ -227,13 +228,12 @@ Your committee members use their own emails (realname@utas.edu.au)
 
 **How it works:**
 
-Each person has their own account
+- Each person has their own account
+- When someone leaves committee, remove them (they get demoted to regular member)
+- When someone joins, add them with their personal email
 
-When someone leaves committee, remove them (they get demoted to regular member)
+**If someone leaves:**
 
-When someone joins, add them with their personal email
-
-**If someone leaves:**\
 If alex.morgan@example.edu.au was secretary last year but isn’t on committee this year – remove them from the reaffiliation form.
 
 ### Scenario 3: One Shared Club Email
@@ -244,21 +244,21 @@ Your club has ONE email address that everyone shares (e.g., chessclub@gmail.com)
 
 **Solution:**
 
-**President** uses chessclub@gmail.com as their Account Email (login)
-
-**Everyone else** uses their PERSONAL email as their Account Email
-
-Everyone can list chessclub@gmail.com as their Alternate/Personal Email field
+- **President** uses chessclub@gmail.com as their Account Email (login)
+- **Everyone else** uses their PERSONAL email as their Account Email
+- Everyone can list chessclub@gmail.com as their Alternate/Personal Email field
 
 **Example:**
 
-    President account:
-      Account Email (login): chessclub@gmail.com
-      Personal Email: president.realname@utas.edu.auTreasurer account:
-      Account Email (login): treasurer.realname@utas.edu.au
-      Personal Email: chessclub@gmail.com (shared access noted here)Secretary account:
-      Account Email (login): secretary.realname@utas.edu.au
-      Personal Email: chessclub@gmail.com (shared access noted here)
+```
+President account:
+  Account Email (login): chessclub@gmail.com
+  Personal Email: president.realname@utas.edu.auTreasurer account:
+  Account Email (login): treasurer.realname@utas.edu.au
+  Personal Email: chessclub@gmail.com (shared access noted here)Secretary account:
+  Account Email (login): secretary.realname@utas.edu.au
+  Personal Email: chessclub@gmail.com (shared access noted here)
+```
 
 We don’t mind that you all share access to chessclub@gmail.com – that’s up to you. But each person needs their own unique login email to have their own account.
 
