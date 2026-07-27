@@ -1,3 +1,11 @@
+---
+title: Club Documents
+description: Store, upload, and manage your club documents in the admin area.
+icon: material/file-document
+hide:
+  - toc
+---
+
 # Club Documents
 
 Your club has a central document library. Upload once, use everywhere, no more re-uploading. It's a secure storage for all your club's important files:
@@ -14,7 +22,6 @@ Your club has a central document library. Upload once, use everywhere, no more r
 
 - Any other club documents
 
----
 
 ## Why Should I Use?
 
@@ -28,11 +35,10 @@ This club document library comes with various benefits:
 | **Always accessible**           | Committee members can access anytime                         |
 | **Audit trail**                 | See who uploaded what and when (Only for TUSA Staff)         |
 
----
 
 ## Where Is It?
 
-The library can be accessed on the **club page > Club Docs > Document Library** tab. Here you’ll see a list of all documents uploaded by your club with columns:
+The library can be accessed on the **club dashboard > Club Docs > Document Library** tab. Here you’ll see a list of all documents uploaded by your club with columns:
 
 - Document name/description
 - Expiry date
@@ -40,11 +46,10 @@ The library can be accessed on the **club page > Club Docs > Document Library** 
 
 - Download
 
----
 
 ## Upload Documents
 
-To upload a new document, same under your club page and Club Docs tab, navigate to **Add a Doc** sub tab. You will see the form to upload your new document:
+To upload a new document, same under your club dashboard and Club Docs tab, navigate to **Add a Doc** sub tab. You will see the form to upload your new document:
 
 | Field                 | What to Enter                                                |
 | --------------------- | ------------------------------------------------------------ |
@@ -59,7 +64,6 @@ After filling all the required fields, attach the document in **Upload Document*
 
 - Maximum file size: 10MB
 
----
 
 ## Document Categories
 
@@ -82,7 +86,6 @@ You can select multiple categories for a single document if it fits more than on
 | **Affiliation/Reaffiliation Documents** | Auto-set when uploading during affiliation         |
 | **Grant Applications**                  | Auto-set when uploading during grant applications  |
 
----
 
 ## Expiry Date Tracking
 
@@ -104,7 +107,6 @@ You set an expiry for the document to:
 
 - TUSA can help remind you when documents are expiring
 
----
 
 ## Manage Documents
 
@@ -128,7 +130,6 @@ You set an expiry for the document to:
 
 - Don’t delete documents that are referenced in active applications
 
----
 
 ## Who Can Access?
 
@@ -141,7 +142,6 @@ Documents are only visible to your club and TUSA staff – not to other clubs or
 | **TUSA Staff**         | Can view all club documents (for compliance/support) |
 | **Other club members** | No access to document library                        |
 
----
 
 ## Best Practices
 
@@ -173,7 +173,6 @@ Documents are only visible to your club and TUSA staff – not to other clubs or
 
 - Keep your library up to date throughout the year
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -199,7 +198,6 @@ Documents stay with the club, not with individual people. When you hand over to 
 
 Currently, documents need to be uploaded one at a time. For bulk uploads, contact TUSA for assistance.
 
----
 
 ## Need Help?
 

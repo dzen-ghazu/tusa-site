@@ -1,10 +1,15 @@
+---
+title: Managing Club Members
+description: Add, update, and manage club members and roles.
+icon: material/account-group
+hide:
+  - toc
+---
+
 # Managing Club Members
-
-
 
 This guide will explain how to manage members in your club group. More importantly, it will explain when you **should** and **shouldn’t** use these tools.
 
----
 
 ## Add Members
 
@@ -24,13 +29,12 @@ When someone purchases a membership product:
 
 **This is the correct flow. Don’t bypass it.**
 
----
 
 ## Member Management
 
 ### Where Is It?
 
-- Go to your **club page**
+- Go to your **club dashboard**
 
 - Click **Manage** tab
   - Only admin can see this tab
@@ -167,7 +171,6 @@ For a complete removal, you need to contact TUSA. They can:
 
 - Handle serious issues appropriately
 
----
 
 ## Member Roles Explained
 
@@ -179,7 +182,6 @@ For a complete removal, you need to contact TUSA. They can:
 
 The **Club President** account is always an admin and moderator.
 
----
 
 ## Bulk Management
 
@@ -201,7 +203,7 @@ Column names are flexible – “first_name”, “First Name”, or “firstnam
 
 #### How Can I Access?
 
-- Go to your **club page**
+- Go to your **club dashboard**
 
 - Navigate to the **Club Admin** tab
 - Navigate to the **CSV Import** sub-tab
@@ -237,7 +239,6 @@ Follow the steps on the page:
 
 **For regular member sign-ups, always use the store** – this ensures proper tracking and tag expiry.
 
----
 
 ## Summary: Do’s and Don’ts
 
@@ -265,7 +266,6 @@ Follow the steps on the page:
 
 ✗ Use CSV import instead of the store for regular sign-ups
 
----
 
 ## Junior Members
 
@@ -348,7 +348,6 @@ The website automatically restricts alcohol event tickets using membership tags 
 
 - Refund their ticket if applicable
 
----
 
 ## Related Guides
 
@@ -362,6 +361,5 @@ The website automatically restricts alcohol event tickets using membership tags 
 
 [Event Applications] – Risk assessment and event approval
 
----
 
 *Members join through the store. Manage \> Members is for admin access, not membership.*

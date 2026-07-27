@@ -1,3 +1,11 @@
+---
+title: Deliver Your Products
+description: Fulfil customer orders and manage product delivery.
+icon: material/truck-delivery
+hide:
+  - toc
+---
+
 # Deliver Your Products
 
 If you’re selling physical products such as merchandises (T-shirts, stickers, etc.), you will need to setup pickup or shipping to deliver your products to the customers.
@@ -12,7 +20,6 @@ If you’re selling physical products such as merchandises (T-shirts, stickers, 
 
 **Currently, International Shipping is NOT allowed.**
 
----
 
 ## Shipping Zones
 
@@ -39,7 +46,6 @@ A customer can match **multiple zones**. For example, someone at Sandy Bay (post
 
 The customer will see shipping options from **all matching zones** and choose what suits them.
 
----
 
 ## Shipping Rates
 
@@ -75,7 +81,6 @@ If customers can collect from your club's room or campus:
 
 **Result:** Tasmanian customers see both flat rate AND local pickup options.
 
----
 
 ## Step-by-Step: First Time Setup
 
@@ -98,7 +103,6 @@ That’s it! All Australian customers can now order your physical products.
 - Save
 - Now Tasmanian customers can choose pickup instead.
 
----
 
 ## Recommended Configuration
 
@@ -109,7 +113,6 @@ We recommend setting your rate as:
 | Australia | Flat Rate    | \$15.50 | Covers postage anywhere in Aus   |
 | Tasmania  | Local Pickup | Free    | Collection from campus/club room |
 
----
 
 ## What Will Customers See?
 
@@ -137,7 +140,6 @@ With the recommended configuration:
   - "Flat Rate" (\$15.50)
 - The user will have to pay product price + \$15.50
 
----
 
 ## Order Status
 
@@ -161,7 +163,6 @@ To update order status, while at Store Manager:
 - Change the status
 - Customer gets notified of status changes
 
----
 
 ## Common Issues
 
@@ -196,7 +197,6 @@ This might happen if:
 - What shipping method did they choose?
 - Review order details in Store Manager → Orders
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -242,7 +242,6 @@ Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Ra
 
 **This will prevent customers outside Tasmania from ordering.**
 
----
 
 ## Related Guides
 
@@ -250,6 +249,5 @@ Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Ra
 
 [Creating Membership Products](./2-creating-membership-products.md) – These don’t need shipping
 
----
 
 *Physical products need shipping. Digital products (memberships, tickets) don’t.*

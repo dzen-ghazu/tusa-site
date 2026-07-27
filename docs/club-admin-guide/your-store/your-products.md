@@ -1,3 +1,11 @@
+---
+title: Your Products
+description: Create and manage products in the club store.
+icon: material/storefront
+hide:
+  - toc
+---
+
 # Your Products
 
 Once your club is offically created via affiliation, it will automatically come with a store. The store can unlock your potential to excel your business talent and make some revenue to keep the club running.
@@ -14,9 +22,7 @@ This guide will assist you on managing products to your store, normally, you cou
 >
 > You can **ONLY** do this with a **Club President** or **Club Admin** account, not your personal account.
 >
-> Only these accounts can access the "Store Management" page on the **Account Page**
-
----
+> Only these accounts can access the "Store Management" page on the **Account Dashboard**
 
 ## Visit Store Manager
 
@@ -40,7 +46,6 @@ This guide will assist you on managing products to your store, normally, you cou
 
 - **Make sure it says YOUR club, not someone else’s.**
 
----
 
 ## Add a Product
 
@@ -115,7 +120,6 @@ A high-quality product picture is worth a thousand words. Add images for your pr
 - Set status to **Published** (or Draft if not ready)
 - Click **Save Product**
 
----
 
 ## Adding a Product Variation
 
@@ -173,7 +177,6 @@ For each variation, you can set fields below to be different:
 
 Click **Save Product** when all variations are configured.
 
----
 
 ## Stock Management
 
@@ -199,7 +202,6 @@ To set the stock levels:
 - Enter **Stock Quantity** (how many you have)
 - Set **Low Stock Threshold** (optional – get warned when running low)
 
----
 
 ## Publish Your Product
 
@@ -218,7 +220,6 @@ By clicking the **Publish Product** button, your products appear in your club’
 | Price is \$0 or empty                | Enter a valid price      |
 | No product image                     | Add a product image      |
 
----
 
 ## Edit Your Product
 
@@ -246,7 +247,6 @@ This season sale might end and you may need to remove related products:
 
 **Deleting is permanent**. However, if you forsee this product item could be displayed with little changes again in the future. **Consider set the product's status to Draft.**
 
----
 
 ## Tips: Product Images
 
@@ -274,7 +274,6 @@ Supply different images for the product to entice your customer even more:
 - Add additional angles in the **Product Gallery**
 - Gallery images show when customers click through
 
----
 
 ## Common Issues
 
@@ -288,7 +287,6 @@ There are some common mistakes that everyone could make while managing their pro
 | Variations without prices | Customers can’t select options        | Set price for each variation |
 | Creating new categories   | They won’t work in the system         | Use existing categories only |
 
----
 
 ## Next Steps
 
@@ -298,7 +296,6 @@ Now that you know how to add basic products:
 - [**Setting Up Shipping**](./3-setting-up-shipping-for-your-store.md) – Required for physical products
 - [**Creating Events**](../4-events-&-activities/2-creating-events.md) – For event tickets
 
----
 
 ## Need Help?
 

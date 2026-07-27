@@ -1,3 +1,11 @@
+---
+title: Grants
+description: Apply for and manage club grants and funding requests.
+icon: material/cash-multiple
+hide:
+  - toc
+---
+
 # Grants
 
 TUSA offers several grant programs throughout the year to support club activities, events, and initiatives:
@@ -11,7 +19,6 @@ TUSA offers several grant programs throughout the year to support club activitie
 
 **Note:** Available grants change throughout the year. Check this page to see what’s currently open.
 
----
 
 ## Before You Apply
 
@@ -33,7 +40,7 @@ If you **don’t** have approved bank details, your grant application can still 
 
 If your bank details **are changing:**
 
-- Submit a new **Change to Bank Signatories** form on **your club page > Club Admin tab > Bank Signatories sub-tab** and wait for TUSA Clubs Admin approval before expecting payments
+- Submit a new **Change to Bank Signatories** form on **your club dashboard > Club Admin tab > Bank Signatories sub-tab** and wait for TUSA Clubs Admin approval before expecting payments
 
 ### Eligibility
 
@@ -47,7 +54,6 @@ To apply for grants, your club must:
 
 - Have an **approved Bank Signatory Form** on file (required for payout, not application)
 
----
 
 ## What Do I Need?
 
@@ -79,11 +85,10 @@ Before starting your application, make sure you have:
 
 - Any relevant permits or approvals
 
----
 
 ## How Do I Apply?
 
-For all grants-related functions, navigate from the **club page:**
+For all grants-related functions, navigate from the **club dashboard:**
 
 - Navigate to **Resources  + Forms** tab
 - Navigate to **Grants** sub-tab
@@ -101,7 +106,6 @@ There will be a third tab bar, seguing to different functions as named:
 
 **Important:** Grant applications can only be made by affiliated clubs and must be submitted through the Club Dashboard.
 
----
 
 ## Grants Application
 
@@ -166,7 +170,6 @@ Upload all your supporting documents, any documents you upload here automaticall
 
 - Submit your application
 
----
 
 ## What Then?
 
@@ -174,11 +177,10 @@ You’ll receive confirmation your application was submitted, TUSA staff will ch
 
 A simple application might take **1-2 weeks**, while complex application could take up to **4 weeks**, at the start of the semester it could take longer. Please plan ahead to avoid any inconvinences.
 
----
 
 ## Track Your Application
 
-Under the to the **Resources + Forms > Grants** tab on **your club page**, navigate to **Grants Applied For** to follow up your application by their status:
+Under the to the **Resources + Forms > Grants** tab on **your club dashboard**, navigate to **Grants Applied For** to follow up your application by their status:
 
 | Status                 | What It Means                                  |
 | ---------------------- | ---------------------------------------------- |
@@ -202,7 +204,7 @@ If we need more information from you, you will receive an email. After that, log
 
 ### Where To Claim
 
-On your **club page**, navigate to **Resources + Forms > Grants > Grant Claims:**
+On your **club dashboard**, navigate to **Resources + Forms > Grants > Grant Claims:**
 
 - Select the approved grant you’re claiming against
 
@@ -268,7 +270,6 @@ After your event or purchase:
 
 **Important:** Failure to acquit grants may affect future applications.
 
----
 
 ## Dos And Don'ts
 
@@ -296,7 +297,6 @@ After your event or purchase:
 
 - Miss submission deadlines
 
----
 
 ## Frequently Asked Questions
 
@@ -326,7 +326,7 @@ Check these common issues:
 
 - **Did you submit a Grant Claim Form?** (Required for all grants except startup grant)
 
-- **Is your Bank Signatory Form approved?** (Club Page → Club Admin → Bank Signatories)
+- **Is your Bank Signatory Form approved?** (Club Dashboard → Club Admin → Bank Signatories)
 
 - **Was your grant application actually approved?** (Check status in Resources + Forms → Grants)
 
@@ -350,7 +350,6 @@ New clubs receive a startup grant as part of affiliation, but it can only be pai
 
 - Submit your bank details as soon as your account is open to avoid delays.
 
----
 
 ## Need Help?
 

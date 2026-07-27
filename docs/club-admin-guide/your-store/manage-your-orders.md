@@ -1,3 +1,11 @@
+---
+title: Manage Your Orders
+description: Track, update, and process store orders.
+icon: material/clipboard-list
+hide:
+  - toc
+---
+
 # Manage Your Orders
 
 You can access your store's current orders by visiting **your profile page > Store Manager**, then click on the **Orders** tab and choose the **All Orders** expanded tab.
@@ -6,7 +14,6 @@ You can access your store's current orders by visiting **your profile page > Sto
 
 **ALWAYS check if this is your store**, check the **welcome bar** at the top of the dashboard. It shows the name of the club's store you are managing.
 
----
 
 ## Order Status
 
@@ -34,7 +41,6 @@ TUSA has added these custom statuses for specific scenarios:
 | **Delivered**          | Order received by customer                         | When delivery confirmed              |
 | **Returned from Hire** | Hire equipment returned                            | For TUSA Hire Store items            |
 
----
 
 ## Viewing Orders
 
@@ -68,7 +74,6 @@ Click an order number to see:
 - Shipping address (if applicable)
 - Order notes
 
----
 
 ## Processing Orders
 
@@ -118,7 +123,6 @@ There are two types of notes:
 - **Customer Notes:** Customer receives email notification
 - **Private Notes:** Only visible to store admins
 
----
 
 ## Common Scenarios
 
@@ -147,7 +151,6 @@ If customer only collects some items:
 - Add a note specifying what was collected
 - Keep status as **Processing** or **Ready for Pickup** until complete
 
----
 
 ## Membership Orders
 
@@ -164,7 +167,6 @@ If membership tags haven’t applied:
 - Verify the product has correct tag settings
 - Contact TUSA support if issue persists
 
----
 
 ## Event Ticket Orders
 
@@ -175,7 +177,6 @@ For event ticket orders:
 - Order can usually go to **Completed** after payment
 - Attendee should receive ticket/confirmation automatically
 
----
 
 ## Tips
 
@@ -199,7 +200,6 @@ For event ticket orders:
 - If products go out of stock, update your listings
 - Prevents orders you can’t fulfil
 
----
 
 ## Need Help?
 

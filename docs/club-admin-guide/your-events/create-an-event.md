@@ -1,8 +1,15 @@
+---
+title: Creating an Event
+description: Set up and publish an event for your club.
+icon: material/calendar-plus
+hide:
+  - toc
+---
+
 # Creating an Event
 
 This guide explains how to create events for your club. You’ll need to create a draft event before you can submit an event application.
 
----
 
 ## The Process Overview
 
@@ -13,7 +20,6 @@ This guide explains how to create events for your club. You’ll need to create 
 
 **Important:** Your event won’t appear in the events grid until your event application is approved. Creating the event is just the first step.
 
----
 
 ## Creating Your Event
 
@@ -64,7 +70,6 @@ This guide explains how to create events for your club. You’ll need to create 
 - This appears on the events grid and event page
 - Recommended size: 1200×630 pixels
 
----
 
 ## Selecting Categories – CRITICAL
 
@@ -124,7 +129,6 @@ Select the type that best describes your event:
 
 **Categories control the facets (filters) on the events page.** If your event isn’t showing when someone filters by a campus or type, check your categories first.
 
----
 
 ## Event Types
 
@@ -169,7 +173,6 @@ For virtual/online events:
 - Appears in online events filter
 - Can be combined with a physical campus category for hybrid events
 
----
 
 ## Ticketing Options
 
@@ -191,7 +194,6 @@ For virtual/online events:
 - System automatically closes registration when full
 - Waitlist options may be available
 
----
 
 ## Saving Your Event
 
@@ -214,7 +216,6 @@ Even if you see a “Publish” option, your event needs to go through the appro
 - Wait for approval
 - Event gets published automatically
 
----
 
 ## After Creating Your Draft Event
 
@@ -235,7 +236,6 @@ Now that you have a draft event, you need to submit an event application:
 - **Visible in grid** – Students can now see and register for your event
 - **Notifications** – You’ll receive confirmation when approved
 
----
 
 ## Editing Your Event
 
@@ -251,7 +251,6 @@ Now that you have a draft event, you need to submit an event application:
 - Major changes (date, venue, activities) – contact TUSA first
 - May require updated event application for significant changes
 
----
 
 ## Common Mistakes
 
@@ -264,7 +263,6 @@ Now that you have a draft event, you need to submit an event application:
 | Vague title           | Students don’t know what it is      | Be specific and descriptive       |
 | Missing time          | Students don’t know when to show up | Always include start AND end time |
 
----
 
 ## Best Practice Tips
 
@@ -295,7 +293,6 @@ Great visuals are always a key to a successful event:
 - Your club logo or previous event photos work well
 - Avoid blurry or tiny images
 
----
 
 ## Cancelling an Event
 
@@ -306,7 +303,6 @@ If you need to cancel:
 - Registered attendees should be notified
 - If tickets were sold, refund process may apply
 
----
 
 ## Frequently Asked Questions
 
@@ -338,7 +334,6 @@ Check if there’s a duplicate or copy function available. Otherwise, you’ll n
 
 Contact TUSA. Date changes may require an updated event application, especially if the venue booking needs to change.
 
----
 
 ## Need Help?
 

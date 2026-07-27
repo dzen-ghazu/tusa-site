@@ -1,8 +1,15 @@
+---
+title: Hiring Equipment from TUSA
+description: Request and manage equipment hires from TUSA.
+icon: material/toolbox
+hide:
+  - toc
+---
+
 # Hiring Equipment from TUSA
 
 This guide explains how to hire equipment (marquees, tables, chairs, BBQs, etc.) from the TUSA Hire Store for your club events.
 
----
 
 ## Overview
 
@@ -16,7 +23,6 @@ TUSA provides equipment hire for club events. As a club admin, you get an automa
 - Stock is reserved when you **checkout**, not while in cart
 - The discount is **provisional** — TUSA determines your final price after reviewing your event, in accordance with their policies and procedures
 
----
 
 ## Who Can Hire Equipment
 
@@ -30,7 +36,6 @@ Only these roles get the automatic discount:
 
 **You must be logged in with the account that holds one of these roles.** The discount is tied to your account, not to the device or browser. If you’re logged in with a personal customer account — or not logged in at all — the discount won’t apply. If you don’t see it at checkout, log out and back in with your club role account.
 
----
 
 ## The Hire Process
 
@@ -73,7 +78,6 @@ After checkout:
 - Enter your **hire order number** in Field 197
 - Submit for approval
 
----
 
 ## What Happens Next
 
@@ -102,7 +106,6 @@ After checkout:
 - Stock is released
 - You’ll be notified
 
----
 
 ## Important Rules
 
@@ -136,7 +139,6 @@ Orders are only visible in the account that placed them. If multiple club admins
 
 - Contact TUSA staff (they can see all orders)
 
----
 
 ## If You Need to Change or Cancel
 
@@ -160,7 +162,6 @@ If your event is cancelled:
 
 - Stock is released for others
 
----
 
 ## Pickup and Return
 
@@ -190,7 +191,6 @@ If your event is cancelled:
 
 **Late returns or damage may affect future hire privileges.**
 
----
 
 ## Pricing and Discounts
 
@@ -234,7 +234,6 @@ You may receive:
 
 - Equipment released after payment confirmed
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -262,7 +261,6 @@ Contact TUSA to arrange. They’ll need to know who’s collecting and verify th
 
 Report it immediately at return. Damage costs may apply depending on circumstances.
 
----
 
 ## Related Guides
 
@@ -270,7 +268,6 @@ Report it immediately at return. Damage costs may apply depending on circumstanc
 
 [Creating Events](#creating-events) – Setting up your event
 
----
 
 ## Need Help?
 

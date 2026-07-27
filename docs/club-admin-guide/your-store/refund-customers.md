@@ -1,10 +1,17 @@
+---
+title: Refund Customers
+description: Handle refunds for store purchases safely and consistently.
+icon: material/cash-refund
+hide:
+  - toc
+---
+
 # Refund Customers
 
 There could always be something going wrong, but we got you covered. No matter it is a faulty product, a cancelled event, or a member changing their mind, you will be able to flow the money back and keep your customer in trust and promise of the quality work you and your club supplies.
 
 You handle refunds **entirely on Store Manager, no Stripe, nowhere else.** Your Stripe will also update according to the TUSA website. 
 
----
 
 ## How Does It Work?
 
@@ -23,7 +30,6 @@ Basically
 
 You **never log into Stripe directly**. Clubs don’t have Stripe dashboard access — your Store Manager dashboard talks to Stripe behind the scenes, and that’s the only tool you need.
 
----
 
 ## Before You Refund
 
@@ -39,7 +45,6 @@ Pause and think:
 
 If you’re not sure whether to refund, contact `clubs@tusa.utas.edu.au` for guidance before processing.
 
----
 
 ## Full Refund
 
@@ -59,7 +64,6 @@ The order status changes to **Refunded** and the customer is emailed a refund co
 
 > **One refund per order at a time.** If you’ve already submitted a refund request that’s still processing, you have to wait for it to clear before you can submit another one on the same order. If something’s gone wrong with a stuck request, contact `clubs@tusa.utas.edu.au`.
 
----
 
 ## Partial Refund
 
@@ -78,7 +82,6 @@ Use this when you’re returning some of the money but not all — refunding shi
 
 After a partial refund, the order status stays **Completed** (it’s only marked Refunded when the *entire* order is refunded). The order details show what was refunded and the original total alongside.
 
----
 
 ## Where the Refund Money Comes From
 
@@ -120,7 +123,6 @@ You’ll need TUSA’s help with the top-up route — clubs can’t do this them
 - **Larger refunds need bigger thinking.** Refunding 30 attendees from a \$20-each event = \$600 going back. Talk to TUSA *before* you process — they’ll know if your Stripe balance can cover it and what your options are if not.
 - **Loop TUSA in early.** `clubs@tusa.utas.edu.au` is the right contact for any refund situation that feels uncertain.
 
----
 
 ## What Happens to Memberships, Tickets, and Tags
 
@@ -137,7 +139,6 @@ When the customer paid, the system applied tags to them — for events, that’s
 
 > **Always verify after a refund.** Don’t trust that a tag has been removed automatically — open the member’s profile and check. If the access hasn’t been pulled, **remove it yourself** — club presidents and admins manage their own members’ tags.
 
----
 
 ## Refund Timing
 
@@ -151,7 +152,6 @@ Once you click refund, here’s what the customer experiences:
 
 Stripe controls the timing of when banks process the refund — there’s nothing you (or even TUSA) can do to speed this up. If a customer asks why it’s taking so long, tell them the standard 5–10 business days and offer to check the refund status in your dashboard if they’re worried.
 
----
 
 ## Common Situations
 
@@ -192,7 +192,6 @@ Two ways:
 - Ask them to place a new order for the same items
 - Apologise — this happens, customers are usually understanding
 
----
 
 ## When You Can’t Refund
 
@@ -204,7 +203,6 @@ Two ways:
 | **Customer is asking for a refund but it’s outside your policy** | You’re not obliged to refund. Politely explain your policy and what they signed up for. If you do refund anyway as a goodwill gesture, add a clear order note so future you understands why. |
 | **Customer paid by bank transfer or cash**                   | This is rare on the website. If it happens, don’t use the refund button — talk to `clubs@tusa.utas.edu.au` for the right way to record it. |
 
----
 
 ## Disputes and Chargebacks
 
@@ -219,7 +217,6 @@ If this happens:
 
 Disputes are stressful — they’re rare for clubs but they can happen. The single biggest thing you can do to prevent them is **respond to refund requests quickly**. A customer who’s been ignored for two weeks is more likely to dispute than one who got a friendly “we’ll sort this today.”
 
----
 
 ## Quick Reference
 
@@ -245,7 +242,6 @@ Disputes are stressful — they’re rare for clubs but they can happen. The sin
 | Help with a stuck refund or balance question  | Email `clubs@tusa.utas.edu.au`                               |
 | A dispute notification                        | Email `clubs@tusa.utas.edu.au` immediately — don’t wait      |
 
----
 
 ## Need Help?[](#need-help)
 
@@ -255,7 +251,6 @@ Disputes are stressful — they’re rare for clubs but they can happen. The sin
 
 **Online:** Use the contact form on the website
 
----
 
 ## Related Guides[](#related-guides)
 

@@ -1,10 +1,15 @@
-# Manage Your Store's Staff
+---
+title: Manage People's Access
+description: Grant and control staff access to the club store.
+icon: material/shield-account
+hide:
+  - toc
+---
 
-
+# Manage People's Access
 
 This guide explains how to add staff members to your club store so they can help with scanning tickets, processing sales, and managing orders.
 
----
 
 ## Overview
 
@@ -20,7 +25,6 @@ As a club president (store owner), you can add staff members to help run your st
 
 **Important:** Each person can only be staff at **one store** at a time. If someone is already assigned to another club’s store, they cannot be added to yours until they’re removed from that store.
 
----
 
 ## Automatic Staff
 
@@ -50,7 +54,6 @@ Use the **Team** page (below) when you need someone to have store access **witho
 
 - Temporary access for a specific task
 
----
 
 ## Who Can Manage Staff
 
@@ -78,7 +81,6 @@ You’ll see three tabs:
 
 - **Create New Staff** – Add someone who doesn’t have an account yet
 
----
 
 ## Adding an Existing User
 
@@ -107,7 +109,6 @@ Use this when the person already has a TUSA account.
 
 The person will immediately have access to your store dashboard.
 
----
 
 ## Creating a New Staff Member
 
@@ -133,7 +134,6 @@ The new user will:
 
 - Receive login details by email (if auto-password selected)
 
----
 
 ## Viewing Current Staff
 
@@ -148,7 +148,6 @@ The **Current Staff** tab shows everyone assigned to your store:
 
 **Note:** The store owner (you) is listed but cannot be removed.
 
----
 
 ## Removing Staff
 
@@ -188,7 +187,6 @@ If you added helpers just for this event, remember to remove their store access:
 
 Event cleanup isn’t just putting things in the bin – it includes checking who has access to your store and customer data!
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -247,7 +245,6 @@ Check that:
 
 - They have a TUSA account (if not, use “Create New Staff”)
 
----
 
 ## Related Guides
 

@@ -1,8 +1,15 @@
+---
+title: Event Check-In
+description: Check attendees in at your event using the event check-in flow.
+icon: material/qrcode-scan
+hide:
+  - toc
+---
+
 # Event Check-In
 
 This guide covers how to check in attendees at your club events using the QR code scanner and manage attendance.
 
----
 
 ## Accessing Event Check-In
 
@@ -16,7 +23,6 @@ This guide covers how to check in attendees at your club events using the QR cod
 
 **Note:** The tab is called “Store Management” but the URL shows “store-manager”.
 
----
 
 ## Event List View
 
@@ -28,7 +34,6 @@ Each event in your list shows three action icons:
 | **QR Code with bar**   | Launch QR scanner for check-in |
 | **Kebab (three dots)** | More options menu              |
 
----
 
 ## QR Code Check-In
 
@@ -59,7 +64,6 @@ Each event in your list shows three action icons:
 - **Steady hand** – Hold device steady for faster scanning
 - **Backup plan** – Know how to manually check the attendee list if needed
 
----
 
 ## More Options Menu
 
@@ -101,7 +105,6 @@ Detailed booking information:
 - Payment status
 - Any special requests or notes
 
----
 
 ## Managing Attendance
 
@@ -123,7 +126,6 @@ Detailed booking information:
 
 The system should prevent the same ticket being scanned twice. If someone tries to use an already-checked-in ticket, you’ll be notified.
 
----
 
 ## Before Your Event
 
@@ -147,7 +149,6 @@ If you have multiple entrances or check-in stations:
 - Each needs access to Club Events
 - System updates in real-time
 
----
 
 ## After Your Event
 
@@ -160,7 +161,6 @@ After the event, you can use the attendee list to:
 - Report on event success
 - Follow up with no-shows if needed
 
----
 
 ## Troubleshooting
 
@@ -183,7 +183,6 @@ After the event, you can use the attendee list to:
 - Check the order was completed (not pending)
 - Verify they bought from YOUR club’s store (not a different club)
 
----
 
 ## Need Help?
 

@@ -1,10 +1,17 @@
+---
+title: Event Applications
+description: Review and manage event applications and approvals.
+icon: material/file-sign
+hide:
+  - toc
+---
+
 # Event Applications
 
 This guide covers event applications, risk assessments, temporary stall permits, and liquor permits for your club activities.
 
 **Before you start:** You need to create a draft event before submitting an event application. See [Creating Events] first.
 
----
 
 ## How to Access Event Applications
 
@@ -29,7 +36,6 @@ Event applications are submitted through the **Resources** tab in your club grou
 | **Liability Waivers**   | View signed waivers                   |
 | **Parental Consent**    | View consent forms for under-18s      |
 
----
 
 ## The Key Rule
 
@@ -39,7 +45,6 @@ The only exception is a regular committee/admin meeting of your club executives.
 
 When in doubt, submit an application. It’s always better to check than to run an unapproved event.
 
----
 
 ## What’s in an Event Application?
 
@@ -68,7 +73,6 @@ These are automatically included – you just need to confirm you’ll follow th
 
 Depending on what your event involves, you’ll get additional risk sections:
 
----
 
 ## Food at Your Event
 
@@ -104,7 +108,6 @@ If you’re having food trucks or external caterers:
 - Temperature logs
 - Allergen information
 
----
 
 ## Alcohol at Your Event
 
@@ -163,7 +166,6 @@ The website automatically restricts ticket purchases for juniors using membershi
 
 If you have junior members in your club, clearly communicate which events they can and cannot attend.
 
----
 
 ## Infrastructure & Equipment
 
@@ -198,7 +200,6 @@ If you’re hiring equipment from TUSA (marquees, tables, chairs, BBQs, etc.), y
 
 [Click here to see the full guide.](./3-hiring-equipment-from-TUSA.md)
 
----
 
 ## Transport & Travel
 
@@ -220,7 +221,6 @@ If members are driving themselves or carpooling:
 - Meeting point procedures
 - Food/Produce collection trips
 
----
 
 ## Outdoor & Adventure Activities
 
@@ -272,7 +272,6 @@ For conferences, retreats, or trips with accommodation but not adventure activit
 - Participant management
 - Emergency procedures
 
----
 
 ## Sports & Physical Activities
 
@@ -288,7 +287,6 @@ For events at UniGym or involving physical activities:
 
 These have specific control measures around supervision, protective equipment, and participant experience.
 
----
 
 ## Temporary Stall Permits
 
@@ -334,7 +332,6 @@ UTAS manages indoor spaces directly. TUSA can approve outdoor activities but ind
 
 Whether indoor or outdoor, food handling requirements apply – see the Food section above. You’ll need appropriate food safety documentation regardless of location.
 
----
 
 ## Submitting Your Application
 
@@ -412,7 +409,6 @@ If you’ve previously uploaded documents to your club’s document library:
 - Review everything and submit when ready
 - You’ll receive confirmation and can track status in your dashboard
 
----
 
 ## Blanket Assessments
 
@@ -423,7 +419,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - The assessment covers all instances within that period
 - Still need to follow all control measures each time
 
----
 
 ## The Approval Process
 
@@ -457,7 +452,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 
 - Resubmit
 
----
 
 ## After Approval
 
@@ -480,7 +474,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - Report any incidents that occurred
 - Complete any required acquittal (for grants)
 
----
 
 ## Security Requirements
 
@@ -490,7 +483,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - Security timetable
 - Contact information
 
----
 
 ## Need Help?
 

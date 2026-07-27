@@ -1,3 +1,11 @@
+---
+title: Membership Products
+description: Create membership products and configure how members join.
+icon: material/card-account-details
+hide:
+  - toc
+---
+
 # Membership Products
 
 Membership is not just a title for your club members, it is a symbol of belonging. Create a membership product to segue others into your club and become a member or unlock your members to exclusive events, and use memberships and the tag system to manage your member's privileges and the exclusive contents they could get.
@@ -17,7 +25,6 @@ Membership is not just a title for your club members, it is a symbol of belongin
   
   - When the tag expires, the customer's access will be revoked.
 
----
 
 ## What Do I Need?
 
@@ -38,12 +45,11 @@ There are **two** essential things you need to pay attention:
 
 Your club group needs to know which tags grant access and set a proper expiry on it:
 
-- Go to **your club page**.
+- Go to **your club dashboard**.
 - Navigate to **Club Admin → Membership Rules + Tags**
 - Set which tags to c (e.g., “Your Club 2026”)
 - Set when tags expire (e.g., 31/12/2026)
 
----
 
 ## Steps For Your Membership Product
 
@@ -125,7 +131,6 @@ Example: “Chess Club 2026” AND “Chess Club 2027”
 - Click **Save Product**
 - Your membership product is now live!
 
----
 
 ## For Ticket Sales
 
@@ -150,7 +155,6 @@ When creating an event ticket:
 - Include the event ticket
 - Apply membership tags on purchase
 
----
 
 ## Student vs Non-Student Pricing
 
@@ -192,7 +196,6 @@ Many clubs have different prices for students and non-students, to achieve this,
 
 Both student and non-student purchasers get the same membership tag – they just pay different prices.
 
----
 
 ## Members-Only Products
 
@@ -219,7 +222,6 @@ You may want special merchandise only sold to club members.
 
 **Result:** Only current members can see and purchase.
 
----
 
 ## The Two Sides of Every Club
 
@@ -253,7 +255,6 @@ The group is your club’s **private community**. Only members who hold the memb
 
 **The membership tag is the key:** Buying membership in the store grants the tag, which unlocks the group.
 
----
 
 ## Excluding Certain Users
 
@@ -277,7 +278,6 @@ You may have some products that under-18s can’t purchase (insurance, legal req
 | Non-students          | Use Required Tags “Student” instead |
 | Specific member types | The relevant tag                    |
 
----
 
 ## Checklist
 
@@ -292,7 +292,6 @@ Before your membership product is ready:
 - **Group rules** are set (in Club Dashboard \> Membership Rules)
 - **Publish** your product
 
----
 
 ## Test It
 
@@ -312,7 +311,6 @@ Before your membership product is ready:
 | Product not visible | Is category set? Is it Published?               |
 | Wrong people see it | Check Required/Excluded tags                    |
 
----
 
 ## Related Guides
 
@@ -322,7 +320,6 @@ Before your membership product is ready:
 
 [Shipping Setup](./3-setting-up-shipping-for-your-store.md) – Required for physical products (not memberships)
 
----
 
 *Membership products are digital – no shipping required. The tag is the product!*
 

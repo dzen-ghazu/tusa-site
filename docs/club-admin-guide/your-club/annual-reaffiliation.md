@@ -1,10 +1,17 @@
+---
+title: Annual Reaffiliation
+description: Complete the yearly reaffiliation process and keep your club active.
+icon: material/calendar-refresh
+hide:
+  - toc
+---
+
 # Annual Reaffiliation
 
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
 
-Before this guide, please make sure you have understood [How Accounts Work](../1-Getting-Started/4-How-Accounts-Work.md) for the TUSA site.
+Before this guide, please make sure you have understood [How Accounts Work](../1-Getting-Started/2-How-Accounts-Work.md) for the TUSA site.
 
----
 
 ## What Is It?
 
@@ -20,7 +27,6 @@ Reaffiliation is the annual renewal process for all TUSA clubs. It ensures that:
 
 **Think of it like renewing your club’s membership with TUSA each year.**
 
----
 
 ## When Is it?
 
@@ -38,7 +44,6 @@ Reaffiliation period **starts from late semester 2 to the start of semester 1, c
 - Reaffiliation starts
 - Deadline approaches
 
----
 
 ## Who Should Do It?
 
@@ -57,7 +62,6 @@ The **Club President** (or **acting president**) should complete the reaffiliati
 
 **Tip:** You can prepare the information with your committee, but only the president should be the one submitting the final form.
 
----
 
 ## What Will Happen?
 
@@ -122,7 +126,6 @@ For best practice, there are some situations you may want to avoid:
 | Role-based email removed but person kept   | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
 | Personal email user left but account kept  | Wrong person has access                    | Remove them from reaffiliation                               |
 
----
 
 ## What to Prepare?
 
@@ -181,7 +184,7 @@ You need to attach a current membership list to your reaffiliation. This is used
 
 #### How To Get It?
 
-Visit your **Club Page**:
+Visit your **Club Dashboard**:
 
 - Navigate to tab **Club Admin**
 - Navigate to sub-tab **Stats + CSV Export**
@@ -221,7 +224,6 @@ This means the membership list you export should reflect accurate, up-to-date st
 
 Clubs must have at least 50% students on their executive committees. A president can be a non-student, as long as associates don’t exceed 50% of the executive. If a committee member’s status changes mid-year (via the annual confirmation), it may affect your club’s ratio — TUSA will work with you if this happens.
 
----
 
 ## Committee Review
 
@@ -260,7 +262,6 @@ When your reaffiliation is processed:
 
 This is an annual cleanup all club presidents should do to make sure only current committee members are included.
 
----
 
 ## Step-by-Step Guide
 
@@ -268,7 +269,7 @@ This is an annual cleanup all club presidents should do to make sure only curren
 
 - Log in to the TUSA website as the **club president**
 
-- Go to your **club page**
+- Go to your **club dashboard**
 
 - Navigate to the **Resources + Forms** tab
 - Navigate to the **Reaffiliation** sub-tab
@@ -387,7 +388,6 @@ For your media files, some tips could be:
 
 Then you are good to go!
 
----
 
 ## What Happens Then?
 
@@ -410,7 +410,6 @@ When your reaffiliation is processed:
 
 Reaffiliation usually takes **3-5 business days**, although it may take **up to 2 weeks**. Your club can continue operating while processing.
 
----
 
 ## Committee Member Access
 
@@ -423,7 +422,6 @@ Different committee member roles have different accesses, the account will have 
 | Secretary       | Full Access    | Limited     | Admin       |
 | Other Committee | Limited        | Limited     | Moderator   |
 
----
 
 ## Common Issues and Solutions
 
@@ -471,7 +469,6 @@ There are some common scearios that could be tricky, and there are some troubles
 
 **Check:** Make sure your **Personal Email** field has YOUR email, not the club email. Notifications go to personal email.
 
----
 
 ## Checklist
 
@@ -525,7 +522,6 @@ Here is a check list for you while completing your reaffiliation:
 
 - [ ] Verify removed committee members no longer have admin access
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -585,7 +581,6 @@ If your club uses a handed-down account:
 
 - They complete next year’s reaffiliation
 
----
 
 ## Need Help?
 
