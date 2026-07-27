@@ -1,3 +1,11 @@
+---
+title: Membership Rules And Tags
+description: Use rules and tags to control membership access and benefits.
+icon: material/tag-multiple
+hide:
+  - toc
+---
+
 # Membership Rules And Tags
 
 Membership rules and tags are the tools for you as a club admin to grant full control of:
@@ -18,7 +26,6 @@ Both work together to create your membership system, you can make the configurat
 | **Membership Rules**    | Your Club's Page > Club Admin > Membership rules and tags | Which tags grant access to your club group      |
 | **Membership Products** | Product Settings (When creating or modifying products)    | Which tags are applied on purchase, who can buy |
 
----
 
 ## What Can Tags Do?
 
@@ -31,7 +38,6 @@ Membership tags can:
 
 When someone purchases a membership from your club store, they receive a tag. That tag unlocks access to your club’s group and member benefits.
 
----
 
 ## Membership Rules
 
@@ -84,7 +90,6 @@ Let's say Chess Club allows current members to subscribe for coming years:
 
 This allows members to purchase future year memberships with each membership activating and expiring appropriately.
 
----
 
 ### Tag Expiry
 
@@ -112,7 +117,6 @@ When a member’s tag expires:
 
 Tag expiry is fully automatic. You don’t need to manually remove old tags or update settings when the year ends.
 
----
 
 ### Common Scenarios
 
@@ -147,7 +151,6 @@ If your current tag has expired, and you need to add a new one:
 - Set “Remove Tag” for other slots (clears old settings)
 - Click Save
 
----
 
 ### Best Practices
 
@@ -174,7 +177,6 @@ You can set up multiple years in advance so:
 - Tags activate immediately but expire on schedule
 - Reduces admin work each year
 
----
 
 ### Understanding the Audit Log
 
@@ -189,7 +191,6 @@ Every tag change is logged for your club:
 
 TUSA staff can access these logs if issues arise.
 
----
 
 ### Troubleshooting
 
@@ -220,7 +221,6 @@ If everything looks right and access still isn’t working, see [Reporting an Is
 - Are you on your club’s dashboard (not the main TUSA dashboard)?
 - Do you have organiser status in your club group?
 
----
 
 ## Membership Products
 
@@ -386,7 +386,6 @@ If an event cannot accommodate underage customers due to reasons such as insuran
 
 This will make student members only see the $30 option, and non-students only see $50.
 
----
 
 ## How Tags Flow Through the System
 
@@ -399,7 +398,6 @@ This will make student members only see the $30 option, and non-students only se
 7. Daily check on tag expiry
 8. When expired → Tag removed → Access revoked
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -428,7 +426,6 @@ This is complex – contact TUSA for advice. One option is to manually apply tag
 - Update your group rules if needed
 - The old product stays hidden (as Draft)
 
----
 
 ## Related Guides
 
@@ -438,6 +435,5 @@ This is complex – contact TUSA for advice. One option is to manually apply tag
 
 [Reporting an Issue](../6-general/1-reporting-an-issue.md) — When something isn’t working
 
----
 
 *Membership rules give you control over your club’s access. Set them up once per year and let the system handle the rest.*
