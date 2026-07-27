@@ -12,6 +12,7 @@ hide:
 *[IGM]: Inaugural General Meeting
 *[SGM]: Special General Meeting
 *[UTAS]: University of Tasmania
+*[TUSA]: Tasmanian University Student Association
 
 # Start Your Club
 
@@ -27,6 +28,7 @@ Looking forward to starting your new club? No worries, this guide will assist yo
 - **IGM**: Inaugural General Meeting
 - **SGM**: Special General Meeting
 - **UTAS**: University of Tasmania
+- **TUSA**: Tasmanian University Student Association
 
 ## Process Overview
 
@@ -112,7 +114,9 @@ Hence, please be ready with your meeting by having:
 - Any questions about requirements
 - Ideas about who might be on your executive committee
 
-**Please** [**book in a time to meet with your CSO here**](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled).
+**Please** [**book in a time to meet with your CSO**](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled).
+
+[Book Now](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled){ .md-button .md-button--primary }
 
 During the meeting, ask any questions especially for your club's constitution and the IGM as you will need to finish them to submit your affiliation application
 

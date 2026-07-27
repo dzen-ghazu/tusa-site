@@ -44,10 +44,50 @@ Copyright &copy; 2026 The authors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+
+nav = [
+  { "Club admin guide" = [
+      "club-admin-guide/index.md",
+      { "Getting Started" = [
+          "club-admin-guide/getting-started/index.md",
+          { "Start Your Club" = "club-admin-guide/getting-started/start-your-club.md" },
+          { "Find Your Way Around" = "club-admin-guide/getting-started/find-your-way-around.md" },
+          { "How Accounts Work" = "club-admin-guide/getting-started/how-accounts-work.md" },
+          { "Take Payments (Stripe)" = "club-admin-guide/getting-started/take-payments-stripe.md" },
+          { "Report A Problem" = "club-admin-guide/getting-started/report-a-problem.md" },
+      ]},
+      { "Your Club" = [
+          "club-admin-guide/your-club/index.md",
+          { "Annual Reaffiliation" = "club-admin-guide/your-club/annual-reaffiliation.md" },
+          { "Club Documents" = "club-admin-guide/your-club/club-documents.md" },
+          { "Grants" = "club-admin-guide/your-club/grants.md" },
+      ]},
+      { "Your Store" = [
+          "club-admin-guide/your-store/index.md",
+          { "Your Products" = "club-admin-guide/your-store/your-products.md" },
+          { "Deliver Your Products" = "club-admin-guide/your-store/deliver-your-products.md" },
+          { "Manage Your Orders" = "club-admin-guide/your-store/manage-your-orders.md" },
+          { "Refund Customers" = "club-admin-guide/your-store/refund-customers.md" },
+      ]},
+      { "Your Memberships" = [
+          "club-admin-guide/your-memberships/index.md",
+          { "Membership Products" = "club-admin-guide/your-memberships/membership-products.md" },
+          { "Membership Rules and Tags" = "club-admin-guide/your-memberships/membership-rules-and-tags.md" },
+      ]},
+      { "Your People" = [
+          "club-admin-guide/your-people/index.md",
+          { "Manage Your Members" = "club-admin-guide/your-people/manage-your-members.md" },
+          { "Manage Your Store Staff" = "club-admin-guide/your-people/manage-your-store-staff.md" },
+      ]},
+      { "Your Events" = [
+          "club-admin-guide/your-events/index.md",
+          { "Create An Event" = "club-admin-guide/your-events/create-an-event.md" },
+          { "Event Applications" = "club-admin-guide/your-events/event-applications.md" },
+          { "Hire From TUSA" = "club-admin-guide/your-events/hire-from-tusa.md" },
+          { "Event Check-In" = "club-admin-guide/your-events/event-check-in.md" },
+      ]},
+  ]},
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
