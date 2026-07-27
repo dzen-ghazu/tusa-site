@@ -1,4 +1,12 @@
-# Report Your Issue
+---
+title: Report A Problem
+description: How to report issues and get help from TUSA.
+icon: material/alert-circle
+hide:
+  - toc
+---
+
+# Report A Problem
 
 If something on the TUSA site isn’t working as you expect, **DO NOT try to fix it yourself.**
 
@@ -16,13 +24,11 @@ The scenario applies to anything on the site:
 
 And many other things.
 
----
 
 ## Where to send it
 
 Email the TUSA Clubs & Societies team: **clubs@tusa.edu.au**
 
----
 
 ## What to Send?
 
@@ -48,7 +54,6 @@ A screenshot can justify most of things in one go. Capture the **whole browser w
 
 That’s it. Send it through, and TUSA staff will diagnose.
 
----
 
 ## What's Next?
 
@@ -62,7 +67,6 @@ If the site is **down for everyone** (not just you) or **money is involved** (a 
 
 For everything else, a normal message is fine. TUSA will reply once the issue has been diagnosed.
 
----
 
 ## Common situations
 

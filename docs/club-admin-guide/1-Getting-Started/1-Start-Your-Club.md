@@ -1,10 +1,32 @@
-# Start Your Club & Society
+---
+title: Start Your Club
+description: Step-by-step guide to starting a new club and completing the affiliation process.
+icon: material/rocket
+hide:
+  - toc
+---
+
+*[CSO]: Club & Society Officer
+*[EOI]: Expression of Interest
+*[AGM]: Annual General Meeting
+*[IGM]: Inaugural General Meeting
+*[SGM]: Special General Meeting
+*[UTAS]: University of Tasmania
+
+# Start Your Club
 
 Welcome to TUSA! Glad to see you here.
 
 Looking forward to starting your new club? No worries, this guide will assist you step by step until your shiny new club is ready to go.
 
----
+## Acronym
+
+- **CSO**: Club & Society Officer
+- **EOI**: Expression of Interest
+- **AGM**: Annual General Meeting
+- **IGM**: Inaugural General Meeting
+- **SGM**: Special General Meeting
+- **UTAS**: University of Tasmania
 
 ## Process Overview
 
@@ -15,16 +37,14 @@ Overall, the process includes following steps:
 1. Define your club
 2. Gather your people
 3. Express your interest
-4. Meet with a TUSA Club & Society Officer (CSO)
+4. Meet with a CSO
 5. Draft your constitution
 6. Hold your IGM
 7. Once invitation received, submit a full affiliation application
 
 Once your application is reviewed and approved, you club will be automatically created and affiliated with TUSA, rockin' roll!
 
-**Please note that you CANNOT directly apply for affiliation. You MUST submit an EOI AND meet with a Club Officer beforehand.**
-
----
+**Please note that you CANNOT directly apply for affiliation. You MUST submit an EOI AND meet with the CSO beforehand.**
 
 ## Timeline
 
@@ -32,17 +52,13 @@ The whole affiliation process will take approximately **2-4 weeks**, plan ahead 
 
 ![affiliation_timeline](../../club-admin-guide/media/affiliation_timeline.png)
 
----
-
 ## Step 1: Define Your Club
 
 What has interested you in starting your club & society? Are you looking to bring students together to save the Tasmanian Devil, or whoever is interested in astrology? You will need to decide the aim of your club and what you hope to achieve. 
 
 However, **remind that TUSA won't consider affiliating new clubs or societies that have the same objectives as existing clubs.** You can check all our existing clubs [on our website here.](https://tusa.org.au/find-a-club-society/) 
 
-If you find there is a club that catering your new club's idea and objectives, please consider joining the existing club. If you don't, please contact the TUSA Club & Society Officer (CSO) at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au)
-
----
+If you find there is a club that catering your new club's idea and objectives, please consider joining the existing club. If you don't, please contact the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au)
 
 ## Step 2: Gather Your People
 
@@ -70,11 +86,9 @@ Among your people, you will need to nominate the executive committee to oversee 
 
 Keep in mind that **OVER HALF of your Executive Committee have to be students** as you are creating a student club if affiliating with TUSA.
 
-You are going to hold the official election for these roles during your **Inaugural General Meeting (IGM)**, which is a one-time compulsory meeting for creating your club
+You are going to hold the official election for these roles during your **IGM**, which is a one-time compulsory meeting for creating your club
 
----
-
-## Step 3: Express Your Interest
+## Step 3: Submit Your EOI
 
 The first step is to let us know your amazing club idea! Email us at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) and make sure you tell us:
 
@@ -83,11 +97,9 @@ The first step is to let us know your amazing club idea! Email us at [clubs@tusa
 - What the club is about
 - Why you want to start this club
 
----
+## Step 4: Meet with a CSO
 
-## Step 4: Meet with a Club Officer
-
-After your club idea has been verified possible, arrange a time and meet with the TUSA Club & Society Officer (CSO). This meeting here is for you to:
+After your club idea has been verified possible, arrange a time and meet with the CSO. This meeting here is for you to:
 
 - Discuss your club idea
 - Understand the requirements for affiliation
@@ -102,9 +114,7 @@ Hence, please be ready with your meeting by having:
 
 **Please** [**book in a time to meet with your CSO here**](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled).
 
-During the meeting, ask any questions especially for your club's constitution and the Inaugural General Meeting (IGM) as you will need to finish them to submit your affiliation application
-
----
+During the meeting, ask any questions especially for your club's constitution and the IGM as you will need to finish them to submit your affiliation application
 
 ## Step 5: Draft Your Constitution
 
@@ -115,35 +125,33 @@ Your club is required to write a constitution to become affiliated with TUSA. A 
 While writing your constitution please pay attention that:
 
 - Your club's aims and objectives are different from any other clubs, as this is required for your club to be affiliated.
-- Do NOT USE "UTAS" or "University of Tasmania" in your club's name, use things like "Tasmanian University" or "TUSA" instead.
+- Do NOT USE "UTAS" in your club's name, use things like "Tasmanian University" or "TUSA" instead.
 - Most TUSA Clubs are not incorporated and recognised as:
   - Sub-entity of TUSA
   - Not a legal entity
   - Cease to exist if disaffiliated from TUSA
 
-After you have drafted your constitution, email a copy to a Club & Society Officer (CSO) at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) for comments and advice before officially submitting for approval of the **Inaugural General Meeting (IGM)**.
+After you have drafted your constitution, email a copy to the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) for comments and advice before officially submitting for approval of the **IGM**.
 
-When your club is created, the constitution **must** exist already. If this is not the case, contact a TUSA Club Officer **IMMEDIATELY**.
+When your club is created, the constitution **must** exist already. If this is not the case, contact the CSO **IMMEDIATELY**.
 
 ### Review Your Constitution
 
 If you want to revise your constitution, make sure you either:
 
-- Involve it at the Annual General Meeting (AGM), which is a yearly recurring meeting for your club administrative work's assessment
+  - Involve it at the AGM, which is a yearly recurring meeting for your club administrative work's assessment
   - Find the [AGM Agenda Template](https://tusa-dev.its.utas.edu.au/wp-content/uploads/2025/04/AGM-Agenda-Template-TUSA-2024.docx) and the [AGM Meetings Template](https://www.tusa.org.au/wp-content/uploads/2024/05/AGM-Minutes-TUSA-Template-2024.docx) on our website
-- Hold a one-time Special General Meeting (SGM) for constitution purpose only
+  - Hold a one-time SGM for constitution purpose only
 
----
+## Step 6: IGM
 
-## Step 6: Inaugural General Meeting (IGM)
-
-Inaugural General Meeting (IGM) is a one-time meeting that officially marks the founding of your club. During IGM, you need to:
+IGM is a one-time meeting that officially marks the founding of your club. During IGM, you need to:
 
 - Elect your executive committee
 - Adopt the constitution
 - Select the executive committee members
 
-Your IGM must observes the [Roberts Rules Standing Orders](https://robertsrules.com/), be recorded with meeting minutes, and follows [a meeting flow here.](https://www.tusa.org.au/wp-content/uploads/2022/07/CS-The-Meeting-Cycle.pdf)
+Your IGM must observe the [Roberts Rules Standing Orders](https://robertsrules.com/), be recorded with meeting minutes, and follows [a meeting flow here.](https://www.tusa.org.au/wp-content/uploads/2022/07/CS-The-Meeting-Cycle.pdf)
 
 You can use similar minutes template as the AGM one, but make sure your minutes:
 
@@ -151,15 +159,13 @@ You can use similar minutes template as the AGM one, but make sure your minutes:
 - Lists full names of all attendees
 - Records all motions with mover and seconder, and outcome (CARRIED or FAILED)
 
-In your meeting, please include the Acknowledgement of Country, the University of Tasmania and Riawunna has specific guidelines that you can refer [by clicking here](https://www.utas.edu.au/uni-life/aboriginal-students-riawunna/aboriginal-community-engagement).
-
----
+In your meeting, please include the Acknowledgement of Country, and UTAS and Riawunna have specific guidelines that you can refer [by clicking here](https://www.utas.edu.au/uni-life/aboriginal-students-riawunna/aboriginal-community-engagement).
 
 ## Step 7: Submit Your Affiliation Application
 
-After your meeting with CSO, if:
+After your CSO meeting, if:
 
-- Your meeting with the Club Officer is successful
+- Your CSO meeting is successful
 - Your club idea is viable, and it meets all TUSA requirements
 
 You will receive the invitation to submit the affiliation application.
@@ -183,8 +189,6 @@ Your application **MUST** include:
 - All committee members' contact details
 - Student IDs
 
----
-
 ## What Happens After Approval?
 
 When your application is approved, the system automatically creates:
@@ -201,21 +205,19 @@ When your application is approved, the system automatically creates:
 
 You’ll receive login details by email and can start setting up your club.
 
----
-
 ## Frequently Asked Questions (FAQs)
 
-### Can I skip the "EOI" part or the meeting with CSO, and just apply for affiliation?
+### Can I skip the EOI part or the CSO meeting, and just apply for affiliation?
 
 **NO**. They are required steps. This ensures clubs are viable, and you understand the requirements before investing time in a full application.
 
 ### What if a similar club already exists?
 
-The Club Officer will discuss this in your meeting. You may be able to join the existing club, or there may be room for a distinct club if the focus is different enough.
+The CSO will discuss this in your meeting. You may be able to join the existing club, or there may be room for a distinct club if the focus is different enough.
 
 ### How many members do I need?
 
-There’s a minimum member requirement – the Club Officer will confirm the current number in your meeting.
+There’s a minimum member requirement – the CSO will confirm the current number in your meeting.
 
 ### Do I need a constitution?
 
@@ -224,8 +226,6 @@ There’s a minimum member requirement – the Club Officer will confirm the cur
 ### What if my application is rejected?
 
 You’ll receive feedback on why. Common issues can often be fixed and resubmitted.
-
----
 
 ## Need Help?
 

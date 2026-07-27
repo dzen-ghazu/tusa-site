@@ -1,10 +1,17 @@
+---
+title: How Accounts Work
+description: Understand personal, institutional, and club account structures in TUSA.
+icon: material/account-cog
+hide:
+  - toc
+---
+
 # How Accounts Work
 
 This guide will explain how clubs and accounts are set up in the TUSA system. Reading this document will save you a lot of confusion especially during club handovers and reaffiliation.
 
-The key takeaway is: **Your club admin accounts can be role-based, meaning they are separated from your personal accounts.** Your personal account/information will be **linked** to your role's club admin account, and will be **detached** after you leave. You **separate** your club's admin role/tasks from your club's member role/tasks by logging into different accounts.
+The key takeaway is: **Your club admin accounts ARE ALWAYS role-based, meaning they are separated from your personal accounts.** Your personal account/information will be **linked** to your role's club admin account, and will be **detached** after you leave. You **separate** your club's admin role/tasks from your club's member role/tasks by logging into different accounts.
 
----
 
 ## The Club President Account
 
@@ -68,7 +75,6 @@ It is very critical to make your personal email unique. The **login email** stay
 
 When TUSA needs to contact the president personally, they reach Alex, not “whoever happens to check the club inbox.”
 
----
 
 ## Find the Real Person
 
@@ -83,7 +89,7 @@ There are various situations that a club admin needs to be contacted:
 
 Although the role-base club admin won't directly show as the real person behind the role, it is essential to provide access this person's real information instead of going undercover fully. 
 
-The actual person’s information can be found on **Club Admin Account Page:** 
+The actual person’s information can be found on **Club Admin Account Dashboard:** 
 
 - Select **Profile** tab
 - Select **View** sub-tab 
@@ -122,7 +128,6 @@ The club admin's personal details are **internal**, it is not visible to regular
 
 This protects personal contact details while still allowing the right people to reach the right person.
 
----
 
 ## Other Club Admin / Exec Committee Accounts
 
@@ -180,7 +185,6 @@ Different committee member will have different access to different things:
 | Store staff access   | Can manage products and orders         |
 | Committee role badge | Identifies their role in the directory |
 
----
 
 ## Accounts v.s. Email Addresses
 
@@ -296,7 +300,6 @@ The president account is the **keystone** that holds the store and group togethe
 
 - **Update your details annually** — during reaffiliation
 
----
 
 ## Separate Your Personal Activity from the Club's 
 
@@ -323,7 +326,6 @@ One example could be:
 - **Club purchase:** Hiring equipment for a club event — **use the club admin account**
 - **Personal purchase:** Buying something for yourself — **use your personal account**
 
----
 
 ## Related Guides
 
@@ -333,6 +335,5 @@ One example could be:
 
 [Reporting an Issue] — When something’s not working
 
----
 
 *This setup is what lets your club continue year after year, no matter who’s leading.*

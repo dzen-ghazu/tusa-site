@@ -1,16 +1,22 @@
-# Website Navigation
+---
+title: Find Your Way Around
+description: Learn the main navigation areas of the club admin site and what each tab does.
+icon: material/map
+hide:
+  - toc
+---
+
+# Find Your Way Around
 
 This guide will help you navigate the TUSA website and find what you need. As a club admin, it is important for you to be familar with **three** pages:
 
-1. Your account page
-2. Your club page
-3. Your club's store manager
+1. Your Account Dashboard
+2. Your Club Dashboard
+3. Your Store Manager
 
 We will also cover important tabs in these pages.
 
----
-
-## Your Account Page
+## Your Account Dashboard
 
 Each account will have its own profile page, you can access it by:
 
@@ -28,9 +34,9 @@ Your account profile page will greet you with:
 
 **We encourage members to keep their profile name and avatar accurate**. This information is used to verify identity when accessing deals and other member benefits.
 
-### Account Page Tabs
+### Account Dashboard Tabs
 
-The account page will also greet you with a tab bar, including tabs below:
+The account dashboard will also greet you with a tab bar, including tabs below:
 
 | Tab                  | What’s Here                     | URL Pattern                              |
 | -------------------- | ------------------------------- | ---------------------------------------- |
@@ -44,9 +50,7 @@ The account page will also greet you with a tab bar, including tabs below:
 | **Events**           | Available events                | `/my/members/{username}/etn-main/`       |
 | **Workflow**         | Workflow inbox                  | `/my/members/{username}/workflow-inbox/` |
 
----
-
-## Your Club Page
+## Your Club Dashboard
 
 If you are the member of a club, you will be able to access the club's page by: 
 
@@ -54,7 +58,7 @@ If you are the member of a club, you will be able to access the club's page by:
 - Visiting `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-handle}/`
   - Replace the `{club-handle}` with your club's handle
 
-### Club Page Tabs
+### Club Dashboard Tabs
 
 *All "URL Pattern" follows `https://tusa-dev.its.utas.edu.au/clubs/clubs-index` .*
 
@@ -163,17 +167,15 @@ After grants submission, the funds will be processed on club's previously approv
 
 **Important:** Grant application approval **DOES NOT MEAN** receiving money. You must submit a Grant Claim to receive funds (except startup grants).
 
----
-
 ## Store Manager (Admin Only)
 
 **URL:** `https://tusa-dev.its.utas.edu.au/store-manager/`
 
 Store manager is where you manage your club’s store, including products, orders, and many other settings.
 
-You can access the store manager via the URL above, or you can access it through **Your Account Page > Store Management** tab.
+You can access the store manager via the URL above, or you can access it through **Your Account Dashboard > Store Management** tab.
 
-### Why not in Club Page?
+### Why not in Club Dashboard?
 
 For each admin account, **We only allow ONE store of the administrated clubs can be accessed.** 
 
@@ -202,7 +204,5 @@ You may need to be demoted to regular member first, then re-promote, as getting 
 - A different login for Club B admin duties
 
 This avoids access conflicts and keeps things clear, zero confusion about which store you’re managing.
-
----
 
 *Keep your profile updated for the best experience across the TUSA platform.*

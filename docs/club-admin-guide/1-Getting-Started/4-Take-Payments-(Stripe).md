@@ -1,10 +1,17 @@
-# Manage Payments (Stripe)
+---
+title: Take Payments (Stripe)
+description: Set up Stripe and manage online payments for club activities.
+icon: material/credit-card
+hide:
+  - toc
+---
+
+# Take Payments (Stripe)
 
 Stripe is the financial platform used in TUSA for clubs to accept payments, manage billing and revenues, and customise their own business models.
 
 It is **entirely managed by TUSA** on the club’s behalf, it requires **No Setup**, **No Configuration**, and **No Login** from you.
 
----
 
 ## That's it?
 
@@ -67,7 +74,6 @@ Then TUSA staff will update the details for you.
 
 **You cannot change bank details in any other way, you MUST use the form.**
 
----
 
 ## Frequently Asked Questions (FAQs)
 
@@ -83,7 +89,6 @@ The Stripe account is connected to the club, not the individual. TUSA staff upda
 
 Stripe charges standard transaction fees on each sale. Check [Stripe’s pricing page](https://stripe.com/au/pricing) for current Australian rates.
 
----
 
 ## Need Help?
 
