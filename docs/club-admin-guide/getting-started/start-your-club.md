@@ -116,6 +116,7 @@ Hence, please be ready with your meeting by having:
 
 **Please** [**book in a time to meet with your CSO**](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled).
 
+[Email Us](mailto:clubs@tusa.utas.edu.au){ .md-button .md-button--primary }
 [Book Now](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled){ .md-button .md-button--primary }
 
 During the meeting, ask any questions especially for your club's constitution and the IGM as you will need to finish them to submit your affiliation application

@@ -76,13 +76,13 @@ It is very critical to make your personal email unique. The **login email** stay
 When TUSA needs to contact the president personally, they reach Alex, not “whoever happens to check the club inbox.”
 
 
-## Find the Real Person
+## Your Real Infomration 
 
 There are various situations that a club admin needs to be contacted:
 
 | Scenario                  | What’s Needed                                                |
 | ------------------------- | ------------------------------------------------------------ |
-| **Emergency at an event** | Need to call the actual president, not “President — Chess Club” |
+| **Emergency at an event** | Need to immediately reach to the current president via call  |
 | **Compliance follow-up**  | Need to email the real person about missing paperwork        |
 | **Year-round contact**    | Need to know who’s currently in each role                    |
 | **Handover verification** | Need to confirm new committee details are correct            |
