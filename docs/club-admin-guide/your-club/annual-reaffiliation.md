@@ -224,7 +224,6 @@ This means the membership list you export should reflect accurate, up-to-date st
 
 Clubs must have at least 50% students on their executive committees. A president can be a non-student, as long as associates don’t exceed 50% of the executive. If a committee member’s status changes mid-year (via the annual confirmation), it may affect your club’s ratio — TUSA will work with you if this happens.
 
-
 ## Committee Review
 
 During reaffiliation, the form will automatically loads your current committee members for review.
@@ -262,7 +261,6 @@ When your reaffiliation is processed:
 
 This is an annual cleanup all club presidents should do to make sure only current committee members are included.
 
-
 ## Step-by-Step Guide
 
 ### Step 1: Access the Reaffiliation Form
@@ -272,6 +270,7 @@ This is an annual cleanup all club presidents should do to make sure only curren
 - Go to your **club dashboard**
 
 - Navigate to the **Resources + Forms** tab
+
 - Navigate to the **Reaffiliation** sub-tab
 
 ### Step 2: Review Pre-filled Information
@@ -289,6 +288,24 @@ The form will pre-fill with some information, please make sure they are correct 
 - Applicant's.email address
 
 **Check this information carefully** and update anything that’s changed.
+
+#### Best Practices For Your Media
+
+You can keep or update media for your club such as logo/icon, banner/featured image.
+
+If you intend to keep current media, click "Yes" while asked to keep the media.
+
+If you intend to change, click "No" and a file uploader will allow you to upload your new media files.
+
+For your media files, some tips could be:
+
+- **Logo**: 500×500 pixels minimum, square
+
+- **Banner**: 1200×400 pixels minimum, wide format
+
+- Use PNG or JPG format
+
+- Keep file sizes under 2MB
 
 ### Step 3: Update Club Details
 
@@ -316,7 +333,6 @@ The form will pre-fill with some information, please make sure they are correct 
 Confirm or update:
 
 - Your name
-
 - **Personal email** (not account/login email)
 - Phone number
 - Student ID
@@ -358,27 +374,9 @@ Attach the membership list as discussed before:
 
 - Export your member list
 
-- Upload the file in the membership attachment section
+- Upload the file in the membership attachment sectio
 
-### Step 7: Manage Media (Optional)
-
-You can keep or update media for your club such as logo/icon, banner/featured image.
-
-If you intend to keep current media, click "Yes" while asked to keep the media.
-
-If you intend to change, click "No" and a file uploader will allow you to upload your new media files.
-
-For your media files, some tips could be:
-
-- **Logo**: 500×500 pixels minimum, square
-
-- **Banner**: 1200×400 pixels minimum, wide format
-
-- Use PNG or JPG format
-
-- Keep file sizes under 2MB
-
-### Step 8: Review and Submit
+### Step 7: Review and Submit
 
 - Check all information is correct
 
@@ -387,7 +385,6 @@ For your media files, some tips could be:
 - Make sure membership list is attached
 
 Then you are good to go!
-
 
 ## What Happens Then?
 

@@ -12,15 +12,12 @@ This guide will explain how clubs and accounts are set up in the TUSA system. Re
 
 The key takeaway is: **Your club admin accounts ARE ALWAYS role-based, meaning they are separated from your personal accounts.** Your personal account/information will be **linked** to your role's club admin account, and will be **detached** after you leave. You **separate** your club's admin role/tasks from your club's member role/tasks by logging into different accounts.
 
-
 ## The Club President Account
 
 Your club's president account is **the most permanent** existence to your club, your club exists as long as this account exists. Also it is the only role that connects to your store, which means the club president account is **permanently linked** to your club’s store as the **owner**. This connection:
 
 - Cannot be transferred to a different account
-
 - Cannot be deleted without losing the store
-
 - Must persist year after year
 
 **This is why we don’t delete the president account when leadership changes.** Deleting it would orphan the entire store.
@@ -75,8 +72,7 @@ It is very critical to make your personal email unique. The **login email** stay
 
 When TUSA needs to contact the president personally, they reach Alex, not “whoever happens to check the club inbox.”
 
-
-## Your Real Infomration 
+## Your Real Infomration
 
 There are various situations that a club admin needs to be contacted:
 
@@ -87,12 +83,12 @@ There are various situations that a club admin needs to be contacted:
 | **Year-round contact**    | Need to know who’s currently in each role                    |
 | **Handover verification** | Need to confirm new committee details are correct            |
 
-Although the role-base club admin won't directly show as the real person behind the role, it is essential to provide access this person's real information instead of going undercover fully. 
+Although the role-base club admin won't directly show as the real person behind the role, it is essential to provide access this person's real information instead of going undercover fully.
 
-The actual person’s information can be found on **Club Admin Account Dashboard:** 
+The actual person’s information can be found on **Club Admin Account Dashboard:**
 
 - Select **Profile** tab
-- Select **View** sub-tab 
+- Select **View** sub-tab
 - The information is under **Club Admin Personal Details**, it will display:
 
 | Field                               | Example                                                      |
@@ -110,7 +106,6 @@ This information is required during club's **affiliation and reaffiliation**, an
 During the affiliation or handover/reaffiliation, you must:
 
 - Confirm **you** are the current person in the president seat
-
 - Confirm the personal details (name, email, phone, student ID) are updated
 
 | Event                        | What Happens                         |
@@ -127,7 +122,6 @@ The club admin's personal details are **internal**, it is not visible to regular
 - Club admins from the same club
 
 This protects personal contact details while still allowing the right people to reach the right person.
-
 
 ## Other Club Admin / Exec Committee Accounts
 
@@ -146,15 +140,12 @@ If the account has a role-based email address, such as `treasurer@club.org` , or
 If the account has a personal email address, such as `alex.morgan@example.edu.au` :
 
 - Account belongs to the person, not the role
-
 - When they leave the committee, they’re demoted (not deleted)
-
 - The next person uses (or creates) their own account
 
 **Note:** When someone is removed from the committee:
 
 - **If they’re a club member:** demoted to regular member (still in the group)
-
 - **If they’re NOT a member:** removed from the group entirely
 
 ### Which One Should I Use?
@@ -162,17 +153,13 @@ If the account has a personal email address, such as `alex.morgan@example.edu.au
 #### Use Personal Account If:
 
 - Cleaner separation between you and the role
-
 - Your personal contributions stay linked to you
-
 - Easier transition when you leave
 
 #### Use Club Admin Role-based Account if
 
 - Your club has an established handover process
-
 - You have a club email address
-
 - You understand you’re updating “the club’s” profile, not yours
 
 ### Committee Member Access
@@ -185,14 +172,12 @@ Different committee member will have different access to different things:
 | Store staff access   | Can manage products and orders         |
 | Committee role badge | Identifies their role in the directory |
 
-
 ## Accounts v.s. Email Addresses
 
 In terms of accounts and email addresses, there are some golden rules:
 
 - **One email address == One user account**
 - Each person **must use** their own unique login email
-
 - **Never have** multiple people logging into the same account for various tasks
 
 ### Two Email Fields Explained
@@ -207,11 +192,8 @@ In terms of accounts and email addresses, there are some golden rules:
 Example: treasurer@club.com, president@club.com, secretary@club.com
 
 - Each role email is a separate user account
-
 - When committee changes, the ACCOUNT stays but PERSONAL DETAILS change
-
 - New treasurer updates their name, phone, student ID on the treasurer@club.com account
-
 - Login credentials get handed to the new person
 
 **Example:**
