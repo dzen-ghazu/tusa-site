@@ -10,7 +10,6 @@ hide:
 
 Membership is not just a title for your club members, it is a symbol of belonging. Create a membership product to segue others into your club and become a member or unlock your members to exclusive events, and use memberships and the tag system to manage your member's privileges and the exclusive contents they could get.
 
--   Membership product is a type of product managed via Store Manager, please make sure you've read [Your Products](./1-Your-Products.md) page for the basics
 -   On the TUSA website, memberships work through **tags.** When customer purchases your membership product:
 
 -   Membership tag(s) upon your setting will be applied to customer's account automatically
@@ -303,8 +302,6 @@ Before your membership product is ready:
 | Wrong people see it | Check Required/Excluded tags                    |
 
 ## Related Guides
-
-[Adding Products](./1-adding-products-to-your-club-store.md) – Basic product creation
 
 [Membership Rules](./4-managing-membership-rules-and-tags.md) – Setting up group access rules
 
