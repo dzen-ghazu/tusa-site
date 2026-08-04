@@ -8,7 +8,7 @@ hide:
 
 # Deliver Your Products
 
-If you’re selling physical products such as merchandises (T-shirts, stickers, etc.), you will need to setup pickup or shipping to deliver your products to the customers.
+If you're selling physical products such as merchandises (T-shirts, stickers, etc.), you will need to setup pickup or shipping to deliver your products to the customers.
 
 **If you don't sell physical products, simple skip this guide.** Digital products as below will skip shipping setup automatically:
 
@@ -19,7 +19,6 @@ If you’re selling physical products such as merchandises (T-shirts, stickers, 
 - Downloads
 
 **Currently, International Shipping is NOT allowed.**
-
 
 ## Shipping Zones
 
@@ -45,7 +44,6 @@ A customer can match **multiple zones**. For example, someone at Sandy Bay (post
 - Australia ✓
 
 The customer will see shipping options from **all matching zones** and choose what suits them.
-
 
 ## Shipping Rates
 
@@ -81,10 +79,9 @@ If customers can collect from your club's room or campus:
 
 **Result:** Tasmanian customers see both flat rate AND local pickup options.
 
-
 ## Step-by-Step: First Time Setup
 
-If you’ve never set up shipping before, do this:
+If you've never set up shipping before, do this:
 
 - **Go to:** Store Manager → Settings → Shipping
 - **Find:** Australia zone
@@ -93,7 +90,7 @@ If you’ve never set up shipping before, do this:
 - **Enter:** 15.50 (or your preferred amount)
 - **Click:** Save
 
-That’s it! All Australian customers can now order your physical products.
+That's it! All Australian customers can now order your physical products.
 
 **Optional extra:**
 
@@ -103,7 +100,6 @@ That’s it! All Australian customers can now order your physical products.
 - Save
 - Now Tasmanian customers can choose pickup instead.
 
-
 ## Recommended Configuration
 
 We recommend setting your rate as:
@@ -112,7 +108,6 @@ We recommend setting your rate as:
 | --------- | ------------ | ------- | -------------------------------- |
 | Australia | Flat Rate    | \$15.50 | Covers postage anywhere in Aus   |
 | Tasmania  | Local Pickup | Free    | Collection from campus/club room |
-
 
 ## What Will Customers See?
 
@@ -128,8 +123,8 @@ When a customer checks out with a physical product:
 With the recommended configuration:
 
 - User will see two shipping options:
-  - "Local Pickup" (free)
-  - "Flat Rate" (\$15.50)
+- "Local Pickup" (free)
+- "Flat Rate" (\$15.50)
 - If the user choose "Local Pickup", they will only need to pay the product price only.
 
 ### Example – Melbourne customer
@@ -137,9 +132,8 @@ With the recommended configuration:
 With the recommended configuration:
 
 - User will only see:
-  - "Flat Rate" (\$15.50)
+- "Flat Rate" (\$15.50)
 - The user will have to pay product price + \$15.50
-
 
 ## Order Status
 
@@ -147,9 +141,9 @@ You will need to update order's shipping status as order proceeds:
 
 | Status               | When to Use                         |
 | -------------------- | ----------------------------------- |
-| **Processing**       | You’re preparing the order          |
+| **Processing**       | You're preparing the order          |
 | **Ready for pickup** | Order ready for customer collection |
-| **On the way**       | You’ve posted/shipped it            |
+| **On the way**       | You've posted/shipped it            |
 | **Picked up**        | Customer has collected it           |
 | **Delivered**        | Customer has received it            |
 
@@ -163,7 +157,6 @@ To update order status, while at Store Manager:
 - Change the status
 - Customer gets notified of status changes
 
-
 ## Common Issues
 
 ### “No shipping options available”
@@ -171,7 +164,7 @@ To update order status, while at Store Manager:
 If customer sees this error message at checkout, the cause might be:
 
 - No shipping methods configured at all
-- Customer’s address doesn’t match any zone with methods
+- Customer's address doesn't match any zone with methods
 - Product is set as physical but no shipping for their location
 
 **To Fix:**
@@ -187,7 +180,7 @@ This might happen if:
 - Product is set as “Virtual” (no shipping needed)
 - All items in cart are digital
 
-**Check:** Edit your product → Is it marked as Virtual/Downloadable? If it’s physical, uncheck those options.
+**Check:** Edit your product → Is it marked as Virtual/Downloadable? If it's physical, uncheck those options.
 
 ### Customer Charged Wrong Amount
 
@@ -197,15 +190,14 @@ This might happen if:
 - What shipping method did they choose?
 - Review order details in Store Manager → Orders
 
-
 ## Frequently Asked Questions (FAQs)
 
-### “Customer says they can’t check out”
+### “Customer says they can't check out”
 
 Possible causes could be:
 
 - Product is physical but shipping not configured
-- You haven’t set up any shipping methods
+- You haven't set up any shipping methods
 - Customer's address is international (blocked)
 
 Make sure you at least add the flat rate to the Australian zone.
@@ -238,16 +230,14 @@ Yes! Simply set flat rate to \$0. Or only offer local pickup (which is usually f
 
 ### “What if I only want local pickup?”
 
-Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Rate. 
+Only add Local Pickup method to Tasmania (or relevant) zone. Don't add Flat Rate.
 
 **This will prevent customers outside Tasmania from ordering.**
-
 
 ## Related Guides
 
 [Adding Products](./1-adding-products-to-your-club-store.md) – Creating products
 
-[Creating Membership Products](./2-creating-membership-products.md) – These don’t need shipping
+[Creating Membership Products](./2-creating-membership-products.md) – These don't need shipping
 
-
-*Physical products need shipping. Digital products (memberships, tickets) don’t.*
+_Physical products need shipping. Digital products (memberships, tickets) don't._

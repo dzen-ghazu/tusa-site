@@ -14,10 +14,9 @@ You can access your store's current orders by visiting **your profile page > Sto
 
 **ALWAYS check if this is your store**, check the **welcome bar** at the top of the dashboard. It shows the name of the club's store you are managing.
 
-
 ## Order Status
 
-Orders move through different status as they’re processed, an ongoing order (undrafted) can have seven standard statuses:
+Orders move through different status as they're processed, an ongoing order (undrafted) can have seven standard statuses:
 
 | Status              | What It Means                                             |
 | ------------------- | --------------------------------------------------------- |
@@ -37,10 +36,9 @@ TUSA has added these custom statuses for specific scenarios:
 | ---------------------- | -------------------------------------------------- | ------------------------------------ |
 | **Ready for Pickup**   | Order prepared and waiting for customer collection | When order is packed and ready       |
 | **Pickedup**           | Customer has collected their order                 | When customer collects in person     |
-| **On the Way**         | Order dispatched for delivery                      | When you’ve posted/shipped the order |
+| **On the Way**         | Order dispatched for delivery                      | When you've posted/shipped the order |
 | **Delivered**          | Order received by customer                         | When delivery confirmed              |
 | **Returned from Hire** | Hire equipment returned                            | For TUSA Hire Store items            |
-
 
 ## Viewing Orders
 
@@ -73,7 +71,6 @@ Click an order number to see:
 - Payment details
 - Shipping address (if applicable)
 - Order notes
-
 
 ## Processing Orders
 
@@ -126,10 +123,10 @@ There are two types of notes:
 
 ## Common Scenarios
 
-### Customer Hasn’t Collected Their Order
+### Customer Hasn't Collected Their Order
 
 - Check the order date
-- Send a reminder (use customer’s email from order)
+- Send a reminder (use customer's email from order)
 - If no response after reasonable time, contact TUSA for guidance
 
 ### Customer Wants to Cancel
@@ -161,7 +158,7 @@ Membership product orders work slightly differently:
 - Order can usually go straight to **Completed**
 - Check that member appears in your member list
 
-If membership tags haven’t applied:
+If membership tags haven't applied:
 
 - Check the order status is Completed
 - Verify the product has correct tag settings
@@ -182,7 +179,7 @@ For event ticket orders:
 
 ### Check Orders Regularly
 
-- Don’t let orders sit in Processing too long
+- Don't let orders sit in Processing too long
 - Customers expect timely responses
 
 ### Use Notes Generously
@@ -192,13 +189,13 @@ For event ticket orders:
 
 ### Communicate With Customers**
 
-- If there’s a delay, let them know
+- If there's a delay, let them know
 - Use the customer note feature to send updates
 
 ### Keep stock updated
 
 - If products go out of stock, update your listings
-- Prevents orders you can’t fulfil
+- Prevents orders you can't fulfil
 
 
 ## Need Help?

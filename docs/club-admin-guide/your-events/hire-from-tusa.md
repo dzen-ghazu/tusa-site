@@ -10,7 +10,6 @@ hide:
 
 This guide explains how to hire equipment (marquees, tables, chairs, BBQs, etc.) from the TUSA Hire Store for your club events.
 
-
 ## Overview
 
 TUSA provides equipment hire for club events. As a club admin, you get an automatic 100% discount when placing orders – but this discount is provisional until your event is approved.
@@ -23,7 +22,6 @@ TUSA provides equipment hire for club events. As a club admin, you get an automa
 - Stock is reserved when you **checkout**, not while in cart
 - The discount is **provisional** — TUSA determines your final price after reviewing your event, in accordance with their policies and procedures
 
-
 ## Who Can Hire Equipment
 
 Only these roles get the automatic discount:
@@ -34,8 +32,7 @@ Only these roles get the automatic discount:
 | **Club Admin**     | Full access + auto discount |
 | **TUSA Staff**     | Full access + auto discount |
 
-**You must be logged in with the account that holds one of these roles.** The discount is tied to your account, not to the device or browser. If you’re logged in with a personal customer account — or not logged in at all — the discount won’t apply. If you don’t see it at checkout, log out and back in with your club role account.
-
+**You must be logged in with the account that holds one of these roles.** The discount is tied to your account, not to the device or browser. If you're logged in with a personal customer account — or not logged in at all — the discount won't apply. If you don't see it at checkout, log out and back in with your club role account.
 
 ## The Hire Process
 
@@ -51,23 +48,23 @@ Only these roles get the automatic discount:
 - Choose your **hire dates** (pickup and return)
 - Add to cart
 
-**Important:** Stock is NOT reserved while in your cart. Don’t leave items sitting – someone else could book them.
+**Important:** Stock is NOT reserved while in your cart. Don't leave items sitting – someone else could book them.
 
 ### Step 3: Complete Checkout
 
-- Make sure you’re **logged in with your club role account** (see “Who Can Hire Equipment” above)
+- Make sure you're **logged in with your club role account** (see “Who Can Hire Equipment” above)
 - Review your cart
-- The **100% discount coupon** auto-applies for eligible users — you’ll see “Club Equipment Hire (100% off)” in the order totals
+- The **100% discount coupon** auto-applies for eligible users — you'll see “Club Equipment Hire (100% off)” in the order totals
 - Complete checkout
 - **Your order total will be \$0**
 
-If the discount line doesn’t appear, you’re almost certainly logged in with the wrong account — log out and back in with your club role account, then return to checkout.
+If the discount line doesn't appear, you're almost certainly logged in with the wrong account — log out and back in with your club role account, then return to checkout.
 
 ### Step 4: Note Your Order Number
 
 After checkout:
 
-- You’ll see a confirmation with your **order number**
+- You'll see a confirmation with your **order number**
 - **Write this down** – you need it for your event application
 - The order number looks like: \#12345
 
@@ -77,7 +74,6 @@ After checkout:
 - Fill out your event/risk assessment
 - Enter your **hire order number** in Field 197
 - Submit for approval
-
 
 ## What Happens Next
 
@@ -91,7 +87,7 @@ After checkout:
 
 - Your order stays at \$0
 - Equipment ready for pickup
-- You’ll receive confirmation
+- You'll receive confirmation
 
 ### Outcome 2: Partial Discount
 
@@ -104,8 +100,7 @@ After checkout:
 
 - Hire order is **cancelled**
 - Stock is released
-- You’ll be notified
-
+- You'll be notified
 
 ## Important Rules
 
@@ -117,7 +112,7 @@ After checkout:
 | Order placed    | **YES** – reserved for your dates |
 | Order cancelled | **NO** – released back            |
 
-**Don’t leave items in your cart** – complete checkout to secure your booking.
+**Don't leave items in your cart** – complete checkout to secure your booking.
 
 ### Cart Restrictions
 
@@ -138,7 +133,6 @@ Orders are only visible in the account that placed them. If multiple club admins
 - Share login for the ordering account, OR
 
 - Contact TUSA staff (they can see all orders)
-
 
 ## If You Need to Change or Cancel
 
@@ -161,7 +155,6 @@ If your event is cancelled:
 - They will cancel the hire order
 
 - Stock is released for others
-
 
 ## Pickup and Return
 
@@ -190,7 +183,6 @@ If your event is cancelled:
 - Report any damage immediately
 
 **Late returns or damage may affect future hire privileges.**
-
 
 ## Pricing and Discounts
 
@@ -224,7 +216,7 @@ You may receive:
 
 - Standard pricing (pay full price)
 
-### If You’re Invoiced
+### If You're Invoiced
 
 - Check your email for the invoice
 
@@ -233,7 +225,6 @@ You may receive:
 - Pay online through WooCommerce
 
 - Equipment released after payment confirmed
-
 
 ## Frequently Asked Questions (FAQs)
 
@@ -245,7 +236,7 @@ The 100% discount auto-applies to reserve equipment. TUSA will determine your ac
 
 No. Hire orders must be linked to an approved event application.
 
-### What if equipment isn’t available for my dates?
+### What if equipment isn't available for my dates?
 
 - Try alternative dates
 
@@ -255,19 +246,17 @@ No. Hire orders must be linked to an approved event application.
 
 ### Can someone else pick up for me?
 
-Contact TUSA to arrange. They’ll need to know who’s collecting and verify their identity.
+Contact TUSA to arrange. They'll need to know who's collecting and verify their identity.
 
 ### What if I damage equipment?
 
 Report it immediately at return. Damage costs may apply depending on circumstances.
 
-
 ## Related Guides
 
-[Event Applications](#event-applications) – Submitting your event application
+[Event Applications](./event-applications.md) - Submitting your event application
 
-[Creating Events](#creating-events) – Setting up your event
-
+[Creating Events](./create-an-event.md) – Setting up your event
 
 ## Need Help?
 

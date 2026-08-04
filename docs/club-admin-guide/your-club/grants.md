@@ -17,8 +17,7 @@ TUSA offers several grant programs throughout the year to support club activitie
 | Development Grants     | Training, workshops, competitions           | Varies                |
 | Special Purpose Grants | Specific initiatives announced periodically | As advertised         |
 
-**Note:** Available grants change throughout the year. Check this page to see what’s currently open.
-
+**Note:** Available grants change throughout the year. Check this page to see what's currently open.
 
 ## Before You Apply
 
@@ -34,7 +33,7 @@ There are several things you need to pay attention before applying for a grant:
 
 **This applies to ALL grants**, including the startup grant that comes with initial club affiliation.
 
-If you **don’t** have approved bank details, your grant application can still be submitted and approved, but funds will **NOT** be released until bank signatory form is approved.
+If you **don't** have approved bank details, your grant application can still be submitted and approved, but funds will **NOT** be released until bank signatory form is approved.
 
 - Submit your Bank Signatory Form via **Club Dashboard → Club Admin → Bank Signatories**
 
@@ -54,14 +53,13 @@ To apply for grants, your club must:
 
 - Have an **approved Bank Signatory Form** on file (required for payout, not application)
 
-
 ## What Do I Need?
 
 Before starting your application, make sure you have:
 
 #### Club Details
 
-- Your club’s official name
+- Your club's official name
 
 - Club bank account details (BSB and Account Number)
 
@@ -69,7 +67,7 @@ Before starting your application, make sure you have:
 
 #### Project/Event Details
 
-- Clear description of what you’re funding
+- Clear description of what you're funding
 
 - Itemised budget with quotes where possible
 
@@ -85,7 +83,6 @@ Before starting your application, make sure you have:
 
 - Any relevant permits or approvals
 
-
 ## How Do I Apply?
 
 For all grants-related functions, navigate from the **club dashboard:**
@@ -95,7 +92,7 @@ For all grants-related functions, navigate from the **club dashboard:**
 
 There will be a third tab bar, seguing to different functions as named:
 
-| Tab                        | What’s Here                        |
+| Tab                        | What's Here                        |
 | -------------------------- | ---------------------------------- |
 | **How Grants Work**        | Information about the grant system |
 | **Grants Applied For**     | Your applications and their status |
@@ -105,7 +102,6 @@ There will be a third tab bar, seguing to different functions as named:
 **URL:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-handle}/resources/grants/`
 
 **Important:** Grant applications can only be made by affiliated clubs and must be submitted through the Club Dashboard.
-
 
 ## Grants Application
 
@@ -131,7 +127,7 @@ There will be a third tab bar, seguing to different functions as named:
 
 ### Step 3: Complete the Application Form
 
-The form automatically prefills with your club details, so you can focus on the specifics of what you’re applying for.
+The form automatically prefills with your club details, so you can focus on the specifics of what you're applying for.
 
 #### Basic Information
 
@@ -142,7 +138,7 @@ The form automatically prefills with your club details, so you can focus on the 
 
 #### Project Description
 
-- Clearly explain what you’re seeking funding for
+- Clearly explain what you're seeking funding for
 
 - Describe the benefit to your members and/or the broader student community
 
@@ -150,7 +146,7 @@ The form automatically prefills with your club details, so you can focus on the 
 
 #### Budget
 
-- List all items you’re requesting funding for
+- List all items you're requesting funding for
 
 - Include quantities and unit costs
 
@@ -160,7 +156,7 @@ The form automatically prefills with your club details, so you can focus on the 
 
 #### Supporting Documents
 
-Upload all your supporting documents, any documents you upload here automatically get added to your club’s document library for future use.
+Upload all your supporting documents, any documents you upload here automatically get added to your club's document library for future use.
 
 ### Step 4: Review and Submit
 
@@ -170,13 +166,11 @@ Upload all your supporting documents, any documents you upload here automaticall
 
 - Submit your application
 
-
 ## What Then?
 
-You’ll receive confirmation your application was submitted, TUSA staff will check whether your application is complete and assess it against the grant criteria. You’ll be notified of the outcome as soon as we make a decision.
+You'll receive confirmation your application was submitted, TUSA staff will check whether your application is complete and assess it against the grant criteria. You'll be notified of the outcome as soon as we make a decision.
 
 A simple application might take **1-2 weeks**, while complex application could take up to **4 weeks**, at the start of the semester it could take longer. Please plan ahead to avoid any inconvinences.
-
 
 ## Track Your Application
 
@@ -206,9 +200,9 @@ If we need more information from you, you will receive an email. After that, log
 
 On your **club dashboard**, navigate to **Resources + Forms > Grants > Grant Claims:**
 
-- Select the approved grant you’re claiming against
+- Select the approved grant you're claiming against
 
-- Enter the amount you’re claiming and attach any supporting documents
+- Enter the amount you're claiming and attach any supporting documents
 
 - Submit the claim
 
@@ -222,9 +216,9 @@ On your **club dashboard**, navigate to **Resources + Forms > Grants > Grant Cla
 
 ### Claiming in Stages
 
-You don’t have to claim the full approved amount at once. If your grant was approved for \$500, you can submit a claim for \$200 now and another for \$300 later. The system keeps track of how much you’ve already claimed and how much is still available.
+You don't have to claim the full approved amount at once. If your grant was approved for \$500, you can submit a claim for \$200 now and another for \$300 later. The system keeps track of how much you've already claimed and how much is still available.
 
-**Note:** You won’t be able to submit a claim that exceeds your remaining balance. Nice try.
+**Note:** You won't be able to submit a claim that exceeds your remaining balance. Nice try.
 
 ### What Happens After You Submit a Claim
 
@@ -232,7 +226,7 @@ You don’t have to claim the full approved amount at once. If your grant was ap
 
 2. **They review your claim** — checking the amount, supporting documents, and remaining balance
 
-3. **You’ll receive an email** with the outcome (approved or rejected)
+3. **You'll receive an email** with the outcome (approved or rejected)
 
 **Important:** When a staff member approves or rejects your claim, any notes they write are included in the email you receive. Read these carefully — they may contain conditions, feedback, or instructions for next steps.
 
@@ -270,12 +264,11 @@ After your event or purchase:
 
 **Important:** Failure to acquit grants may affect future applications.
 
-
 ## Dos And Don'ts
 
 ### Do
 
-- Apply early – don’t wait until the last minute
+- Apply early – don't wait until the last minute
 
 - Be specific about what you need and why
 
@@ -296,7 +289,6 @@ After your event or purchase:
 - Forget to include required documents
 
 - Miss submission deadlines
-
 
 ## Frequently Asked Questions
 
@@ -320,7 +312,7 @@ Grants typically need to be used within the semester/period specified. Check you
 
 Return any unused funds or seek approval to reallocate to related expenses.
 
-### Why haven’t we received our grant funds?
+### Why haven't we received our grant funds?
 
 Check these common issues:
 
@@ -332,13 +324,13 @@ Check these common issues:
 
 All three must be in place before funds are released.
 
-**For startup grants:** You don’t need a claim form, but you still need approved bank details.
+**For startup grants:** You don't need a claim form, but you still need approved bank details.
 
 ### Our bank details have changed – what do we do?
 
 Submit a new **Change to Bank Signatories** form via your Club Dashboard. Wait for TUSA Clubs Admin approval before expecting any grant payments to the new account.
 
-### We’re a new club – when do we get our startup grant?
+### We're a new club – when do we get our startup grant?
 
 New clubs receive a startup grant as part of affiliation, but it can only be paid out once you have:
 
@@ -349,7 +341,6 @@ New clubs receive a startup grant as part of affiliation, but it can only be pai
 - Had the Bank Signatory Form approved by TUSA Clubs Admin
 
 - Submit your bank details as soon as your account is open to avoid delays.
-
 
 ## Need Help?
 

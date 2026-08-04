@@ -38,14 +38,13 @@ This guide will assist you on managing products to your store, normally, you cou
 - Click the **Store Management** tab located at the tab bar under your profile picture.
 - You will be redirect to the Store Manager.
 
-**Note:** If you can’t see the Store Management tab and you are on your club admin account, this account might not be given the right permissions. Contact TUSA for further assistance.
+**Note:** If you can't see the Store Management tab and you are on your club admin account, this account might not be given the right permissions. Contact TUSA for further assistance.
 
 ### Step 3: Confirm it's Your Store
 
-- The top of Store Manager will show your club’s store name in the Welcome Bar ("Welcome to ...").
+- The top of Store Manager will show your club's store name in the Welcome Bar ("Welcome to ...").
 
-- **Make sure it says YOUR club, not someone else’s.**
-
+- **Make sure it says YOUR club, not someone else's.**
 
 ## Add a Product
 
@@ -93,33 +92,32 @@ A high-quality product picture is worth a thousand words. Add images for your pr
 - Good and clear lighting is always the key.
 - Square images work best.
 - Show the product from the front.
-- If it’s a shirt, show it laid flat or on a person.
+- If it's a shirt, show it laid flat or on a person.
 
 ### Step 4: Set the Category
 
 **This is important! Category defines how your products will be displayed.**
 
-**Please ONLY use existing categories from the website**, newly created categories won’t show up anywhere.
+**Please ONLY use existing categories from the website**, newly created categories won't show up anywhere.
 
 - Find the **Category** section
 - Select the category that fits your product:
 
-| Category          | Use For                                                      |
-| ----------------- | ------------------------------------------------------------ |
-| **Merchandise**   | Physical items (shirts, stickers, etc.)                      |
-| **Membership**    | Club membership products                                     |
+| Category          | Use For                                                           |
+| ----------------- | ----------------------------------------------------------------- |
+| **Merchandise**   | Physical items (shirts, stickers, etc.)                           |
+| **Membership**    | Club membership products                                          |
 | **Event Tickets** | Event entry (although you might use the event's ticketing system) |
 
 ### Step 5: Ready Your Product
 
 - If you want to create variations for this product:
-  - Find **Product Type** dropdown
-  - Select **Variable Product**
-  - This guide will assist you on how to create a product variation later
+- Find **Product Type** dropdown
+- Select **Variable Product**
+- This guide will assist you on how to create a product variation later
 
 - Set status to **Published** (or Draft if not ready)
 - Click **Save Product**
-
 
 ## Adding a Product Variation
 
@@ -143,7 +141,7 @@ Attributes (like Size or Colour) are provided as options:
 - Click **Add Attribute**
 - Name it: `Size`
 - Enter values: `Small | Medium | Large | XL`
-  - Separate each option with a `|` pipe character
+- Separate each option with a `|` pipe character
 - Check **Used for variations**
 - Click **Save Attributes**
 
@@ -177,7 +175,6 @@ For each variation, you can set fields below to be different:
 
 Click **Save Product** when all variations are configured.
 
-
 ## Stock Management
 
 Your store comes with stock management system for your products, it will
@@ -186,7 +183,7 @@ Your store comes with stock management system for your products, it will
 - Prevent customers from buying it
 - Allow you to restock the products
 
-If you don’t want to track stock:
+If you don't want to track stock:
 
 - Leave **Manage Stock** unchecked
 - Set **Stock Status** to “In Stock”
@@ -202,16 +199,15 @@ To set the stock levels:
 - Enter **Stock Quantity** (how many you have)
 - Set **Low Stock Threshold** (optional – get warned when running low)
 
-
 ## Publish Your Product
 
-By clicking the **Publish Product** button, your products appear in your club’s store page:
+By clicking the **Publish Product** button, your products appear in your club's store page:
 
 - Visit your club's main page
 - Click the **Our Store** tab
 - Your product will be listed respectively based on the type (Events or Merchandise)
 
-**If Your Product Isn’t Showing,** Please check these product's settings:
+**If Your Product Isn't Showing,** Please check these product's settings:
 
 | Issue                                | Solution                 |
 | ------------------------------------ | ------------------------ |
@@ -219,7 +215,6 @@ By clicking the **Publish Product** button, your products appear in your club’
 | No category selected for the product | Add appropriate category |
 | Price is \$0 or empty                | Enter a valid price      |
 | No product image                     | Add a product image      |
-
 
 ## Edit Your Product
 
@@ -247,12 +242,11 @@ This season sale might end and you may need to remove related products:
 
 **Deleting is permanent**. However, if you forsee this product item could be displayed with little changes again in the future. **Consider set the product's status to Draft.**
 
-
 ## Tips: Product Images
 
 A good product image will save you paragraphs on product's description while attracting more customers. Some Do's and Don'ts are:
 
-| Do                    | Don’t                             |
+| Do                    | Don't                             |
 | --------------------- | --------------------------------- |
 | Good lighting         | Dark or blurry photos             |
 | Clear view of product | Cluttered backgrounds             |
@@ -274,19 +268,17 @@ Supply different images for the product to entice your customer even more:
 - Add additional angles in the **Product Gallery**
 - Gallery images show when customers click through
 
-
 ## Common Issues
 
 There are some common mistakes that everyone could make while managing their products:
 
-| Mistake                   | Why It’s Bad                          | How to Fix                   |
+| Mistake                   | Why It's Bad                          | How to Fix                   |
 | ------------------------- | ------------------------------------- | ---------------------------- |
-| No price set              | Product can’t be purchased            | Enter a price                |
-| Wrong category            | Product doesn’t appear where expected | Select correct category      |
+| No price set              | Product can't be purchased            | Enter a price                |
+| Wrong category            | Product doesn't appear where expected | Select correct category      |
 | No image                  | Looks unprofessional, less sales      | Upload a clear photo         |
-| Variations without prices | Customers can’t select options        | Set price for each variation |
-| Creating new categories   | They won’t work in the system         | Use existing categories only |
-
+| Variations without prices | Customers can't select options        | Set price for each variation |
+| Creating new categories   | They won't work in the system         | Use existing categories only |
 
 ## Next Steps
 
@@ -296,9 +288,8 @@ Now that you know how to add basic products:
 - [**Setting Up Shipping**](./3-setting-up-shipping-for-your-store.md) – Required for physical products
 - [**Creating Events**](../4-events-&-activities/2-creating-events.md) – For event tickets
 
-
 ## Need Help?
 
-- **Can’t access Store Manager?** Contact TUSA to verify your admin status
+- **Can't access Store Manager?** Contact TUSA to verify your admin status
 - **Product not showing?** Check status, category, and price
 - **Technical issues?** Contact <clubs@tusa.edu.au>
