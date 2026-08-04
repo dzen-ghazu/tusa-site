@@ -10,22 +10,21 @@ hide:
 
 Stripe is the financial platform used in TUSA for clubs to accept payments, manage billing and revenues, and customise their own business models.
 
-It is **entirely managed by TUSA** on the club’s behalf, it requires **No Setup**, **No Configuration**, and **No Login** from you.
-
+It is **entirely managed by TUSA** on the club's behalf, it requires **No Setup**, **No Configuration**, and **No Login** from you.
 
 ## That's it?
 
 Yes, once your club is **affiliated**, TUSA staff will:
 
-- Create your club’s Stripe connected account
+- Create your club's Stripe connected account
 - Connect it to your store
 - Complete the business verification
 
 Once connected, TUSA will **create** and **maintain** the connection between your club's store and Stripe:
 
 - Your club's store can take payments
-- Your club’s bank account can receive funds
-  - Stripe has a standard payout schedule, the money will reach the account in scheduled time
+- Your club's bank account can receive funds
+- Stripe has a standard payout schedule, the money will reach the account in scheduled time
 - TUSA can provide support with admin access
 
 ## What Should We Do?
@@ -35,7 +34,7 @@ All you need to provide is your **club bank account details**:
 - Account Number
 - BSB
 
-If you *haven’t* already provided these during affiliation, contact the Clubs team to supply the information.
+If you _haven't_ already provided these during affiliation, contact the Clubs team to supply the information.
 
 ## What If It Does't Work?
 
@@ -52,8 +51,8 @@ Some incident might happen such as:
 
 Once it happens, **ONLY** TUSA will be able to fix this. Please:
 
-* **Contact the Clubs team** at **clubs@tusa.utas.edu.au** , and
-* **Report the disconnection**
+- **Contact the Clubs team** at **clubs@tusa.utas.edu.au** , and
+- **Report the disconnection**
 
 TUSA will handle the rest on your behalf.
 
@@ -61,7 +60,7 @@ TUSA will handle the rest on your behalf.
 
 If you ever need to:
 
-- Update your club’s bank account
+- Update your club's bank account
 - Change signatories
 
 Please:
@@ -73,7 +72,6 @@ Please:
 Then TUSA staff will update the details for you.
 
 **You cannot change bank details in any other way, you MUST use the form.**
-
 
 ## Frequently Asked Questions (FAQs)
 
@@ -87,8 +85,7 @@ The Stripe account is connected to the club, not the individual. TUSA staff upda
 
 ### What fees does Stripe charge?
 
-Stripe charges standard transaction fees on each sale. Check [Stripe’s pricing page](https://stripe.com/au/pricing) for current Australian rates.
-
+Stripe charges standard transaction fees on each sale. Check [Stripe's pricing page](https://stripe.com/au/pricing) for current Australian rates.
 
 ## Need Help?
 

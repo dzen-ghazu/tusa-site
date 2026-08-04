@@ -56,9 +56,9 @@ The whole affiliation process will take approximately **2-4 weeks**, plan ahead 
 
 ## Step 1: Define Your Club
 
-What has interested you in starting your club & society? Are you looking to bring students together to save the Tasmanian Devil, or whoever is interested in astrology? You will need to decide the aim of your club and what you hope to achieve. 
+What has interested you in starting your club & society? Are you looking to bring students together to save the Tasmanian Devil, or whoever is interested in astrology? You will need to decide the aim of your club and what you hope to achieve.
 
-However, **remind that TUSA won't consider affiliating new clubs or societies that have the same objectives as existing clubs.** You can check all our existing clubs [on our website here.](https://tusa.org.au/find-a-club-society/) 
+However, **remind that TUSA won't consider affiliating new clubs or societies that have the same objectives as existing clubs.** You can check all our existing clubs [on our website here.](https://tusa.org.au/find-a-club-society/)
 
 If you find there is a club that catering your new club's idea and objectives, please consider joining the existing club. If you don't, please contact the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au)
 
@@ -72,7 +72,7 @@ While gathering your people, record their:
 
 - Name
 - Student ID
-  - If the person is an associate (non-UTAS student)
+- If the person is an associate (non-UTAS student)
 - Email address
 
 You can use [our template](https://tusa.org.au/wp-content/uploads/2021/02/Setting-Up-a-New-Club-or-Society-Step-2-Founding-Members-Template-TUSA.xlsx) for recording your people's information.
@@ -132,9 +132,9 @@ While writing your constitution please pay attention that:
 - Your club's aims and objectives are different from any other clubs, as this is required for your club to be affiliated.
 - Do NOT USE "UTAS" in your club's name, use things like "Tasmanian University" or "TUSA" instead.
 - Most TUSA Clubs are not incorporated and recognised as:
-  - Sub-entity of TUSA
-  - Not a legal entity
-  - Cease to exist if disaffiliated from TUSA
+- Sub-entity of TUSA
+- Not a legal entity
+- Cease to exist if disaffiliated from TUSA
 
 After you have drafted your constitution, email a copy to the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) for comments and advice before officially submitting for approval of the **IGM**.
 
@@ -144,9 +144,9 @@ When your club is created, the constitution **must** exist already. If this is n
 
 If you want to revise your constitution, make sure you either:
 
-  - Involve it at the AGM, which is a yearly recurring meeting for your club administrative work's assessment
-  - Find the [AGM Agenda Template](https://tusa-dev.its.utas.edu.au/wp-content/uploads/2025/04/AGM-Agenda-Template-TUSA-2024.docx) and the [AGM Meetings Template](https://www.tusa.org.au/wp-content/uploads/2024/05/AGM-Minutes-TUSA-Template-2024.docx) on our website
-  - Hold a one-time SGM for constitution purpose only
+- Involve it at the AGM, which is a yearly recurring meeting for your club administrative work's assessment
+- Find the [AGM Agenda Template](https://tusa-dev.its.utas.edu.au/wp-content/uploads/2025/04/AGM-Agenda-Template-TUSA-2024.docx) and the [AGM Meetings Template](https://www.tusa.org.au/wp-content/uploads/2024/05/AGM-Minutes-TUSA-Template-2024.docx) on our website
+- Hold a one-time SGM for constitution purpose only
 
 ## Step 6: IGM
 
@@ -181,7 +181,7 @@ You will need to prepare following documents for application:
 
 | Document            | What It Is                                          |
 | ------------------- | --------------------------------------------------- |
-| **Constitution**    | Your club’s rules and governance structure          |
+| **Constitution**    | Your club's rules and governance structure          |
 | **Meeting minutes** | Your IGM Meeting Minutes                            |
 | **Member list**     | Your memebers and executive committee's information |
 
@@ -208,7 +208,7 @@ When your application is approved, the system automatically creates:
 
 **Note:** President account and committee accounts are institutional accounts, it is dedicated for the club and is different from your personal TUSA account, once new person has been commited to the role the account will be hand over to the new member.
 
-You’ll receive login details by email and can start setting up your club.
+You'll receive login details by email and can start setting up your club.
 
 ## Frequently Asked Questions (FAQs)
 
@@ -222,7 +222,7 @@ The CSO will discuss this in your meeting. You may be able to join the existing 
 
 ### How many members do I need?
 
-There’s a minimum member requirement – the CSO will confirm the current number in your meeting.
+There's a minimum member requirement – the CSO will confirm the current number in your meeting.
 
 ### Do I need a constitution?
 
@@ -230,7 +230,7 @@ There’s a minimum member requirement – the CSO will confirm the current numb
 
 ### What if my application is rejected?
 
-You’ll receive feedback on why. Common issues can often be fixed and resubmitted.
+You'll receive feedback on why. Common issues can often be fixed and resubmitted.
 
 ## Need Help?
 

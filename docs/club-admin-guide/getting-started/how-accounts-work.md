@@ -14,13 +14,13 @@ The key takeaway is: **Your club admin accounts ARE ALWAYS role-based, meaning t
 
 ## The Club President Account
 
-Your club's president account is **the most permanent** existence to your club, your club exists as long as this account exists. Also it is the only role that connects to your store, which means the club president account is **permanently linked** to your club’s store as the **owner**. This connection:
+Your club's president account is **the most permanent** existence to your club, your club exists as long as this account exists. Also it is the only role that connects to your store, which means the club president account is **permanently linked** to your club's store as the **owner**. This connection:
 
 - Cannot be transferred to a different account
 - Cannot be deleted without losing the store
 - Must persist year after year
 
-**This is why we don’t delete the president account when leadership changes.** Deleting it would orphan the entire store.
+**This is why we don't delete the president account when leadership changes.** Deleting it would orphan the entire store.
 
 ### What Changes?
 
@@ -29,11 +29,11 @@ If there is a handover for club admin accounts, such as the club president accou
 - First name
 - Last name
 - Personal email
-  - This email must be unique to ensure incoming emails come to the right person
+- This email must be unique to ensure incoming emails come to the right person
 - Phone number
 - Student ID
 - Login password
-  - The new person taking over the role will be able to change this
+- The new person taking over the role will be able to change this
 
 ### What Won't Change?
 
@@ -43,7 +43,7 @@ Even a handover happens, there are several things won't change:
 - Address
 - Club role title
 - Public role label
-  - Such as “President — Chess Club”
+- Such as “President — Chess Club”
 - Store link
 - Store ownership
 - Group admin status
@@ -51,7 +51,7 @@ Even a handover happens, there are several things won't change:
 
 #### Public Role Label
 
-The account’s public-facing label is set to the **role**. So your account will be shown to others as:
+The account's public-facing label is set to the **role**. So your account will be shown to others as:
 
 - Display Name: "President Chess Club"
 - First Name: "President"
@@ -63,11 +63,11 @@ This is deliberate. The account represents the **position**, not the individual.
 
 ### About Emails
 
-It is very critical to make your personal email unique. The **login email** stays the same year after year (often a club email like `president@chessclub.org`). But your **personal email** field must always be the **current person’s individual email** (let's say it's Alex Morgan).
+It is very critical to make your personal email unique. The **login email** stays the same year after year (often a club email like `president@chessclub.org`). But your **personal email** field must always be the **current person's individual email** (let's say it's Alex Morgan).
 
-| Field          | Purpose                               | Example                 |
-| -------------- | ------------------------------------- | ----------------------- |
-| Login Email    | Account access — usually a club email | president@chessclub.org |
+| Field          | Purpose                               | Example                    |
+| -------------- | ------------------------------------- | -------------------------- |
+| Login Email    | Account access — usually a club email | president@chessclub.org    |
 | Personal Email | Reaches the actual human              | alex.morgan@example.edu.au |
 
 When TUSA needs to contact the president personally, they reach Alex, not “whoever happens to check the club inbox.”
@@ -76,30 +76,30 @@ When TUSA needs to contact the president personally, they reach Alex, not “who
 
 There are various situations that a club admin needs to be contacted:
 
-| Scenario                  | What’s Needed                                                |
-| ------------------------- | ------------------------------------------------------------ |
-| **Emergency at an event** | Need to immediately reach to the current president via call  |
-| **Compliance follow-up**  | Need to email the real person about missing paperwork        |
-| **Year-round contact**    | Need to know who’s currently in each role                    |
-| **Handover verification** | Need to confirm new committee details are correct            |
+| Scenario                  | What's Needed                                               |
+| ------------------------- | ----------------------------------------------------------- |
+| **Emergency at an event** | Need to immediately reach to the current president via call |
+| **Compliance follow-up**  | Need to email the real person about missing paperwork       |
+| **Year-round contact**    | Need to know who's currently in each role                   |
+| **Handover verification** | Need to confirm new committee details are correct           |
 
 Although the role-base club admin won't directly show as the real person behind the role, it is essential to provide access this person's real information instead of going undercover fully.
 
-The actual person’s information can be found on **Club Admin Account Dashboard:**
+The actual person's information can be found on **Club Admin Account Dashboard:**
 
 - Select **Profile** tab
 - Select **View** sub-tab
 - The information is under **Club Admin Personal Details**, it will display:
 
-| Field                               | Example                                                      |
-| ----------------------------------- | ------------------------------------------------------------ |
-| Your real name                      | “Alex Morgan”                                                |
-| Your personal email                 | “alex.morgan@example.edu.au”                                 |
-| Personal phone number               | “0400 123 456”                                               |
-| Student number                      | “123456”                                                     |
-| Current enrolled faculty and course | “College of Arts, Law and Education, Bachelor of Arts”      |
-| Anstralian address                  | “12 Sample Street, Hobart TAS 7000”                          |
-| Current UTAS student                | "Yes"                                                        |
+| Field                               | Example                                                |
+| ----------------------------------- | ------------------------------------------------------ |
+| Your real name                      | “Alex Morgan”                                          |
+| Your personal email                 | “alex.morgan@example.edu.au”                           |
+| Personal phone number               | “0400 123 456”                                         |
+| Student number                      | “123456”                                               |
+| Current enrolled faculty and course | “College of Arts, Law and Education, Bachelor of Arts” |
+| Anstralian address                  | “12 Sample Street, Hobart TAS 7000”                    |
+| Current UTAS student                | "Yes"                                                  |
 
 This information is required during club's **affiliation and reaffiliation**, and it pulls from relevant personal account's live profile data. Hence. it will always be the current person in this role.
 
@@ -110,7 +110,7 @@ During the affiliation or handover/reaffiliation, you must:
 
 | Event                        | What Happens                         |
 | ---------------------------- | ------------------------------------ |
-| **Initial Affiliation**      | New club’s officers added to rolodex |
+| **Initial Affiliation**      | New club's officers added to rolodex |
 | **Annual Reaffiliation**     | All officer details refreshed        |
 | **Mid-year Profile Updates** | Reflect immediately                  |
 
@@ -140,13 +140,13 @@ If the account has a role-based email address, such as `treasurer@club.org` , or
 If the account has a personal email address, such as `alex.morgan@example.edu.au` :
 
 - Account belongs to the person, not the role
-- When they leave the committee, they’re demoted (not deleted)
+- When they leave the committee, they're demoted (not deleted)
 - The next person uses (or creates) their own account
 
 **Note:** When someone is removed from the committee:
 
-- **If they’re a club member:** demoted to regular member (still in the group)
-- **If they’re NOT a member:** removed from the group entirely
+- **If they're a club member:** demoted to regular member (still in the group)
+- **If they're NOT a member:** removed from the group entirely
 
 ### Which One Should I Use?
 
@@ -160,7 +160,7 @@ If the account has a personal email address, such as `alex.morgan@example.edu.au
 
 - Your club has an established handover process
 - You have a club email address
-- You understand you’re updating “the club’s” profile, not yours
+- You understand you're updating “the club's” profile, not yours
 
 ### Committee Member Access
 
@@ -206,7 +206,7 @@ treasurer@club.com account:
 
 **If a role is removed:**
 
-Let's say if you had assistanttreasurer@club.com last year but don’t have that role this year, please remove that account entirely from the reaffiliation.
+Let's say if you had assistanttreasurer@club.com last year but don't have that role this year, please remove that account entirely from the reaffiliation.
 
 ### Scenario 2: Personal Email Accounts
 
@@ -220,7 +220,7 @@ Your committee members use their own emails (realname@utas.edu.au)
 
 **If someone leaves:**
 
-If alex.morgan@example.edu.au was secretary last year but isn’t on committee this year – remove them from the reaffiliation form.
+If alex.morgan@example.edu.au was secretary last year but isn't on committee this year – remove them from the reaffiliation form.
 
 ### Scenario 3: One Shared Club Email
 
@@ -246,7 +246,7 @@ President account:
   Personal Email: chessclub@gmail.com (shared access noted here)
 ```
 
-We don’t mind that you all share access to chessclub@gmail.com – that’s up to you. But each person needs their own unique login email to have their own account.
+We don't mind that you all share access to chessclub@gmail.com – that's up to you. But each person needs their own unique login email to have their own account.
 
 ## Main Take-aways
 
@@ -266,24 +266,23 @@ The president account is the **keystone** that holds the store and group togethe
 
 ### For club president account
 
-- **You inherit an account** — you don’t create a new one
+- **You inherit an account** — you don't create a new one
 
-- **Update your details** — make sure your profile has YOUR info, not the previous president’s
+- **Update your details** — make sure your profile has YOUR info, not the previous president's
 
 - **Your personal email matters** — use YOUR email, not the club one
 
-- **The store is yours to manage** — but you’re a steward, not the owner
+- **The store is yours to manage** — but you're a steward, not the owner
 
 ### For Committee Members
 
 - **Your access is tied to your role** — leave the committee, lose admin access
 
-- **Your personal account stays yours** — unless you’re using a role-based email
+- **Your personal account stays yours** — unless you're using a role-based email
 
 - **Update your details annually** — during reaffiliation
 
-
-## Separate Your Personal Activity from the Club's 
+## Separate Your Personal Activity from the Club's
 
 Your personal account is for:
 
@@ -308,14 +307,12 @@ One example could be:
 - **Club purchase:** Hiring equipment for a club event — **use the club admin account**
 - **Personal purchase:** Buying something for yourself — **use your personal account**
 
-
 ## Related Guides
 
-[Annual Reaffiliation] — How to update club details each year
+[Annual Reaffiliation](../your-club/annual-reaffiliation.md) — How to update club details each year
 
-[Finding Your Way Around] — Where to find things
+[Find Your Way Around](find-your-way-around.md) — Where to find things
 
-[Reporting an Issue] — When something’s not working
+[Report a Problem](./report-a-problem.md) — When something is not working
 
-
-*This setup is what lets your club continue year after year, no matter who’s leading.*
+_This setup is what lets your club continue year after year, no matter who is leading._

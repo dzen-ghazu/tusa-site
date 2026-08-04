@@ -10,21 +10,20 @@ hide:
 
 Membership is not just a title for your club members, it is a symbol of belonging. Create a membership product to segue others into your club and become a member or unlock your members to exclusive events, and use memberships and the tag system to manage your member's privileges and the exclusive contents they could get.
 
-- Membership product is a type of product managed via Store Manager, please make sure you’ve read [Your Products](./1-Your-Products.md) page for the basics
-- On the TUSA website, memberships work through **tags.** When customer purchases your membership product:
+-   Membership product is a type of product managed via Store Manager, please make sure you've read [Your Products](./1-Your-Products.md) page for the basics
+-   On the TUSA website, memberships work through **tags.** When customer purchases your membership product:
 
-  - Membership tag(s) upon your setting will be applied to customer's account automatically
+-   Membership tag(s) upon your setting will be applied to customer's account automatically
 
-  - All rules reflected by the tag will apply immediately
-  
-  - With the tag, the account will automatically gain access to your club’s private group, unlocking contents such as:
+-   All rules reflected by the tag will apply immediately
+
+-   With the tag, the account will automatically gain access to your club's private group, unlocking contents such as:
     - Deals
     - Documents
     - News feed
     - Member contents
-  
-  - When the tag expires, the customer's access will be revoked.
 
+-   When the tag expires, the customer's access will be revoked.
 
 ## What Do I Need?
 
@@ -39,7 +38,7 @@ There are **two** essential things you need to pay attention:
 - Look at the **Apply Membership Tags on Purchase** dropdown
 - You should see tags like “Your Club Name 2026”, “Your Club Name 2027”
 
-**Don’t see any tags?** Contact TUSA – your tags may not have been created yet.
+**Don't see any tags?** Contact TUSA – your tags may not have been created yet.
 
 ### Tag Expiry
 
@@ -49,7 +48,6 @@ Your club group needs to know which tags grant access and set a proper expiry on
 - Navigate to **Club Admin → Membership Rules + Tags**
 - Set which tags to c (e.g., “Your Club 2026”)
 - Set when tags expire (e.g., 31/12/2026)
-
 
 ## Steps For Your Membership Product
 
@@ -67,9 +65,9 @@ Fill in the product details with some best practices:
 - Clear and specific
 - Include the year if relevant
 - For example:
-  - “Chess Club Membership 2026”
-  - “Basketball Club Annual Membership”
-  - “Gaming Society 2-Year Membership 2026-2027”
+- “Chess Club Membership 2026”
+- “Basketball Club Annual Membership”
+- “Gaming Society 2-Year Membership 2026-2027”
 
 #### Price
 
@@ -83,7 +81,7 @@ Fill in the product details with some best practices:
 - When it expires
 - Any benefits included
 
-An example description could be: 
+An example description could be:
 
 > Join the Chess Club for 2026! Your membership includes:
 >
@@ -105,7 +103,7 @@ When you select this category, the membership settings section appears with tag 
 
 ### Step 4: Set Product Expiry
 
-You don’t want to accidentally sell “2025 Membership” in 2026. To set expiry for a product:
+You don't want to accidentally sell “2025 Membership” in 2026. To set expiry for a product:
 
 - Find **Membership Product Expiry** section
 - Set **Expiration Date** to when you want to STOP selling this product
@@ -119,7 +117,7 @@ The tag gives your buyers the access to your club.
 
 - Find **Apply Membership Tags on Purchase**
   Click the dropdown
-- Select your club’s membership tag (e.g., “Your Club 2026”)
+- Select your club's membership tag (e.g., “Your Club 2026”)
 
 **For multi-year memberships:** Select multiple tags applicable.
 
@@ -131,14 +129,13 @@ Example: “Chess Club 2026” AND “Chess Club 2027”
 - Click **Save Product**
 - Your membership product is now live!
 
-
 ## For Ticket Sales
 
 Besides connecting your new members in, membership products can also be used to:
 
 - Sell membership as an event ticket
-  - The “Event + Membership” bundle deals
-  - For example: the first event of the year usually includes membership
+- The “Event + Membership” bundle deals
+- For example: the first event of the year usually includes membership
 - Special events that require membership
 
 ### Setup
@@ -154,7 +151,6 @@ When creating an event ticket:
 - Create a “Bundle” product
 - Include the event ticket
 - Apply membership tags on purchase
-
 
 ## Student vs Non-Student Pricing
 
@@ -196,7 +192,6 @@ Many clubs have different prices for students and non-students, to achieve this,
 
 Both student and non-student purchasers get the same membership tag – they just pay different prices.
 
-
 ## Members-Only Products
 
 You can display a product that only existing members can buy.
@@ -222,16 +217,15 @@ You may want special merchandise only sold to club members.
 
 **Result:** Only current members can see and purchase.
 
-
 ## The Two Sides of Every Club
 
 Every TUSA club has two sides that work together:
 
 ### 1. The Public-Facing Club Store
 
-The store is your club’s **public face**. Anyone can see it.
+The store is your club's **public face**. Anyone can see it.
 
-| What’s Visible          | Description                                              |
+| What's Visible          | Description                                              |
 | ----------------------- | -------------------------------------------------------- |
 | **Club Profile**        | Your name, logo, description, social links               |
 | **Events Archive**      | Past and upcoming event tickets                          |
@@ -243,26 +237,25 @@ The store is your club’s **public face**. Anyone can see it.
 
 ### 2. The Private Members-Only Group
 
-The group is your club’s **private community**. Only members who hold the membership tag can get in.
+The group is your club's **private community**. Only members who hold the membership tag can get in.
 
-| What’s Private          | Description                        |
+| What's Private          | Description                        |
 | ----------------------- | ---------------------------------- |
 | **News Feed**           | Club announcements and discussions |
-| **Member Directory**    | See who’s in your club             |
+| **Member Directory**    | See who's in your club             |
 | **Club Documents**      | Constitutions, minutes, resources  |
 | **Full Deal Details**   | Complete discount codes and offers |
 | **Member Interactions** | Comments, posts, connections       |
 
 **The membership tag is the key:** Buying membership in the store grants the tag, which unlocks the group.
 
-
 ## Excluding Certain Users
 
-Some products shouldn’t be available to everyone.
+Some products shouldn't be available to everyone.
 
 ### Excluding Juniors
 
-You may have some products that under-18s can’t purchase (insurance, legal requirements).
+You may have some products that under-18s can't purchase (insurance, legal requirements).
 
 **In your product's settings:**
 
@@ -278,7 +271,6 @@ You may have some products that under-18s can’t purchase (insurance, legal req
 | Non-students          | Use Required Tags “Student” instead |
 | Specific member types | The relevant tag                    |
 
-
 ## Checklist
 
 Before your membership product is ready:
@@ -292,7 +284,6 @@ Before your membership product is ready:
 - **Group rules** are set (in Club Dashboard \> Membership Rules)
 - **Publish** your product
 
-
 ## Test It
 
 ### Before Going Live
@@ -302,15 +293,14 @@ Before your membership product is ready:
 - Verify they can access the club group
 - Check deals and member content are visible to them
 
-### If It’s Not Working
+### If It's Not Working
 
 | Problem             | Check This                                      |
 | ------------------- | ----------------------------------------------- |
 | Tag not applied     | Is the tag selected in product settings?        |
-| Can’t access group  | Are group rules set in Membership Rules + Tags? |
+| Can't access group  | Are group rules set in Membership Rules + Tags? |
 | Product not visible | Is category set? Is it Published?               |
 | Wrong people see it | Check Required/Excluded tags                    |
-
 
 ## Related Guides
 
@@ -320,6 +310,4 @@ Before your membership product is ready:
 
 [Shipping Setup](./3-setting-up-shipping-for-your-store.md) – Required for physical products (not memberships)
 
-
-*Membership products are digital – no shipping required. The tag is the product!*
-
+_Membership products are digital – no shipping required. The tag is the product!_

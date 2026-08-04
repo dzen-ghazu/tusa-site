@@ -10,8 +10,7 @@ hide:
 
 This guide covers event applications, risk assessments, temporary stall permits, and liquor permits for your club activities.
 
-**Before you start:** You need to create a draft event before submitting an event application. See [Creating Events] first.
-
+**Before you start:** You need to create a draft event before submitting an event application. See [Creating Events](./create-an-event.md) first.
 
 ## How to Access Event Applications
 
@@ -26,7 +25,7 @@ Event applications are submitted through the **Resources** tab in your club grou
 
 **Direct URL:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{your-club}/resources/events/`
 
-### What You’ll Find in Resources
+### What You'll Find in Resources
 
 | Section                 | Purpose                               |
 | ----------------------- | ------------------------------------- |
@@ -36,19 +35,17 @@ Event applications are submitted through the **Resources** tab in your club grou
 | **Liability Waivers**   | View signed waivers                   |
 | **Parental Consent**    | View consent forms for under-18s      |
 
-
 ## The Key Rule
 
 **Almost every club activity needs an event application.**
 
 The only exception is a regular committee/admin meeting of your club executives. Everything else – social events, workshops, activities, outings, stalls – needs to go through the system.
 
-When in doubt, submit an application. It’s always better to check than to run an unapproved event.
+When in doubt, submit an application. It's always better to check than to run an unapproved event.
 
+## What's in an Event Application?
 
-## What’s in an Event Application?
-
-When you submit an event application, the form asks about your event and automatically includes the relevant risk assessments based on what you’re doing.
+When you submit an event application, the form asks about your event and automatically includes the relevant risk assessments based on what you're doing.
 
 ### Every Event Includes These Risks
 
@@ -67,20 +64,19 @@ No matter what your event is, these risks apply to **all events**:
 | Uneven Surfaces         | Venue conditions and hazards             |
 | Unsafe Behaviour        | Bullying, harassment, assault prevention |
 
-These are automatically included – you just need to confirm you’ll follow the control measures.
+These are automatically included – you just need to confirm you'll follow the control measures.
 
 ### Additional Risk Categories
 
-Depending on what your event involves, you’ll get additional risk sections:
-
+Depending on what your event involves, you'll get additional risk sections:
 
 ## Food at Your Event
 
-If your event involves food, you’ll see additional risks based on what type:
+If your event involves food, you'll see additional risks based on what type:
 
 ### BBQ Operation
 
-For events where you’re operating a BBQ or camp stove:
+For events where you're operating a BBQ or camp stove:
 
 - BBQ Operation risks
 - Safe cooking procedures
@@ -88,7 +84,7 @@ For events where you’re operating a BBQ or camp stove:
 
 ### Food Preparation & Service
 
-For events where you’re cooking or serving food:
+For events where you're cooking or serving food:
 
 - Cooking Food risks
 - Food Service and Handling
@@ -96,7 +92,7 @@ For events where you’re cooking or serving food:
 
 ### External Food Vendors
 
-If you’re having food trucks or external caterers:
+If you're having food trucks or external caterers:
 
 - External Stall Vendors risks
 - Their compliance requirements
@@ -107,7 +103,6 @@ If you’re having food trucks or external caterers:
 - Food handling certificates
 - Temperature logs
 - Allergen information
-
 
 ## Alcohol at Your Event
 
@@ -166,7 +161,6 @@ The website automatically restricts ticket purchases for juniors using membershi
 
 If you have junior members in your club, clearly communicate which events they can and cannot attend.
 
-
 ## Infrastructure & Equipment
 
 Your event may need equipment, structures, or venue modifications involved:
@@ -187,7 +181,7 @@ Your event may need equipment, structures, or venue modifications involved:
 
 ### TUSA Hire Store
 
-If you’re hiring equipment from TUSA (marquees, tables, chairs, BBQs, etc.), you need to place your hire order **before** submitting your event application.
+If you're hiring equipment from TUSA (marquees, tables, chairs, BBQs, etc.), you need to place your hire order **before** submitting your event application.
 
 ### Quick summary
 
@@ -196,10 +190,9 @@ If you’re hiring equipment from TUSA (marquees, tables, chairs, BBQs, etc.), y
 - Enter the order number in your event application (Field 197)
 - TUSA determines your final discount when reviewing your event
 
-**Important:** Stock is reserved when you **checkout**, not while in cart. Don’t leave items sitting – complete the order to secure your booking.
+**Important:** Stock is reserved when you **checkout**, not while in cart. Don't leave items sitting – complete the order to secure your booking.
 
-[Click here to see the full guide.](./3-hiring-equipment-from-TUSA.md)
-
+[Click here to see the full guide.](./hire-from-tusa.md)
 
 ## Transport & Travel
 
@@ -220,7 +213,6 @@ If members are driving themselves or carpooling:
 - Personal Vehicle Use risks
 - Meeting point procedures
 - Food/Produce collection trips
-
 
 ## Outdoor & Adventure Activities
 
@@ -262,7 +254,7 @@ If your club has junior members (under 18) and runs adventure activities:
 - **Emergency contacts** – Have parent/guardian contact details readily available
 - **Insurance** – Verify your insurance covers minors in adventure activities
 
-See [Managing Members] for more on junior member requirements.
+See [Managing Members](../your-people/manage-your-members.md) for more on junior member requirements.
 
 ### Overnight Trips (Non-Adventure)
 
@@ -271,7 +263,6 @@ For conferences, retreats, or trips with accommodation but not adventure activit
 - Accommodation risks
 - Participant management
 - Emergency procedures
-
 
 ## Sports & Physical Activities
 
@@ -287,10 +278,9 @@ For events at UniGym or involving physical activities:
 
 These have specific control measures around supervision, protective equipment, and participant experience.
 
-
 ## Temporary Stall Permits
 
-If you’re setting up a stall or booth on campus, there are **two different processes** depending on location.
+If you're setting up a stall or booth on campus, there are **two different processes** depending on location.
 
 ### Outdoor Stalls (TUSA Application)
 
@@ -304,7 +294,7 @@ For stalls in **outdoor areas** (courtyards, lawns, outdoor walkways), use the T
 - O-Week tabling
 - Outdoor merchandise sales
 
-#### What’s required
+#### What's required
 
 - Type of stall and purpose
 - Preferred outdoor location on campus
@@ -320,7 +310,7 @@ For stalls in **indoor areas** (foyers, atriums, indoor common areas), you need 
 #### Booking Process
 
 - Contact UTAS Campus Services
-- Complete their venue hire form: [Contract for Hire of University Venues]
+- Complete their venue hire form: [Contract for Hire of University Venues](https://www.utas.edu.au/__data/assets/pdf_file/0005/1661270/Contract-for-hire-of-University-venues-and-events.pdf)
 - Campus Services will allocate your indoor position
 - You may still need a TUSA event application for the activity itself (food, etc.)
 
@@ -330,8 +320,7 @@ UTAS manages indoor spaces directly. TUSA can approve outdoor activities but ind
 
 ### If Your Stall Involves Food
 
-Whether indoor or outdoor, food handling requirements apply – see the Food section above. You’ll need appropriate food safety documentation regardless of location.
-
+Whether indoor or outdoor, food handling requirements apply – see the Food section above. You'll need appropriate food safety documentation regardless of location.
 
 ## Submitting Your Application
 
@@ -370,7 +359,7 @@ Based on your answers, relevant risk sections appear.
 For each risk category:
 
 - Read the risks and control measures
-- Confirm you’ll implement the controls
+- Confirm you'll implement the controls
 - Add any custom risks if needed
 
 ### Step 5: Attach Documents
@@ -379,11 +368,11 @@ You have two ways to attach documents:
 
 #### Option A: Use your Club Document Library
 
-If you’ve previously uploaded documents to your club’s document library:
+If you've previously uploaded documents to your club's document library:
 
 - Look for the checkboxes in each section
 - Tick the boxes for documents you want to attach
-- Documents appear based on their category – if you don’t see a document, check it was uploaded with the correct category
+- Documents appear based on their category – if you don't see a document, check it was uploaded with the correct category
 
 #### Option B: Upload New Documents
 
@@ -394,7 +383,7 @@ If you’ve previously uploaded documents to your club’s document library:
 - Venue booking confirmation
 - Any other relevant permits
 
-**Tip:** Documents you upload here get added to your club’s document library for future use.
+**Tip:** Documents you upload here get added to your club's document library for future use.
 
 ### Step 6: Save or Submit
 
@@ -407,8 +396,7 @@ If you’ve previously uploaded documents to your club’s document library:
 #### Submit
 
 - Review everything and submit when ready
-- You’ll receive confirmation and can track status in your dashboard
-
+- You'll receive confirmation and can track status in your dashboard
 
 ## Blanket Assessments
 
@@ -418,7 +406,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - Set the date range (e.g., Semester 1)
 - The assessment covers all instances within that period
 - Still need to follow all control measures each time
-
 
 ## The Approval Process
 
@@ -452,7 +439,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 
 - Resubmit
 
-
 ## After Approval
 
 ### Before Your Event
@@ -467,13 +453,12 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - Follow your risk control measures
 - Have your approval available if asked
 - Report any incidents immediately
-- Don’t deviate from approved activities
+- Don't deviate from approved activities
 
 ### After Your Event
 
 - Report any incidents that occurred
 - Complete any required acquittal (for grants)
-
 
 ## Security Requirements
 
@@ -482,7 +467,6 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 - Number of guards
 - Security timetable
 - Contact information
-
 
 ## Need Help?
 

@@ -8,8 +8,7 @@ hide:
 
 # Managing Club Members
 
-This guide will explain how to manage members in your club group. More importantly, it will explain when you **should** and **shouldn’t** use these tools.
-
+This guide will explain how to manage members in your club group. More importantly, it will explain when you **should** and **shouldn't** use these tools.
 
 ## Add Members
 
@@ -21,14 +20,13 @@ When someone purchases a membership product:
 
 - The tag grants access to your club group
 
-- They’re properly tracked in the system
+- They're properly tracked in the system
 
 - They show up in your member exports
 
 - Their membership expires correctly
 
-**This is the correct flow. Don’t bypass it.**
-
+**This is the correct flow. Don't bypass it.**
 
 ## Member Management
 
@@ -37,7 +35,7 @@ When someone purchases a membership product:
 - Go to your **club dashboard**
 
 - Click **Manage** tab
-  - Only admin can see this tab
+- Only admin can see this tab
 
 - Click **Members** sub-tab
 
@@ -45,12 +43,12 @@ Here you can see all members and their roles.
 
 ### What You Can Do?
 
-| Action         | Description                                                  |
-| -------------- | ------------------------------------------------------------ |
-| View members   | All members, including all admins, will be present in this page. |
-| Promote member | Promote a non-admin member into the admin / mod team.        |
-| Demote member  | Demote an admin member into normal members.                  |
-| Remove member  | In specific scenarios, you can remove a member here directly. |
+| Action         | Description                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| View members   | All members, including all admins, will be present in this page.                             |
+| Promote member | Promote a non-admin member into the admin / mod team.                                        |
+| Demote member  | Demote an admin member into normal members.                                                  |
+| Remove member  | In specific scenarios, you can remove a member here directly.                                |
 | Kick & Ban     | In specific scenarios, you can remove a member and prevent them from coming back ever again. |
 
 ### When Should I Use It?
@@ -101,7 +99,7 @@ Only promote people you trust with full club management and access to customer i
 | You promote them anyway               | They see your group admin but **not** your store |
 | They need access to both              | **Not possible** – must choose one               |
 
-If someone needs to move from one club’s store to another:
+If someone needs to move from one club's store to another:
 
 - **First:** The OTHER club must demote them from their store
 
@@ -156,10 +154,10 @@ There are some situations you may want to remove members immediately:
 | Action            | What Happens                           |
 | ----------------- | -------------------------------------- |
 | Remove from group | User loses group access immediately    |
-| Membership tag    | **Still has it** (doesn’t remove tags) |
+| Membership tag    | **Still has it** (doesn't remove tags) |
 | Can rejoin?       | **Yes**, if they still have the tag    |
 
-**Removing from the group doesn’t remove their membership tag.** The tag expires on its set date.
+**Removing from the group doesn't remove their membership tag.** The tag expires on its set date.
 
 ##### Full Removal
 
@@ -171,7 +169,6 @@ For a complete removal, you need to contact TUSA. They can:
 
 - Handle serious issues appropriately
 
-
 ## Member Roles Explained
 
 | Role          | Group Access                    | Store Access      | Can Manage |
@@ -181,7 +178,6 @@ For a complete removal, you need to contact TUSA. They can:
 | **Admin**     | Full group admin                | Full store access | Yes        |
 
 The **Club President** account is always an admin and moderator.
-
 
 ## Bulk Management
 
@@ -212,7 +208,7 @@ Column names are flexible – “first_name”, “First Name”, or “firstnam
 
 Follow the steps on the page:
 
-- **Select tags:** Choose which membership tags to apply (filtered to your club’s tags only)
+- **Select tags:** Choose which membership tags to apply (filtered to your club's tags only)
 
 - **Upload CSV:** Drag and drop your member list
 
@@ -224,10 +220,10 @@ Follow the steps on the page:
 
 | If member…                    | Result                                     |
 | ----------------------------- | ------------------------------------------ |
-| **Already exists** (by email) | Gets your club’s tags added, joins group   |
+| **Already exists** (by email) | Gets your club's tags added, joins group   |
 | **New user**                  | Account created, tags applied, joins group |
 
-**Note:** New users don’t receive a welcome email. They can use “Forgot Password” to set up their account.
+**Note:** New users don't receive a welcome email. They can use “Forgot Password” to set up their account.
 
 #### When Should I Do This?
 
@@ -239,8 +235,7 @@ Follow the steps on the page:
 
 **For regular member sign-ups, always use the store** – this ensures proper tracking and tag expiry.
 
-
-## Summary: Do’s and Don’ts
+## Summary: Do's and Don'ts
 
 ### DO
 
@@ -254,7 +249,7 @@ Follow the steps on the page:
 
 ✓ Use CSV import for bulk migration from legacy systems
 
-### DON’T
+### DON'T
 
 ✗ Use “Add Members” to add regular members
 
@@ -266,7 +261,6 @@ Follow the steps on the page:
 
 ✗ Use CSV import instead of the store for regular sign-ups
 
-
 ## Junior Members
 
 ### Who Are They?
@@ -277,12 +271,12 @@ A junior member is any club member who is under 18 years old. The system automat
 
 Junior members require special consideration for several reasons:
 
-| Concern                  | Why It Matters                                               |
-| ------------------------ | ------------------------------------------------------------ |
+| Concern                  | Why It Matters                                                              |
+| ------------------------ | --------------------------------------------------------------------------- |
 | **Parental consent**     | Clubs need parental permission before juniors can participate in activities |
-| **Insurance**            | Some activities have different insurance requirements for minors |
-| **Adventure activities** | Higher risk activities need explicit parental approval       |
-| **Alcohol events**       | Juniors cannot attend or purchase tickets to events serving alcohol |
+| **Insurance**            | Some activities have different insurance requirements for minors            |
+| **Adventure activities** | Higher risk activities need explicit parental approval                      |
+| **Alcohol events**       | Juniors cannot attend or purchase tickets to events serving alcohol         |
 
 ### Parental Consent Requirements
 
@@ -292,7 +286,7 @@ Junior members require special consideration for several reasons:
 
 - When a junior joins your club, they (or their parent) submit a parental consent form
 
-- These forms are stored in your club’s Resources tab (GravityView)
+- These forms are stored in your club's Resources tab (GravityView)
 
 - Before each event, check that all attending juniors have consent on file
 
@@ -300,7 +294,7 @@ Junior members require special consideration for several reasons:
 
 ### How to See Your Junior Members
 
-Your club’s member list export shows junior members:
+Your club's member list export shows junior members:
 
 - Go to your club group
 
@@ -340,14 +334,13 @@ If your club runs adventure activities (bushwalking, camping, water sports, etc.
 
 **Junior members cannot attend events where alcohol is served.**
 
-The website automatically restricts alcohol event tickets using membership tags — juniors won’t be able to purchase tickets to these events. However, as an extra safeguard:
+The website automatically restricts alcohol event tickets using membership tags — juniors won't be able to purchase tickets to these events. However, as an extra safeguard:
 
 - Check your attendance list for juniors before alcohol events
 
 - If a junior somehow registered, contact them to explain they cannot attend
 
 - Refund their ticket if applicable
-
 
 ## Related Guides
 
@@ -361,5 +354,4 @@ The website automatically restricts alcohol event tickets using membership tags 
 
 [Event Applications] – Risk assessment and event approval
 
-
-*Members join through the store. Manage \> Members is for admin access, not membership.*
+_Members join through the store. Manage \> Members is for admin access, not membership._

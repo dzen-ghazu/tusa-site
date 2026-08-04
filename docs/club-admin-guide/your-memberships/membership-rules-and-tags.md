@@ -26,18 +26,16 @@ Both work together to create your membership system, you can make the configurat
 | **Membership Rules**    | Your Club's Page > Club Admin > Membership rules and tags | Which tags grant access to your club group      |
 | **Membership Products** | Product Settings (When creating or modifying products)    | Which tags are applied on purchase, who can buy |
 
-
 ## What Can Tags Do?
 
 Membership tags can:
 
-- **Grant access** to your club’s private members-only group
+- **Grant access** to your club's private members-only group
 - **Control** who can see member-only content and deals
 - **Expire** on dates you set, requiring members to renew
 - **Restrict** who can purchase certain products
 
-When someone purchases a membership from your club store, they receive a tag. That tag unlocks access to your club’s group and member benefits.
-
+When someone purchases a membership from your club store, they receive a tag. That tag unlocks access to your club's group and member benefits.
 
 ## Membership Rules
 
@@ -76,7 +74,7 @@ This means:
 
 - Members with this tag can access the club group
 - On 1 January 2027, the tag automatically expires
-- Members lose access unless renewal (with next year's tag assigned to their account) 
+- Members lose access unless renewal (with next year's tag assigned to their account)
 
 #### Example: Multi-Year Setup
 
@@ -89,7 +87,6 @@ Let's say Chess Club allows current members to subscribe for coming years:
 | Chess Club 2028 | 31/12/2028 |
 
 This allows members to purchase future year memberships with each membership activating and expiring appropriately.
-
 
 ### Tag Expiry
 
@@ -107,16 +104,15 @@ A system runs every night at 12:05 AM that:
 
 #### Member Impact
 
-When a member’s tag expires:
+When a member's tag expires:
 
 - They **lose access** to the private club group
 - They **cannot see** member-only deals
 - They **need to renew** their membership to regain access
 
-#### You Don’t Need to Do Anything
+#### You Don't Need to Do Anything
 
-Tag expiry is fully automatic. You don’t need to manually remove old tags or update settings when the year ends.
-
+Tag expiry is fully automatic. You don't need to manually remove old tags or update settings when the year ends.
 
 ### Common Scenarios
 
@@ -127,7 +123,7 @@ You may step into scenarios below regularly:
 At the start of a new membership year:
 
 - Visit Membership Rules & Tags
-  - Your Club's Page > Club Admin > Membership Rules + Tags
+- Your Club's Page > Club Admin > Membership Rules + Tags
 - Add the new year tag (e.g., “Your Club 2027”)
 - Set expiry to end of that year (31/12/2027)
 - Click Save
@@ -150,7 +146,6 @@ If your current tag has expired, and you need to add a new one:
 - Add the new year tag in slot 1
 - Set “Remove Tag” for other slots (clears old settings)
 - Click Save
-
 
 ### Best Practices
 
@@ -177,12 +172,11 @@ You can set up multiple years in advance so:
 - Tags activate immediately but expire on schedule
 - Reduces admin work each year
 
-
 ### Understanding the Audit Log
 
 Every tag change is logged for your club:
 
-| What’s Logged    | Purpose                   |
+| What's Logged    | Purpose                   |
 | ---------------- | ------------------------- |
 | Tag additions    | Track when rules were set |
 | Tag expiries     | Automatic removal record  |
@@ -191,12 +185,11 @@ Every tag change is logged for your club:
 
 TUSA staff can access these logs if issues arise.
 
-
 ### Troubleshooting
 
 There might be some tricky scenarios:
 
-#### Members can’t access the group even tag's saved
+#### Members can't access the group even tag's saved
 
 **Check:**
 
@@ -204,23 +197,22 @@ There might be some tricky scenarios:
 - Did the member actually purchase the membership?
 - Did the purchase go through successfully (not pending or refunded)?
 
-If everything looks right and access still isn’t working, see [Reporting an Issue].
+If everything looks right and access still isn't working, see [Reporting an Issue].
 
 #### Members can still access even tag's expired
 
-**This shouldn’t happen**, an automated daily process removes expired tags. If you notice this:
+**This shouldn't happen**, an automated daily process removes expired tags. If you notice this:
 
 - Wait 24 hours (the system runs once daily)
 - If still not fixed, see [Reporting an Issue]
 
-#### I can’t see the Membership Rules tab
+#### I can't see the Membership Rules tab
 
 **Check:**
 
 - Are you logged in as a club admin or president?
-- Are you on your club’s dashboard (not the main TUSA dashboard)?
+- Are you on your club's dashboard (not the main TUSA dashboard)?
 - Do you have organiser status in your club group?
-
 
 ## Membership Products
 
@@ -240,7 +232,7 @@ You can manage tags for membership products under their **product settings**:
 
 ### Product Expiry: Auto-Retire Products
 
-You don’t want to accidentally sell “2025 Membership” in 2026. To avoid this, set a product expiry date for the tag.
+You don't want to accidentally sell “2025 Membership” in 2026. To avoid this, set a product expiry date for the tag.
 
 | Setting              | What It Does                                |
 | -------------------- | ------------------------------------------- |
@@ -277,7 +269,7 @@ User must have **at least one** of these tags to see the product.
 | -------------------- | ----------------------------------- |
 | Members-only renewal | “Your Club 2025” (existing members) |
 | Students only        | “Student”                           |
-| Current members only | Your club’s membership tag          |
+| Current members only | Your club's membership tag          |
 
 **Example:** You can have a “2026 Renewal” product that only 2025 members can see.
 
@@ -290,7 +282,7 @@ User must **NOT have** these tags to see the product.
 | Exclude juniors      | “Junior”                    |
 | Exclude non-students | (use Required Tags instead) |
 
-**Example:** There is an event where insurance doesn’t cover under-18s:
+**Example:** There is an event where insurance doesn't cover under-18s:
 
 - Excluded Tags: “Junior”
 - Juniors cannot see or purchase tickets
@@ -324,7 +316,7 @@ Let's say Chess Club has their membership's price varies depending on whether bu
 
 The settings above will ensure each person can only see the price tier that applies to them.
 
-------
+---
 
 ## Common Membership Scenarios
 
@@ -386,7 +378,6 @@ If an event cannot accommodate underage customers due to reasons such as insuran
 
 This will make student members only see the $30 option, and non-students only see $50.
 
-
 ## How Tags Flow Through the System
 
 1. Member purchases product
@@ -397,7 +388,6 @@ This will make student members only see the $30 option, and non-students only se
 6. Member can see: deals, documents, news feed
 7. Daily check on tag expiry
 8. When expired → Tag removed → Access revoked
-
 
 ## Frequently Asked Questions (FAQs)
 
@@ -413,7 +403,7 @@ No. Tags are created by TUSA during affiliation/reaffiliation. Contact TUSA if y
 
 ### Can someone buy membership twice?
 
-Yes, but they’ll just get the same tag again. It won’t hurt anything, but consider whether you want to prevent this with Required Tags (exclude people who already have the tag).
+Yes, but they'll just get the same tag again. It won't hurt anything, but consider whether you want to prevent this with Required Tags (exclude people who already have the tag).
 
 ### How do I offer family/group memberships?
 
@@ -422,10 +412,9 @@ This is complex – contact TUSA for advice. One option is to manually apply tag
 ### My membership product expired – what now?
 
 - Create a new membership product for the new year
-- Set up with new year’s tags
+- Set up with new year's tags
 - Update your group rules if needed
 - The old product stays hidden (as Draft)
-
 
 ## Related Guides
 
@@ -433,7 +422,6 @@ This is complex – contact TUSA for advice. One option is to manually apply tag
 
 [Creating Membership Products](./2-creating-membership-products.md) — Setting up the products that grant tags
 
-[Reporting an Issue](../6-general/1-reporting-an-issue.md) — When something isn’t working
+[Reporting an Issue](../6-general/1-reporting-an-issue.md) — When something isn't working
 
-
-*Membership rules give you control over your club’s access. Set them up once per year and let the system handle the rest.*
+_Membership rules give you control over your club's access. Set them up once per year and let the system handle the rest._

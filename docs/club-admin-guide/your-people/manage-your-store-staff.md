@@ -10,7 +10,6 @@ hide:
 
 This guide explains how to add staff members to your club store so they can help with scanning tickets, processing sales, and managing orders.
 
-
 ## Overview
 
 As a club president (store owner), you can add staff members to help run your store. Staff members can:
@@ -23,14 +22,13 @@ As a club president (store owner), you can add staff members to help run your st
 
 - Help customers at stalls
 
-**Important:** Each person can only be staff at **one store** at a time. If someone is already assigned to another club’s store, they cannot be added to yours until they’re removed from that store.
-
+**Important:** Each person can only be staff at **one store** at a time. If someone is already assigned to another club's store, they cannot be added to yours until they're removed from that store.
 
 ## Automatic Staff
 
 Your **club president** and **club admins** are automatically store staff — no setup needed.
 
-**Group organisers are also automatically store staff.** When you promote someone to **Organiser** in your club’s group, they automatically get:
+**Group organisers are also automatically store staff.** When you promote someone to **Organiser** in your club's group, they automatically get:
 
 - Group organiser powers (manage members, post announcements, etc.)
 
@@ -42,7 +40,7 @@ When you demote an organiser back to regular member:
 
 - They lose store staff access
 
-This means your committee members who are group organizers don’t need to be manually added as store staff — it happens automatically!
+This means your committee members who are group organizers don't need to be manually added as store staff — it happens automatically!
 
 ### When to Use Manual Staff Management
 
@@ -50,10 +48,9 @@ Use the **Team** page (below) when you need someone to have store access **witho
 
 - A helper just for one event
 
-- Someone running a stall who isn’t on the committee
+- Someone running a stall who isn't on the committee
 
 - Temporary access for a specific task
-
 
 ## Who Can Manage Staff
 
@@ -63,7 +60,7 @@ Both **store owners** (club presidents) and **existing staff members** can add a
 
 Store staff can see all orders and customer details for your store. Only add people you trust with this information.
 
-**After events:** Remember to remove temporary staff as part of your event cleanup. Tidying up isn’t just putting things in the bin – check your store access too!
+**After events:** Remember to remove temporary staff as part of your event cleanup. Tidying up isn't just putting things in the bin – check your store access too!
 
 ## Accessing Staff Management
 
@@ -73,14 +70,13 @@ Store staff can see all orders and customer details for your store. Only add peo
 
 - Click **Team** in the sidebar menu
 
-You’ll see three tabs:
+You'll see three tabs:
 
 - **Current Staff** – People already assigned to your store
 
 - **Add Existing User** – Search for current site members
 
-- **Create New Staff** – Add someone who doesn’t have an account yet
-
+- **Create New Staff** – Add someone who doesn't have an account yet
 
 ## Adding an Existing User
 
@@ -99,7 +95,7 @@ Use this when the person already has a TUSA account.
 | Status                                  | What It Means                           |
 | --------------------------------------- | --------------------------------------- |
 | **Add to My Store** (button)            | Available – click to add them           |
-| **Already your staff**                  | They’re already on your team            |
+| **Already your staff**                  | They're already on your team            |
 | **Already assigned to: \[Store Name\]** | They work at another store – cannot add |
 | **Store Owner – Cannot Add**            | They own their own store – cannot add   |
 
@@ -109,22 +105,21 @@ Use this when the person already has a TUSA account.
 
 The person will immediately have access to your store dashboard.
 
-
 ## Creating a New Staff Member
 
-Use this when the person doesn’t have a TUSA account yet.
+Use this when the person doesn't have a TUSA account yet.
 
 ### Steps
 
 1. Go to **Team** → **Create New Staff** tab
 2. Fill in their details:
-   1. **First Name** (required)
-   2. **Last Name** (required)
-   3. **Email** (required)
-3. Choose password option:
-   1. **Auto-generate password** – System creates a secure password and emails it to them
-   2. **Set password manually** – You enter a password (must be 8+ characters)
-4. Click **Create Staff Member**
+3. **First Name** (required)
+4. **Last Name** (required)
+5. **Email** (required)
+6. Choose password option:
+7. **Auto-generate password** – System creates a secure password and emails it to them
+8. **Set password manually** – You enter a password (must be 8+ characters)
+9. Click **Create Staff Member**
 
 The new user will:
 
@@ -134,20 +129,18 @@ The new user will:
 
 - Receive login details by email (if auto-password selected)
 
-
 ## Viewing Current Staff
 
 The **Current Staff** tab shows everyone assigned to your store:
 
 | Column      | Description                        |
 | ----------- | ---------------------------------- |
-| **Name**    | Staff member’s display name        |
+| **Name**    | Staff member's display name        |
 | **Email**   | Their email address                |
 | **Added**   | When they were added to your store |
 | **Actions** | Remove from store button           |
 
 **Note:** The store owner (you) is listed but cannot be removed.
-
 
 ## Removing Staff
 
@@ -185,18 +178,17 @@ If you added helpers just for this event, remember to remove their store access:
 - Find anyone who was only helping for this event
 - Click **Remove from Store**
 
-Event cleanup isn’t just putting things in the bin – it includes checking who has access to your store and customer data!
-
+Event cleanup isn't just putting things in the bin – it includes checking who has access to your store and customer data!
 
 ## Frequently Asked Questions (FAQs)
 
-### Can I add someone who works at another club’s store?
+### Can I add someone who works at another club's store?
 
 No. Each person can only be staff at one store at a time. They need to be removed from the other store first.
 
 If you need the same person at multiple stores, contact TUSA for assistance.
 
-### What’s the difference between “staff”, “admin”, and “owner”?
+### What's the difference between “staff”, “admin”, and “owner”?
 
 | Role                        | Group Powers                  | Store Powers                     |
 | --------------------------- | ----------------------------- | -------------------------------- |
@@ -235,16 +227,15 @@ Yes! Event cleanup includes checking your store access. Go to Team → Current S
 
 Store ownership is tied to the club president account. Contact TUSA if you need to transfer store ownership.
 
-### The person I want to add doesn’t appear in search
+### The person I want to add doesn't appear in search
 
 Check that:
 
-- You’ve entered at least 3 characters
+- You've entered at least 3 characters
 
-- You’re searching by their registered email or display name
+- You're searching by their registered email or display name
 
 - They have a TUSA account (if not, use “Create New Staff”)
-
 
 ## Related Guides
 

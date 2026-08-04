@@ -22,7 +22,7 @@ Each account will have its own profile page, you can access it by:
 
 - Clicking the avatar on the top right corner, or
 - Visiting`https://tusa-dev.its.utas.edu.au/my/members/{your-username}/`
-  - Replace `{your-username}` with your account's username.
+- Replace `{your-username}` with your account's username.
 
 Your account profile page will greet you with:
 
@@ -38,7 +38,7 @@ Your account profile page will greet you with:
 
 The account dashboard will also greet you with a tab bar, including tabs below:
 
-| Tab                  | What’s Here                     | URL Pattern                              |
+| Tab                  | What's Here                     | URL Pattern                              |
 | -------------------- | ------------------------------- | ---------------------------------------- |
 | **Store Management** | Store manager                   | `/store-manager/`                        |
 | **My Deals**         | Available deals from your clubs | `/my/members/{username}/deals/`          |
@@ -52,17 +52,17 @@ The account dashboard will also greet you with a tab bar, including tabs below:
 
 ## Your Club Dashboard
 
-If you are the member of a club, you will be able to access the club's page by: 
+If you are the member of a club, you will be able to access the club's page by:
 
 - **From your profile page,** clicking the **Clubs** tab, then select the club
 - Visiting `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-handle}/`
-  - Replace the `{club-handle}` with your club's handle
+- Replace the `{club-handle}` with your club's handle
 
 ### Club Dashboard Tabs
 
-*All "URL Pattern" follows `https://tusa-dev.its.utas.edu.au/clubs/clubs-index` .*
+_All "URL Pattern" follows `https://tusa-dev.its.utas.edu.au/clubs/clubs-index` ._
 
-| Tab                   | What’s Here                         | URL Pattern                     | Who Can See  |
+| Tab                   | What's Here                         | URL Pattern                     | Who Can See  |
 | --------------------- | ----------------------------------- | ------------------------------- | ------------ |
 | **Feed**              | Posts and newsfeeds                 | `/{club-handle}`                | Public       |
 | **Photos**            | Photos                              | `/{club-handle}/photos`         | Public       |
@@ -85,7 +85,7 @@ There are some tabs here worth extra noting:
 
 The Club Docs tab is where the club admins manage official club documents. It has two sub-tabs:
 
-| Section              | What’s Here                               |
+| Section              | What's Here                               |
 | -------------------- | ----------------------------------------- |
 | **Document Library** | View all uploaded club documents          |
 | **Add a Doc**        | Upload new documents to your club library |
@@ -112,7 +112,7 @@ Documents uploaded here can be referenced in grant applications and other forms.
 
 This tab contains **three** sub-tabs:
 
-| Section           | What’s Here                                        |
+| Section           | What's Here                                        |
 | ----------------- | -------------------------------------------------- |
 | **Current Deals** | View all active deals                              |
 | **Add a Deal**    | Create a new deal (via Gravity Form)               |
@@ -126,7 +126,7 @@ For **members**, it will only show all available deals from the club, for **admi
 
 The Resources + Forms tab is where club admins access forms, applications, and compliance documents that are essential for club operations. This tab contains **five** sub-tabs:
 
-| Section                      | What’s Here                                    |
+| Section                      | What's Here                                    |
 | ---------------------------- | ---------------------------------------------- |
 | **How to**                   | Assistant documentation for club admin.        |
 | **Club Resources and Forms** | A searchable collection of forms and documents |
@@ -136,7 +136,7 @@ The Resources + Forms tab is where club admins access forms, applications, and c
 
 For the **Event Management**, there are **five** views:
 
-| Section                 | What’s Here                                     |
+| Section                 | What's Here                                     |
 | ----------------------- | ----------------------------------------------- |
 | **New Application**     | Start a new event/risk/stall/liquor application |
 | **Ongoing/Completed**   | View status of submitted applications           |
@@ -152,14 +152,14 @@ Here you can:
 
 - Access compliance documents submitted by attendees
 
-**Note:** You only see entries for your club’s applications and forms, not any other clubs.
+**Note:** You only see entries for your club's applications and forms, not any other clubs.
 
 For the **Grants**, there are **four** views:
 
-| Section                    | What’s Here                                     |
+| Section                    | What's Here                                     |
 | -------------------------- | ----------------------------------------------- |
 | **How Grants Work**        | Information about the grant system              |
-| **Grants Applied For**     | Your club’s grant applications and their status |
+| **Grants Applied For**     | Your club's grant applications and their status |
 | **Grant Application Form** | Apply for a new grant                           |
 | **Grant Claims**           | Claim funds for approved grants                 |
 
@@ -171,19 +171,19 @@ After grants submission, the funds will be processed on club's previously approv
 
 **URL:** `https://tusa-dev.its.utas.edu.au/store-manager/`
 
-Store manager is where you manage your club’s store, including products, orders, and many other settings.
+Store manager is where you manage your club's store, including products, orders, and many other settings.
 
 You can access the store manager via the URL above, or you can access it through **Your Account Dashboard > Store Management** tab.
 
 ### Why not in Club Dashboard?
 
-For each admin account, **We only allow ONE store of the administrated clubs can be accessed.** 
+For each admin account, **We only allow ONE store of the administrated clubs can be accessed.**
 
-If you’re an admin for multiple clubs (so you have access to several different club groups), you still only have store access for ONE of them. If Store Manager was in the club group, clicking it might take you to a different club’s store, this may cause confusions and severe issues between your administrated clubs.
+If you're an admin for multiple clubs (so you have access to several different club groups), you still only have store access for ONE of them. If Store Manager was in the club group, clicking it might take you to a different club's store, this may cause confusions and severe issues between your administrated clubs.
 
 ### So which is my store?
 
-When you open Store Manager, check the **welcome bar at the top**. It shows which store you’re currently managing. Make sure it’s the right one before making changes.
+When you open Store Manager, check the **welcome bar at the top**. It shows which store you're currently managing. Make sure it's the right one before making changes.
 
 ### What If I want to change my store?
 
@@ -203,6 +203,6 @@ You may need to be demoted to regular member first, then re-promote, as getting 
 
 - A different login for Club B admin duties
 
-This avoids access conflicts and keeps things clear, zero confusion about which store you’re managing.
+This avoids access conflicts and keeps things clear, zero confusion about which store you're managing.
 
-*Keep your profile updated for the best experience across the TUSA platform.*
+_Keep your profile updated for the best experience across the TUSA platform._

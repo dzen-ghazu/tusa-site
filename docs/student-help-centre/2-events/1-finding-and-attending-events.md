@@ -2,9 +2,9 @@
 
 [][1]
 
-TUSA and affiliated clubs run hundreds of events throughout the year – from social gatherings and workshops to competitions and cultural celebrations. Here’s how to find and join in!
+TUSA and affiliated clubs run hundreds of events throughout the year – from social gatherings and workshops to competitions and cultural celebrations. Here's how to find and join in!
 
-------------------------------------------------------------------------
+---
 
 ## Finding Events[][2]
 
@@ -21,7 +21,7 @@ TUSA and affiliated clubs run hundreds of events throughout the year – from so
 ### Filter by Category[][4]
 
 | Category     | What to Expect                                   |
-|--------------|--------------------------------------------------|
+| ------------ | ------------------------------------------------ |
 | **Social**   | Parties, BBQs, movie nights, games nights        |
 | **Academic** | Workshops, study sessions, career events         |
 | **Sports**   | Tournaments, try-sessions, fitness activities    |
@@ -39,7 +39,7 @@ Events happen across all TUSA campuses:
 - Sydney
 - Online/Virtual
 
-------------------------------------------------------------------------
+---
 
 ## Event Types[][6]
 
@@ -65,18 +65,18 @@ Some events require tickets, which may be:
 Some events just need you to RSVP:
 
 - Lets organisers know numbers
-- Ensures there’s enough food/space
-- You’ll get reminders before the event
+- Ensures there's enough food/space
+- You'll get reminders before the event
 
-------------------------------------------------------------------------
+---
 
 ## How to Attend an Event[][10]
 
 ### Step 1: Find an Event[][11]
 
-1.  Browse the events page
-2.  Click on an event that interests you
-3.  Read the event details
+1. Browse the events page
+2. Click on an event that interests you
+3. Read the event details
 
 ### Step 2: Check the Details[][12]
 
@@ -91,16 +91,16 @@ Before registering, check:
 
 **For Free Events:**
 
-1.  Click **Register** or **RSVP**
-2.  Confirm your attendance
-3.  Check your email for confirmation
+1. Click **Register** or **RSVP**
+2. Confirm your attendance
+3. Check your email for confirmation
 
 **For Ticketed Events:**
 
-1.  Click **Get Tickets** or **Buy Tickets**
-2.  Select ticket type and quantity
-3.  Complete payment (if required)
-4.  Check your email for your tickets
+1. Click **Get Tickets** or **Buy Tickets**
+2. Select ticket type and quantity
+3. Complete payment (if required)
+4. Check your email for your tickets
 
 ### Step 4: Attend\![][14]
 
@@ -109,28 +109,28 @@ Before registering, check:
 - Arrive on time
 - Have fun!
 
-------------------------------------------------------------------------
+---
 
 ## Managing Your Event Registrations[][15]
 
 ### View Your Tickets[][16]
 
-1.  Log in to your account
-2.  Go to your profile or account area
-3.  Find **My Tickets** or **My Events**
-4.  View all your upcoming events
+1. Log in to your account
+2. Go to your profile or account area
+3. Find **My Tickets** or **My Events**
+4. View all your upcoming events
 
 ### Cancel a Registration[][17]
 
-If you can’t make it:
+If you can't make it:
 
-1.  Go to your registered events
-2.  Find the event
-3.  Click **Cancel Registration** (if available)
+1. Go to your registered events
+2. Find the event
+3. Click **Cancel Registration** (if available)
 
 **Note:** Some events may have cancellation deadlines or non-refundable tickets. Check the event details.
 
-------------------------------------------------------------------------
+---
 
 ## At the Event[][18]
 
@@ -160,7 +160,7 @@ At all TUSA events:
 - Report any concerns to event staff
 - Know where exits are located
 
-------------------------------------------------------------------------
+---
 
 ## Special Events to Watch For[][22]
 
@@ -189,7 +189,7 @@ Watch for major events throughout the year:
 - Cultural festivals
 - Special collaborations
 
-------------------------------------------------------------------------
+---
 
 ## Event Notifications[][26]
 
@@ -206,11 +206,11 @@ Never miss an event by:
 
 When you register for events:
 
-- You’ll receive confirmation emails
+- You'll receive confirmation emails
 - Reminder emails before the event
 - Any updates or changes
 
-------------------------------------------------------------------------
+---
 
 ## Frequently Asked Questions[][29]
 
@@ -218,7 +218,7 @@ When you register for events:
 
 Many club events are open to everyone. Some may be member-only or offer discounts to members. Check the event details.
 
-### Can I bring friends who aren’t UTAS students?[][31]
+### Can I bring friends who aren't UTAS students?[][31]
 
 It depends on the event. Some are open to guests, others are student-only. Check the event description or ask the organiser.
 
@@ -229,9 +229,9 @@ It depends on the event. Some are open to guests, others are student-only. Check
 - Follow the club for future events
 - Some events release more tickets closer to the date
 
-### What if I registered but can’t attend?[][33]
+### What if I registered but can't attend?[][33]
 
-Please cancel your registration if you can’t make it. This opens up spots for others and helps organisers plan.
+Please cancel your registration if you can't make it. This opens up spots for others and helps organisers plan.
 
 ### Are events wheelchair accessible?[][34]
 
@@ -248,18 +248,18 @@ TUSA aims to make events accessible. Check individual event descriptions or cont
 
 Yes! Talk to your club committees or contact TUSA with event ideas. You can also provide feedback after events.
 
-------------------------------------------------------------------------
+---
 
 ## Having Trouble?[][37]
 
-### Can’t register for an event?[][38]
+### Can't register for an event?[][38]
 
-- Make sure you’re logged in
+- Make sure you're logged in
 - Check if tickets are still available
 - Clear your browser cache and try again
 - Contact TUSA for help
 
-### Didn’t receive your ticket?[][39]
+### Didn't receive your ticket?[][39]
 
 - Check your spam folder
 - Log in and check your registered events
@@ -271,8 +271,8 @@ Yes! Talk to your club committees or contact TUSA with event ideas. You can also
 - Check the event page for updates
 - Contact the organiser if unsure
 
-------------------------------------------------------------------------
+---
 
 ## Ready to Get Started?[][41]
 
-**[Browse Upcoming Events]** – See what’s on!
+**[Browse Upcoming Events]** – See what's on!
