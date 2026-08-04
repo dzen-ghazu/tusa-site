@@ -34,7 +34,7 @@ Looking forward to starting your new club? No worries, this guide will assist yo
 
 With everything above in mind and prepared, you are ready to go.
 
-Overall, the process includes following steps:
+Overall, the process includes the following steps:
 
 1. Define your club
 2. Gather your people
@@ -42,15 +42,15 @@ Overall, the process includes following steps:
 4. Meet with a CSO
 5. Draft your constitution
 6. Hold your IGM
-7. Once invitation received, submit a full affiliation application
+7. Once an invitation is received, submit a full affiliation application
 
-Once your application is reviewed and approved, you club will be automatically created and affiliated with TUSA, rockin' roll!
+Once your application is reviewed and approved, your club will be automatically created and affiliated with TUSA, rockin' roll!
 
 **Please note that you CANNOT directly apply for affiliation. You MUST submit an EOI AND meet with the CSO beforehand.**
 
 ## Timeline
 
-The whole affiliation process will take approximately **2-4 weeks**, plan ahead if you want to be affiliated by a specific date.
+The whole affiliation process will take approximately **2-4 weeks**; plan ahead if you want to be affiliated by a specific date.
 
 ![affiliation_timeline](../../club-admin-guide/media/affiliation_timeline.png)
 
@@ -60,11 +60,11 @@ What has interested you in starting your club & society? Are you looking to brin
 
 However, **remind that TUSA won't consider affiliating new clubs or societies that have the same objectives as existing clubs.** You can check all our existing clubs [on our website here.](https://tusa.org.au/find-a-club-society/) 
 
-If you find there is a club that catering your new club's idea and objectives, please consider joining the existing club. If you don't, please contact the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au)
+If you find there is a club that caters to your new club's idea and objectives, please consider joining the existing club. If you don't, please contact the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au)
 
 ## Step 2: Gather Your People
 
-You will need at least **5** current UTAS students to be eligible for affiliation, but we recommend starting with at least **10** current UTAS students, as this will allow your clubs to apply funding grants from TUSA.
+You will need at least **5** current UTAS students to be eligible for affiliation, but we recommend starting with at least **10** current UTAS students, as this will allow your club to apply for funding grants from TUSA.
 
 ### Record Information
 
@@ -101,14 +101,14 @@ The first step is to let us know your amazing club idea! Email us at [clubs@tusa
 
 ## Step 4: Meet with a CSO
 
-After your club idea has been verified possible, arrange a time and meet with the CSO. This meeting here is for you to:
+After your club idea has been verified as possible, arrange a time and meet with the CSO. This meeting is for you to:
 
 - Discuss your club idea
 - Understand the requirements for affiliation
 - Get guidance on your constitution and documentation
 - Ask any questions you have
 
-Hence, please be ready with your meeting by having:
+Hence, please be ready for your meeting by having:
 
 - Your club concept clearly in mind
 - Any questions about requirements
@@ -118,18 +118,18 @@ Hence, please be ready with your meeting by having:
 
 [Book Now](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled){ .md-button .md-button--primary }
 
-During the meeting, ask any questions especially for your club's constitution and the IGM as you will need to finish them to submit your affiliation application
+During the meeting, ask any questions, especially about your club's constitution and the IGM, as you will need to finish them to submit your affiliation application
 
 ## Step 5: Draft Your Constitution
 
-Constitution is a formal document that establishes and governs the club, it outlines the purpose, structural aims and objectives of the club, the roles of its office bearers, and many more.
+A constitution is a formal document that establishes and governs the club; it outlines the purpose, structural aims and objectives of the club, the roles of its office bearers, and many more.
 
 Your club is required to write a constitution to become affiliated with TUSA. A template [can be downloaded here.](https://tusa.org.au/wp-content/uploads/2025/05/Club-and-Society-Model-Constitution-Draft-Template-26.05.25.docx).
 
-While writing your constitution please pay attention that:
+While writing your constitution, please pay attention to the following:
 
 - Your club's aims and objectives are different from any other clubs, as this is required for your club to be affiliated.
-- Do NOT USE "UTAS" in your club's name, use things like "Tasmanian University" or "TUSA" instead.
+- Do NOT USE "UTAS" in your club's name; use things like "Tasmanian University" or "TUSA" instead.
 - Most TUSA Clubs are not incorporated and recognised as:
   - Sub-entity of TUSA
   - Not a legal entity
@@ -137,15 +137,15 @@ While writing your constitution please pay attention that:
 
 After you have drafted your constitution, email a copy to the CSO at [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) for comments and advice before officially submitting for approval of the **IGM**.
 
-When your club is created, the constitution **must** exist already. If this is not the case, contact the CSO **IMMEDIATELY**.
+When your club is created, the constitution **must** already exist. If this is not the case, contact the CSO **IMMEDIATELY**.
 
 ### Review Your Constitution
 
 If you want to revise your constitution, make sure you either:
 
-  - Involve it at the AGM, which is a yearly recurring meeting for your club administrative work's assessment
+  - Involve it at the AGM, which is a yearly recurring meeting for your club's administrative work assessment
   - Find the [AGM Agenda Template](https://tusa-dev.its.utas.edu.au/wp-content/uploads/2025/04/AGM-Agenda-Template-TUSA-2024.docx) and the [AGM Meetings Template](https://www.tusa.org.au/wp-content/uploads/2024/05/AGM-Minutes-TUSA-Template-2024.docx) on our website
-  - Hold a one-time SGM for constitution purpose only
+  - Hold a one-time SGM for constitution purposes only
 
 ## Step 6: IGM
 
@@ -155,13 +155,13 @@ IGM is a one-time meeting that officially marks the founding of your club. Durin
 - Adopt the constitution
 - Select the executive committee members
 
-Your IGM must observe the [Roberts Rules Standing Orders](https://robertsrules.com/), be recorded with meeting minutes, and follows [a meeting flow here.](https://www.tusa.org.au/wp-content/uploads/2022/07/CS-The-Meeting-Cycle.pdf)
+Your IGM must observe the [Roberts Rules Standing Orders](https://robertsrules.com/), be recorded with meeting minutes, and follow [a meeting flow here.](https://www.tusa.org.au/wp-content/uploads/2022/07/CS-The-Meeting-Cycle.pdf)
 
-You can use similar minutes template as the AGM one, but make sure your minutes:
+You can use a similar minutes template as the AGM one, but make sure your minutes:
 
-- Adds your club & society name
-- Lists full names of all attendees
-- Records all motions with mover and seconder, and outcome (CARRIED or FAILED)
+- Add your club & society name
+- List full names of all attendees
+- Record all motions with mover and seconder, and outcome (CARRIED or FAILED)
 
 In your meeting, please include the Acknowledgement of Country, and UTAS and Riawunna have specific guidelines that you can refer [by clicking here](https://www.utas.edu.au/uni-life/aboriginal-students-riawunna/aboriginal-community-engagement).
 
