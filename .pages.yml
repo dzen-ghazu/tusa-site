@@ -1,6 +1,4 @@
-media:
-  input: ./        # Saves images in the same folder as the .md file being edited
-  output: ./       # Inserts relative links like ./diagram.png
+
 content:
   - name: docs
     label: Documentation
@@ -11,3 +9,20 @@ content:
         type: string
       - name: body
         type: rich-text
+
+# Define your media locations
+media:
+  - name: logos
+    label: Logos
+    input: tusa-site/docs/images/logos
+    output: /images/logos
+
+  - name: club_admin
+    label: Club Admin Guide Media
+    input: tusa-site/docs/club-admin-guide/media
+    output: /club-admin-guide/media
+
+  - name: general_docs
+    label: General Page Media
+    input: tusa-site/docs
+    output: /
