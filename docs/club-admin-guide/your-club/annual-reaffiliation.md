@@ -11,6 +11,8 @@ Before this guide, please make sure you have understood [How Accounts Work](../g
 
 Reaffiliation is the annual renewal process for all TUSA clubs. It ensures that:
 
+![0f01c562-1e0d-4f31-a996-b025940bf9f9.jpg](/0f01c562-1e0d-4f31-a996-b025940bf9f9.jpg)
+
 - Your club is still active
 - Your committee information is up to date
 - Your club details are current
@@ -235,7 +237,7 @@ This is an annual cleanup all club presidents should do to make sure only curren
 - Log in to the TUSA website as the **club president**
 - Go to your **club dashboard**
 
-![Access_the_Reaffiliation_Form_1](/club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png){: width=500}
+![Access_the_Reaffiliation_Form_1](/club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png)
 
 - Navigate to the **Resources + Forms** tab
 - Navigate to the **Reaffiliation** sub-tab
