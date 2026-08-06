@@ -1,11 +1,6 @@
 ---
 title: Annual Reaffiliation
-description: Complete the yearly reaffiliation process and keep your club active.
-icon: material/calendar-refresh
-hide:
-  - toc
 ---
-
 # Annual Reaffiliation
 
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
@@ -17,25 +12,24 @@ Before this guide, please make sure you have understood [How Accounts Work](../g
 Reaffiliation is the annual renewal process for all TUSA clubs. It ensures that:
 
 - Your club is still active
-
 - Your committee information is up to date
-
 - Your club details are current
-
 - You maintain your affiliated status and benefits
 
 **Think of it like renewing your club's membership with TUSA each year.**
 
 ## When Is it?
 
-Reaffiliation period **starts from late semester 2 to the start of semester 1, covering your whole summer break**:
+The reaffiliation period **starts from late semester 2 to the start of semester 1, covering your whole summer break**:
 
-| Timing                  | What Happens               |
+
+| Timing | What Happens |
 | ----------------------- | -------------------------- |
-| **Late Semester 2**     | Reaffiliation period opens |
-| **Semester Break**      | Main reaffiliation window  |
-| **Start of Semester 1** | Deadline approaches        |
-| **After Deadline**      | Late penalties may apply   |
+| **Late Semester 2** | Reaffiliation period opens |
+| **Semester Break** | Main reaffiliation window |
+| **Start of Semester 1** | Deadline approaches |
+| **After Deadline** | Late penalties may apply |
+
 
 **You'll receive email reminders** when:
 
@@ -46,26 +40,22 @@ Reaffiliation period **starts from late semester 2 to the start of semester 1, c
 
 The **Club President** (or **acting president**) should complete the reaffiliation form as:
 
-- Your club president account is **the most permanent** existence to your club, your club exists as long as this account exists
-
+- Your club president account is **the most permanent** existence of your club; your club exists as long as this account exists
 - Your club president account is **permanently linked** to your club's store as the **owner**
-- Please read [How Accounts Work](../getting-started/how-accounts-work.md) and understand how account system works, **this is cruicial**.
-
+- Please read [How Accounts Work](../getting-started/how-accounts-work.md) and understand how the account system works; **this is cruicial**.
 - The form is pre-filled with your presidential details
-
 - You're confirming the club's ongoing operation
-
 - You're taking responsibility for the information provided
 
 **Tip:** You can prepare the information with your committee, but only the president should be the one submitting the final form.
 
 ## What Will Happen?
 
-Essentially, reaffiliation is all about confirming your club's details if everything stays the same, or updating any changes if there is one. Our account system is designed to make reaffiliation easy, so again, please make sure you understand [How Accounts Work](../getting-started/how-accounts-work.md) for the TUSA site.
+Essentially, reaffiliation is all about confirming your club's details if everything stays the same, or updating any changes if there are any. Our account system is designed to make reaffiliation easy, so again, please make sure you understand [How Accounts Work](../getting-started/how-accounts-work.md) for the TUSA site.
 
 ### For Club President
 
-The club president account is the **permanent keystone** of your club. It cannot be deleted or replaced, and it's tied to your club's store as the owner. It is completely role-based, meaning it belongs to whoever is currently in this position, and reflect this person's information on it only.
+The club president account is the **permanent keystone** of your club. It cannot be deleted or replaced, and it's tied to your club's store as the owner. It is completely role-based, meaning it belongs to whoever is currently in this position and reflects only this person's information on it only.
 
 Hence, when you submit reaffiliation:
 
@@ -78,17 +68,17 @@ This is like changing the nameplate on an office door, not building a new office
 
 Besides the club president account, there are two types of accounts:
 
-| Account Type           | Purpose                              | Example                    |
-| ---------------------- | ------------------------------------ | -------------------------- |
-| **Personal Account**   | Your own individual account          | alex.morgan@example.edu.au |
-| **Club Admin Account** | Shared account that gets handed down | president@chessclub.org    |
+
+| Account Type | Purpose | Example |
+| ---------------------- | ------------------------------------ | --------------------------------------------------------------- |
+| **Personal Account** | Your own individual account | [alex.morgan@example.edu.au](mailto:alex.morgan@example.edu.au) |
+| **Club Admin Account** | Shared account that gets handed down | [president@chessclub.org](mailto:president@chessclub.org) |
+
 
 #### For Personal Accounts
 
 - It ties to you as an individual
-
 - It uses your personal email address
-
 - It has your real name, student ID, phone number
 - It stays with you when you leave the club
 - You keep all your personal history and memberships
@@ -97,18 +87,20 @@ Besides the club president account, there are two types of accounts:
 
 For other club admin / executive committee accounts, they can be the personal account of who sits in the position, or they could be a role-based position like a club president account:
 
-- These accounts often uses a club email address (e.g., treasurer@chessclub.org)
+- These accounts often uses a club email address (e.g., [treasurer@chessclub.org](mailto:treasurer@chessclub.org))
 - Their login credentials will be handed from outgoing to incoming person for this role while handover
 - This allows continuity of club admin access
 
-### Your Perosnal Email v.s. Your Account Email
+### Your Personal Email v.s. Your Account Email
 
 **This is critical:** Even if you're using a club admin (handed-down) account, you still need to provide your personal email in the “Personal Email” field.
 
-| Field              | What Goes Here                                  |
+
+| Field | What Goes Here |
 | ------------------ | ----------------------------------------------- |
-| **Account Email**  | The login email (can be shared club email)      |
+| **Account Email** | The login email (can be shared club email) |
 | **Personal Email** | YOUR actual personal email (must be individual) |
+
 
 Notifications and personal communications need to reach **you**, not whoever has the club email next year.
 
@@ -116,11 +108,13 @@ Notifications and personal communications need to reach **you**, not whoever has
 
 For best practice, there are some situations you may want to avoid:
 
-| Mistake                                    | Problem                                    | Solution                                                                                    |
+
+| Mistake | Problem | Solution |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| All committee members use same login email | Can't create multiple accounts             | Only president uses shared email as login; others use personal emails                       |
-| Role-based email removed but person kept   | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
-| Personal email user left but account kept  | Wrong person has access                    | Remove them from reaffiliation                                                              |
+| All committee members use same login email | Can't create multiple accounts | Only president uses shared email as login; others use personal emails |
+| Role-based email removed, but person kept | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
+| Personal email user left, but account kept | Wrong person has access | Remove them from reaffiliation |
+
 
 ## What to Prepare?
 
@@ -133,25 +127,17 @@ Have these ready before starting the form:
 #### Club Details:
 
 - Club description (update if needed)
-
 - Club categories (what type of club are you?)
-
 - Social media links
-
 - Contact email
 
 #### Club President Details
 
 - Your real name
-
 - Your personal email (not just club email)
-
 - Phone number
-
 - Student ID (if UTAS student)
-
 - Faculty/Course
-
 - Address
 
 #### Committee Member Information
@@ -159,19 +145,14 @@ Have these ready before starting the form:
 For each committee member:
 
 - Full name
-
 - Personal email address
-
 - Phone number
-
 - Student ID (for UTAS students)
-
 - Role/position in the club
 
 #### Media (Optional)
 
 - Updated logo (if changing)
-
 - Updated banner image (if changing)
 
 ### Membership List
@@ -182,11 +163,9 @@ You need to attach a current membership list to your reaffiliation. This is used
 
 Visit your **Club Dashboard**:
 
-- Navigate to tab **Club Admin**
-- Navigate to sub-tab **Stats + CSV Export**
-
+- Navigate to the tab **Club Admin**
+- Navigate to the sub-tab **Stats + CSV Export**
 - Click **Download Full Member List (CSV)**
-
 - Save the file
 
 #### What Is Included?
@@ -194,14 +173,11 @@ Visit your **Club Dashboard**:
 Your membership list should include:
 
 - Member names
-
 - Email addresses
-
 - Student status (student/non-student)
-
 - Join date
 
-#### As An Attachement
+#### As an Attachment
 
 When completing your reaffiliation form, you will be able to upload your exported member list in the "membership attachment" section of the form. We will use this attachment to verify your club's student membership ratio.
 
@@ -210,7 +186,6 @@ When completing your reaffiliation form, you will be able to upload your exporte
 Student status is maintained through **three** systems working together:
 
 - **Registration:** When a member first creates their account, their student status is set
-
 - **Annual student confirmation:** Each May, all student members are prompted to confirm they're still studying. If they're no longer a student, their profile automatically transitions to “Associate”
 - **Reaffiliation:** Your annual renewal captures the current committee composition
 
@@ -222,13 +197,12 @@ Clubs must have at least 50% students on their executive committees. A president
 
 ## Committee Review
 
-During reaffiliation, the form will automatically loads your current committee members for review.
+During reaffiliation, the form will automatically load your current committee members for review.
 
 When you open the form, it automatically pulls in:
 
 - **President details**
-
-- **All current group admins / committees**
+- **All current group admins/committees**
 
 This will give you the chance to review Each Member. For each committee member shown:
 
@@ -236,7 +210,6 @@ This will give you the chance to review Each Member. For each committee member s
 - Review their details
 - Update any changed information (new phone, new address, etc.)
 - **Leave them in the form**
-
 - **To REMOVE them:**
 - **Simply delete them from the form**
 - Don't include them in your submission
@@ -250,9 +223,7 @@ This will give you the chance to review Each Member. For each committee member s
 When your reaffiliation is processed:
 
 - **Members you kept:** Admin access continues
-
-- **Members you removed:** Demoted to regular member IF they have club membership tags, otherwise removed from the group entirely
-
+- **Members you removed:** Demoted to regular member IF they have club membership tags; otherwise, removed from the group entirely
 - **New members you added:** Promoted to admin with appropriate access
 
 This is an annual cleanup all club presidents should do to make sure only current committee members are included.
@@ -262,20 +233,18 @@ This is an annual cleanup all club presidents should do to make sure only curren
 ### Step 1: Access the Reaffiliation Form
 
 - Log in to the TUSA website as the **club president**
-
 - Go to your **club dashboard**
 
 ![Access_the_Reaffiliation_Form_1](../../club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png)
 
 - Navigate to the **Resources + Forms** tab
-
 - Navigate to the **Reaffiliation** sub-tab
 
 ![Access_the_Reaffiliation_Form_2](../../club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_2.png)
 
 ### Step 2: Review Pre-filled Information
 
-The form will pre-fill with some information, please make sure they are correct or as your demand:
+The form will pre-fill with some information; please make sure they are correct or as per your demand:
 
 - The reaffiliation year
 - Whether to keep logo
@@ -293,18 +262,15 @@ The form will pre-fill with some information, please make sure they are correct 
 
 You can keep or update media for your club such as logo/icon, banner/featured image.
 
-If you intend to keep current media, click "Yes" while asked to keep the media.
+If you intend to keep current media, click "Yes" when asked to keep the media.
 
-If you intend to change, click "No" and a file uploader will allow you to upload your new media files.
+If you intend to change, click "No", and a file uploader will allow you to upload your new media files.
 
 For your media files, some tips could be:
 
 - **Logo**: 500×500 pixels minimum, square
-
 - **Banner**: 1200×400 pixels minimum, wide format
-
 - Use PNG or JPG format
-
 - Keep file sizes under 2MB
 
 ### Step 3: Update Club Details
@@ -316,9 +282,7 @@ For your media files, some tips could be:
 #### Club Description
 
 - Review and update your club's description
-
 - Make it engaging for students browsing clubs
-
 - Include what you do and who should join
 
 #### Categories
@@ -345,17 +309,13 @@ If you intend to change, click "No" and a file uploader will allow you to upload
 For your media files, some tips could be:
 
 - **Logo**: 500×500 pixels minimum, square
-
 - **Banner**: 1200×400 pixels minimum, wide format
-
 - Use PNG or JPG format
-
 - Keep file sizes under 2MB
 
 #### Social Links
 
 - Update Facebook, Instagram, Discord, etc.
-
 - Remove any inactive accounts
 
 ### Step 4: Update President's Details
@@ -377,40 +337,32 @@ Confirm or update:
 
 Perform the committee review as discussed before:
 
--   **Keeping a Member:**
+- **Keeping a Member:**
 
 ![Executive_Committee_Member_Edit](../../club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Edit.png)
 
-
--   Review their pre-filled information
-
--   Update any changed details (phone, address, role)
-    - Make sure their personal email is correct
-
--   **Removing a Member:**
+- Review their pre-filled information
+- Update any changed details (phone, address, role)
+  - Make sure their personal email is correct
+- **Removing a Member:**
 - **Removing a Member:**
 
 ![Executive_Committee_Member_Delete](../../club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Delete.png)
 
 ![Executive_Committee_Member_Delete](../../club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Delete.png)
 
--   Find the member who is no longer on committee
-
--   Click Remove/Delete on their entry
-
--   They won't be included in submission
-
+- Find the member who is no longer on committee
+- Click Remove/Delete on their entry
+- They won't be included in submission
 - **Adding a New Member:**
 
 ![Executive_Committee_Member_Add](../../club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Add.png)
 
 ![Executive_Committee_Member_Add](../../club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Add.png)
 
--   Click “Add Committee Member”
-
--   Enter their full details
-
--   Make sure they have their own personal email
+- Click “Add Committee Member”
+- Enter their full details
+- Make sure they have their own personal email
 
 ### Step 6: Attach Membership List
 
@@ -429,9 +381,7 @@ Attach the membership list as discussed before:
 ### Step 7: Review and Submit
 
 - Check all information is correct
-
 - Ensure all required fields are completed
-
 - Make sure membership list is attached
 
 Then you are good to go!
@@ -443,14 +393,10 @@ You'll receive confirmation of submission and TUSA staff will review your submis
 When your reaffiliation is processed:
 
 - Club information will be updated across the site
-
 - Committee member access will be updated
-
 - Removed committee members will bedemoted to regular member if they have club membership, or removed from group if not
 - New committee members are promoted to admin
-
 - Membership tags are created for the new year
-
 - Store and group information synced
 
 ## For How Long?
@@ -461,12 +407,14 @@ Reaffiliation usually takes **3-5 business days**, although it may take **up to 
 
 Different committee member roles have different accesses, the account will have relevant access based on the role assigned to it:
 
-| Role            | Club Dashboard | Store Admin | Group Admin |
+
+| Role | Club Dashboard | Store Admin | Group Admin |
 | --------------- | -------------- | ----------- | ----------- |
-| President       | Full Access    | Full Access | Organiser   |
-| Treasurer       | Full Access    | Full Access | Admin       |
-| Secretary       | Full Access    | Limited     | Admin       |
-| Other Committee | Limited        | Limited     | Moderator   |
+| President | Full Access | Full Access | Organiser |
+| Treasurer | Full Access | Full Access | Admin |
+| Secretary | Full Access | Limited | Admin |
+| Other Committee | Limited | Limited | Moderator |
+
 
 ## Common Issues and Solutions
 
@@ -477,9 +425,7 @@ There are some common scearios that could be tricky, and there are some troubles
 **Possible causes:**
 
 - You're not logged in as the club president
-
 - Reaffiliation period hasn't opened yet
-
 - Your club president status isn't set correctly
 
 **Solution:** Contact TUSA to verify your account is set up correctly.
@@ -489,7 +435,6 @@ There are some common scearios that could be tricky, and there are some troubles
 **Possible causes:**
 
 - They were added recently
-
 - Their account isn't linked to your club as an admin
 
 **Solution:** Manually enter their details – this is normal for new members.
@@ -520,51 +465,33 @@ Here is a check list for you while completing your reaffiliation:
 
 ### Before Starting
 
-- [ ] Confirm your committee for the year
-
-- [ ] Get personal email addresses for all committee members
-
-- [ ] Get contact details for all committee members
-
-- [ ] Review your club description
-
-- [ ] Check if you need new logo/banner
-
-- [ ] Gather student IDs for committee members
-
-- [ ] Export your membership list
+- Confirm your committee for the year
+- Get personal email addresses for all committee members
+- Get contact details for all committee members
+- Review your club description
+- Check if you need new logo/banner
+- Gather student IDs for committee members
+- Export your membership list
 
 ### During Form
 
-- [ ] Review pre-filled president details
-
-- [ ] Enter YOUR personal email (not club email)
-
-- [ ] Update club description if needed
-
-- [ ] Update social media links
-
-- [ ] Review each pre-filled committee member
-
-- [ ] Remove any members who have left
-
-- [ ] Add any new committee members
-
-- [ ] Upload membership list
-
-- [ ] Upload new media if needed
+- Review pre-filled president details
+- Enter YOUR personal email (not club email)
+- Update club description if needed
+- Update social media links
+- Review each pre-filled committee member
+- Remove any members who have left
+- Add any new committee members
+- Upload membership list
+- Upload new media if needed
 
 ### After Submission
 
-- [ ] Save confirmation email
-
-- [ ] Inform committee of submission
-
-- [ ] Wait for processing confirmation
-
-- [ ] Verify new members have admin access
-
-- [ ] Verify removed committee members no longer have admin access
+- Save confirmation email
+- Inform committee of submission
+- Wait for processing confirmation
+- Verify new members have admin access
+- Verify removed committee members no longer have admin access
 
 ## Frequently Asked Questions (FAQs)
 
@@ -583,13 +510,9 @@ In exceptional circumstances, another executive member may be able to complete i
 ### What happens if we don't reaffiliate?
 
 - Your club status becomes inactive
-
 - You lose access to club benefits
-
 - Your store may be suspended
-
 - You won't appear in the clubs directory
-
 - You may need to re-apply for affiliation
 
 ### Do all committee members need TUSA accounts?
@@ -605,11 +528,8 @@ In exceptional circumstances, another executive member may be able to complete i
 **No.** Your personal email must be your own individual email address. This ensures:
 
 - Notifications reach YOU, not next year's committee
-
 - TUSA can contact you specifically
-
 - Records of who actually submitted are accurate
-
 - The account/login email can be a shared club email, but personal email must be individual.
 
 ### How do I hand over the club admin account to the new president?
@@ -617,18 +537,15 @@ In exceptional circumstances, another executive member may be able to complete i
 If your club uses a handed-down account:
 
 - Complete reaffiliation with current details
-
 - After processing, share login credentials with new president
-
 - New president should update the profile with their personal details
-
 - They complete next year's reaffiliation
 
 ## Need Help?
 
 If you have questions about reaffiliation:
 
-**Email:** clubs@tusa.edu.au
+**Email:** [clubs@tusa.edu.au](mailto:clubs@tusa.edu.au)
 
 **In Person:** Visit the TUSA Clubs & Societies office
 
