@@ -7,6 +7,8 @@ Every year, clubs must complete the reaffiliation process to remain active and a
 
 Before this guide, please make sure you have understood [How Accounts Work](../getting-started/how-accounts-work.md) for the TUSA site.
 
+![0f01c562-1e0d-4f31-a996-b025940bf9f9.jpg](blob:https:/app.pagescms.org/97be840e-d016-438f-89bb-eb12180a8e30)
+
 ## What Is It?
 
 Reaffiliation is the annual renewal process for all TUSA clubs. It ensures that:
