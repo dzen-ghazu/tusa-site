@@ -1,0 +1,11 @@
+media: media
+content:
+  - name: docs
+    label: Documentation
+    type: collection
+    path: docs # or path where your .md files live
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
