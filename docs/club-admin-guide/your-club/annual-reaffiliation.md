@@ -235,7 +235,7 @@ This is an annual cleanup all club presidents should do to make sure only curren
 - Log in to the TUSA website as the **club president**
 - Go to your **club dashboard**
 
-![Access_the_Reaffiliation_Form_1](../../club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png)
+![Access_the_Reaffiliation_Form_1](/club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png)
 
 - Navigate to the **Resources + Forms** tab
 - Navigate to the **Reaffiliation** sub-tab
