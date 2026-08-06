@@ -206,16 +206,21 @@ When you open the form, it automatically pulls in:
 
 This will give you the chance to review Each Member. For each committee member shown:
 
-- **To KEEP them:**
+**To KEEP them:**
+
 - Review their details
-- Update any changed information (new phone, new address, etc.)
-- **Leave them in the form**
-- **To REMOVE them:**
-- **Simply delete them from the form**
+- Update any changes (new phone, new address, etc.).
+- Leave them in the form
+
+**To REMOVE them:**
+
+- Simply delete them from the form
 - Don't include them in your submission
 - If they're a club member (have membership tags), they'll be **demoted to regular member**
 - If they're not a club member, they'll be **removed from the group entirely**
-- **To ADD new members:**
+
+**To ADD new members:**
+
 - Click “Add Committee Member”
 - Enter their details
 - They'll gain admin access when processed
@@ -235,12 +240,12 @@ This is an annual cleanup all club presidents should do to make sure only curren
 - Log in to the TUSA website as the **club president**
 - Go to your **club dashboard**
 
-![Access_the_Reaffiliation_Form_1](/club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_1.png)
+![your-club_annual-reffiliation_access-the-reaffiliation-form_1.png](/your-club_annual-reffiliation_access-the-reaffiliation-form_1.png)
 
 - Navigate to the **Resources + Forms** tab
 - Navigate to the **Reaffiliation** sub-tab
 
-![Access_the_Reaffiliation_Form_2](/club-admin-guide/media/Annual-Reaffiliation/Access_the_Reaffiliation_Form_2.png)
+![your-club_annual-reaffiliation_access-the-reaffiliation-form_2.png](/your-club_annual-reaffiliation_access-the-reaffiliation-form_2.png)
 
 ### Step 2: Review Pre-filled Information
 
@@ -275,36 +280,38 @@ For your media files, some tips could be:
 
 ### Step 3: Update Club Details
 
-![Update_club_Details_1](/club-admin-guide/media/Annual-Reaffiliation/Update_Club_Details_1.png)
+![your-club_annual-reaffiliation_update-club-details_1.png](/your-club_annual-reaffiliation_update-club-details_1.png)
 
-![Update_club_Details_2](/club-admin-guide/media/Annual-Reaffiliation/Update_Club_Details_2.png)
+![your-club_annual-reaffiliation_update-club-details_2.png](/your-club_annual-reaffiliation_update-club-details_2.png)
 
-#### Club Description
+#### **Club Description**
 
 - Review and update your club's description
 - Make it engaging for students browsing clubs
 - Include what you do and who should join
 
-#### Categories
+#### **Categories**
 
 - Select the categories that best describe your club
 - This helps students find your club
 
-#### Manage Media (Optional)
+#### **Manage Media (Optional)**
 
 You can keep or update media for your club such as logo/icon, banner/featured image.
 
 If you intend to keep current media, click "Yes" while asked to keep the media.
 
-#### UPDATE LOGO
 
-![Update_The_Logo](/club-admin-guide/media/Annual-Reaffiliation/Update_The_Logo.png)
 
-#### UPDATE BANNER/FEATURE IMAGE
+#### **UPDATE LOGO**
 
-![Update_The_Banner](/club-admin-guide/media/Annual-Reaffiliation/Update_The_Banner.png)
+![your-club_annual-reaffiliation_update_the_logo.png](/your-club_annual-reaffiliation_update_the_logo.png)
 
-If you intend to change, click "No" and a file uploader will allow you to upload your new media files.
+#### **UPDATE BANNER/FEATURE IMAGE**
+
+![your-club_annual-reaffiliation_update-the-banner.png](/your-club_annual-reaffiliation_update-the-banner.png)
+
+If you intend to change, click "No", and a file uploader will allow you to upload your new media files.
 
 For your media files, some tips could be:
 
@@ -313,14 +320,14 @@ For your media files, some tips could be:
 - Use PNG or JPG format
 - Keep file sizes under 2MB
 
-#### Social Links
+#### **Social Links**
 
 - Update Facebook, Instagram, Discord, etc.
 - Remove any inactive accounts
 
 ### Step 4: Update President's Details
 
-![Update_President_Details_1](/club-admin-guide/media/Annual-Reaffiliation/Update_President_Details_1.png)
+![your-club_annual-reaffiliation_update-president-details_1.png](/your-club_annual-reaffiliation_update-president-details_1.png)
 
 Confirm or update:
 
@@ -337,28 +344,25 @@ Confirm or update:
 
 Perform the committee review as discussed before:
 
-- **Keeping a Member:**
+**Keeping a Member:**
 
-![Executive_Committee_Member_Edit](/club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Edit.png)
+![your-club_annual-reaffiliation_executive_committee_member_edit.png](/your-club_annual-reaffiliation_executive_committee_member_edit.png)
 
 - Review their pre-filled information
 - Update any changed details (phone, address, role)
-  - Make sure their personal email is correct
-- **Removing a Member:**
-- **Removing a Member:**
+- Make sure their personal email is correct
 
-![Executive_Committee_Member_Delete](/club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Delete.png)
+**Removing a Member:**
 
-![Executive_Committee_Member_Delete](/club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Delete.png)
+![your-club_annual-reaffiliation_executive-committee-member-delete.png](/your-club_annual-reaffiliation_executive-committee-member-delete.png)
 
 - Find the member who is no longer on committee
 - Click Remove/Delete on their entry
 - They won't be included in submission
-- **Adding a New Member:**
 
-![Executive_Committee_Member_Add](/club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Add.png)
+**Adding a New Member:**
 
-![Executive_Committee_Member_Add](/club-admin-guide/media/Annual-Reaffiliation/Executive_Committee_Member_Add.png)
+![your-club_annual-reaffiliation_executive-committee-member-add.png](/your-club_annual-reaffiliation_executive-committee-member-add.png)
 
 - Click “Add Committee Member”
 - Enter their full details
@@ -368,11 +372,11 @@ Perform the committee review as discussed before:
 
 Attach the membership list as discussed before:
 
-![Membership_List_CSV_Export](/club-admin-guide/media/Annual-Reaffiliation/Membership_List_CSV_Export.png)
+![your-club_annual-reaffiliation_membership_list_CSV_export.png](/your-club_annual-reaffiliation_membership_list_CSV_export.png)
 
 - Export your member list
 
-![Upload_the_Member_List](/club-admin-guide/media/Annual-Reaffiliation/Upload_the_Member_List.png)
+![your-club_annual-reaffiliation_upload-the-member-list.png](/your-club_annual-reaffiliation_upload-the-member-list.png)
 
 - Upload the file in the membership attachment section
 
