@@ -1,4 +1,6 @@
-media: media
+media:
+  input: ./        # Saves images in the same folder as the .md file being edited
+  output: ./       # Inserts relative links like ./diagram.png
 content:
   - name: docs
     label: Documentation
