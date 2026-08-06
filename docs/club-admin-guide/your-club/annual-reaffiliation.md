@@ -346,7 +346,7 @@ Perform the committee review as discussed before:
 
 **Keeping a Member:**
 
-![your-club_annual-reaffiliation_executive_committee_member_edit.png](/your-club_annual-reaffiliation_executive_committee_member_edit.png)
+![your-club_annual-reaffiliation_executive_committee_member_edit.png](../../media/your-club_annual-reaffiliation_executive_committee_member_edit.png)
 
 - Review their pre-filled information
 - Update any changed details (phone, address, role)
