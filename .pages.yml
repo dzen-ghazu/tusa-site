@@ -2,7 +2,7 @@
 media:
   - name: docs_media
     label: Docs Folder (Browse All Subfolders)
-    input: docs
+    input: docs/media
     output: /
 
   - name: logos
