@@ -1,28 +1,33 @@
-# Define your media locations
+# Media configuration allowing you to browse/upload across your media folders
 media:
-  - name: logos
-    label: Logos
-    input: tusa-site/docs/images/logos
-    output: /images/logos
-
-  - name: club_admin
-    label: Club Admin Guide Media
-    input: tusa-site/docs/club-admin-guide/media
-    output: /club-admin-guide/media
-
-  - name: general_docs
-    label: General Page Media
-    input: tusa-site/docs
+  - name: docs_media
+    label: Docs Folder (Browse All Subfolders)
+    input: docs
     output: /
 
-# Define your content collections
+  - name: logos
+    label: Logos Folder
+    input: docs/images/logos
+    output: /images/logos
+
+  - name: club_admin_media
+    label: Club Admin Guide Media
+    input: docs/club-admin-guide/media
+    output: /club-admin-guide/media
+
+# Content Collections
 content:
-  - name: club_admin_guide
-    label: Club Admin Guide
+  - name: docs
+    label: All Documentation
     type: collection
-    path: tusa-site/docs/club-admin-guide
+    path: docs
+    exclude:
+      - "**/media/**"
+      - "**/images/**"
     fields:
       - name: title
+        label: Title
         type: string
       - name: body
+        label: Page Content
         type: rich-text
