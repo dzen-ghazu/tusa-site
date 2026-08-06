@@ -1,19 +1,9 @@
 # Media configuration allowing you to browse/upload across your media folders
 media:
-  - name: docs_media
-    label: Docs Folder (Browse All Subfolders)
+  - name: All Media
+    label: Media
     input: docs/media
     output: /
-
-  - name: logos
-    label: Logos Folder
-    input: docs/images/logos
-    output: /images/logos
-
-  - name: club_admin_media
-    label: Club Admin Guide Media
-    input: docs/club-admin-guide/media
-    output: /club-admin-guide/media
 
 # Content Collections
 content:
