@@ -1,7 +1,7 @@
 ---
 title: Club Documents
 ---
-# Club Documents haha
+# Club Documents
 
 Your club has a central document library. Upload once, use everywhere, no more re-uploading. It's a secure storage for all your club's important files:
 
