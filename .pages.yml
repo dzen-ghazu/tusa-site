@@ -21,8 +21,3 @@ content:
       - name: body
         label: Page Content
         type: rich-text
-        options:
-            headings: [1, 2, 3]
-            image: true
-            table: true
-            link: true
