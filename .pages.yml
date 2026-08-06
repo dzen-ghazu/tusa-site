@@ -1,6 +1,6 @@
 # Media configuration allowing you to browse/upload across your media folders
 media:
-  - name: All Media
+  - name: docs_media
     label: Media
     input: docs/media
     output: /
