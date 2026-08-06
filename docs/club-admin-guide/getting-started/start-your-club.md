@@ -52,7 +52,7 @@ Once your application is reviewed and approved, your club will be automatically 
 
 The whole affiliation process will take approximately **2-4 weeks**; plan ahead if you want to be affiliated by a specific date.
 
-![affiliation_timeline](../../club-admin-guide/media/affiliation_timeline.png)
+![affiliation_timeline](../media/Start-Your-Club/Affiliation_Timeline.png)
 
 ## Step 1: Define Your Club
 

@@ -1,6 +1,7 @@
 # IDE
 .vscode
 .idea
+.obsidian
 
 # macOS
 .DS_Store

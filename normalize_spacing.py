@@ -1,3 +1,6 @@
+# This piece of code is used to normalize spacing in markdown files. 
+# It removes excessive blank lines and ensures that lists are formatted correctly.
+
 from pathlib import Path
 import re
 
