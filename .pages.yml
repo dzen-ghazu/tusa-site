@@ -1,15 +1,3 @@
-
-content:
-  - name: docs
-    label: Documentation
-    type: collection
-    path: docs # or path where your .md files live
-    fields:
-      - name: title
-        type: string
-      - name: body
-        type: rich-text
-
 # Define your media locations
 media:
   - name: logos
@@ -26,3 +14,15 @@ media:
     label: General Page Media
     input: tusa-site/docs
     output: /
+
+# Define your content collections
+content:
+  - name: club_admin_guide
+    label: Club Admin Guide
+    type: collection
+    path: tusa-site/docs/club-admin-guide
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
