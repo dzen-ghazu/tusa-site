@@ -1,7 +1,7 @@
 ---
 title: Annual Reaffiliation
 ---
-# Annual Reaffiliation testing
+# Annual Reaffiliation
 
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
 
