@@ -252,14 +252,14 @@ This is an annual cleanup all club presidents should do to make sure only curren
 The form will pre-fill with some information; please make sure they are correct or as per your demand:
 
 - The reaffiliation year
-- Whether to keep logo
-- Whether to keep banner
+- Whether to keep the logo
+- Whether to keep the banner
 - Links
 - President details
 - Committee details
 - In an editable list form
 - Applicant's name
-- Applicant's.email address
+- Applicant's email address
 
 **Check this information carefully** and update anything that's changed.
 
