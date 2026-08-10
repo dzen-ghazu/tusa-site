@@ -251,6 +251,8 @@ This is an annual cleanup all club presidents should do to make sure only curren
 
 The form will pre-fill with some information; please make sure they are correct or as per your demand:
 
+![Screenshot 2026-06-12 214343.png](<../../media/Screenshot 2026-06-12 214343.png>)
+
 - The reaffiliation year
 - Whether to keep logo
 - Whether to keep banner
