@@ -4,6 +4,12 @@ media:
     label: Media
     input: docs/media
     output: ../../media
+# File Map access
+media:
+  - name: map_pdf
+    label: File Map
+    input: docs/media/File-Map
+    output: ../../media/File-Map
 
 # Content Collections
 content:
