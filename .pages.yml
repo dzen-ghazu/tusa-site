@@ -8,8 +8,8 @@ media:
 # File Map access
   - name: map_pdf
     label: File Map
-    input: docs/media/File-Map
-    output: ../../media/File-Map
+    input: docs/media
+    output: ../../media
 
 # Content Collections
 content:
@@ -40,15 +40,6 @@ content:
         options:
           multiple: true
           values: ["navigation", "toc", "path", "footer", "feedback"]
-
-      - name: file_map
-        label: File Map PDF
-        type: file
-        description: "Upload the File Map PDF"
-        options:
-          accept:
-            - application/pdf
-
 
       - name: body
         label: Page Content
