@@ -6,8 +6,6 @@ icon: material/home
 hide:
   - toc
 ---
-
-
 --8<-- "includes/abbr.md"
 
 # Welcome to TUSA Docs
