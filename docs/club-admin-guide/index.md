@@ -23,8 +23,8 @@ If you're setting up a club for the first time, start at **Getting Started** and
 - [Start Your Club](1-getting-started/1-start-your-club.md)
 - [Find Your Way Around](1-getting-started/2-find-your-way-around.md)
 - [How Accounts Work](1-getting-started/3-how-accounts-work.md)
-- [Take Payments (Stripe)](1-getting-started/5-take-payments-stripe.md)
-- [Report A Problem](1-getting-started/4-report-a-problem.md)
+- [Take Payments (Stripe)](1-getting-started/4-take-payments-stripe.md)
+- [Report A Problem](1-getting-started/5-report-a-problem.md)
 
 ### 2. Your Club
 - [Annual Reaffiliation](your-club/1-annual-reaffiliation.md)

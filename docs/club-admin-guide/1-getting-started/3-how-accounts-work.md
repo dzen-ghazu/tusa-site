@@ -316,6 +316,6 @@ One example could be:
 
 [Find Your Way Around](2-find-your-way-around.md) — Where to find things
 
-[Report a Problem](4-report-a-problem.md) — When something is not working
+[Report a Problem](5-report-a-problem.md) — When something is not working
 
 _This setup is what lets your club continue year after year, no matter who is leading._
