@@ -10,7 +10,7 @@ hide:
 
 # Welcome to TUSA Docs
 
-Welcome! TUSA Docs is the central hub for the documentation that helps students and club leaders use the TUSA platform. Whether you are starting a club, managing one, joining activities, attending events, or volunteering, this site brings the key guides together in one place. 
+Aloha! TUSA Docs is the central hub for the documentation that helps students and club leaders use the TUSA platform. Whether you are starting a club, managing one, joining activities, attending events, or volunteering, this site brings the key guides together in one place. 
 
 Ooops Dongyi edited the wrong page!!!
 
