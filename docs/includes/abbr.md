@@ -6,3 +6,4 @@
 *[SGM]: Special General Meeting
 *[UTAS]: University of Tasmania
 *[TUSA]: Tasmanian University Student Association
+*[RSA]: Risk Assessment
