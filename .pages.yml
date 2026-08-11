@@ -9,7 +9,7 @@ media:
   - name: map_pdf
     label: File Map
     input: docs/media/file-map
-    output: ../../media/file-map
+    output: ../../media/file-map/File-map.png
 
 # Content Collections
 content:
