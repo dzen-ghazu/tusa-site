@@ -4,11 +4,17 @@ media:
     label: Media
     input: docs/media
     output: ../../media
+    
+# File Map access
+  - name: map_pdf
+    label: File Map
+    input: docs/media/file-map
+    output: ../../media/file-map
 
 # Content Collections
 content:
   - name: docs
-    label: All Documentation
+    label: docs
     type: collection
     path: docs
     exclude:
