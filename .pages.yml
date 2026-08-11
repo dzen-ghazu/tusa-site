@@ -8,7 +8,7 @@ media:
 # File Map access
   - name: map_pdf
     label: File Map
-    input: docs/media/file-map
+    input: docs/media/file-map/File-map.png
     output: ../../media/file-map/File-map.png
 
 # Content Collections
