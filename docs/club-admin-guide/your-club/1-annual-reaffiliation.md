@@ -13,7 +13,7 @@ hide:
 
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
 
-Before this guide, please make sure you have understood [How Accounts Work](../getting-started/how-accounts-work.md) for the TUSA site.
+Before this guide, please make sure you have understood [How Accounts Work](../1-getting-started/3-how-accounts-work.md) for the TUSA site.
 
 ## What Is It?
 
@@ -50,7 +50,7 @@ The **Club President** (or **acting president**) should complete the reaffiliati
 
 - Your club president account is **the most permanent** existence of your club; your club exists as long as this account exists
 - Your club president account is **permanently linked** to your club's store as the **owner**
-- Please read [How Accounts Work](../getting-started/how-accounts-work.md) and understand how the account system works; **this is cruicial**.
+- Please read [How Accounts Work](../1-getting-started/3-how-accounts-work.md) and understand how the account system works; **this is cruicial**.
 - The form is pre-filled with your presidential details
 - You're confirming the club's ongoing operation
 - You're taking responsibility for the information provided
@@ -59,7 +59,7 @@ The **Club President** (or **acting president**) should complete the reaffiliati
 
 ## What Will Happen?
 
-Essentially, reaffiliation is all about confirming your club's details if everything stays the same, or updating any changes if there are any. Our account system is designed to make reaffiliation easy, so again, please make sure you understand [How Accounts Work](../getting-started/how-accounts-work.md) for the TUSA site.
+Essentially, reaffiliation is all about confirming your club's details if everything stays the same, or updating any changes if there are any. Our account system is designed to make reaffiliation easy, so again, please make sure you understand [How Accounts Work](../1-getting-started/3-how-accounts-work.md) for the TUSA site.
 
 ### For Club President
 

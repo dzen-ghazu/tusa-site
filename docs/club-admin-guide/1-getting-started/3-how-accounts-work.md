@@ -312,10 +312,10 @@ One example could be:
 
 ## Related Guides
 
-[Annual Reaffiliation](../your-club/annual-reaffiliation.md) — How to update club details each year
+[Annual Reaffiliation](../your-club/1-annual-reaffiliation.md) — How to update club details each year
 
-[Find Your Way Around](find-your-way-around.md) — Where to find things
+[Find Your Way Around](2-find-your-way-around.md) — Where to find things
 
-[Report a Problem](./report-a-problem.md) — When something is not working
+[Report a Problem](4-report-a-problem.md) — When something is not working
 
 _This setup is what lets your club continue year after year, no matter who is leading._

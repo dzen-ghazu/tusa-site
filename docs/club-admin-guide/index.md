@@ -20,16 +20,16 @@ If you're setting up a club for the first time, start at **Getting Started** and
 ## Structure and Reading Order
 
 ### 1. Getting Started
-- [Start Your Club](getting-started/start-your-club.md)
-- [Find Your Way Around](getting-started/find-your-way-around.md)
-- [How Accounts Work](getting-started/how-accounts-work.md)
-- [Take Payments (Stripe)](getting-started/take-payments-stripe.md)
-- [Report A Problem](getting-started/report-a-problem.md)
+- [Start Your Club](1-getting-started/1-start-your-club.md)
+- [Find Your Way Around](1-getting-started/2-find-your-way-around.md)
+- [How Accounts Work](1-getting-started/3-how-accounts-work.md)
+- [Take Payments (Stripe)](1-getting-started/5-take-payments-stripe.md)
+- [Report A Problem](1-getting-started/4-report-a-problem.md)
 
 ### 2. Your Club
-- [Annual Reaffiliation](your-club/annual-reaffiliation.md)
-- [Club Documents](your-club/club-documents.md)
-- [Grants](your-club/grants.md)
+- [Annual Reaffiliation](your-club/1-annual-reaffiliation.md)
+- [Club Documents](your-club/2-club-documents.md)
+- [Grants](your-club/3-grants.md)
 
 ### 3. Your Store
 - [Your Products](your-store/your-products.md)

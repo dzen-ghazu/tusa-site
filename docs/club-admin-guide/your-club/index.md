@@ -13,6 +13,6 @@ hide:
 
 Ongoing administrative tasks for keeping your club affiliated and funded.
 
-1. [Annual Reaffiliation](annual-reaffiliation.md)
-2. [Club Documents](club-documents.md)
-3. [Grants](grants.md)
+1. [Annual Reaffiliation](1-annual-reaffiliation.md)
+2. [Club Documents](2-club-documents.md)
+3. [Grants](3-grants.md)

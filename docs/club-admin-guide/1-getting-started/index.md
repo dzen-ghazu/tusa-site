@@ -13,8 +13,8 @@ hide:
 
 Everything you need to get your club up and running, in the order you'll need it.
 
-1. [Start Your Club](start-your-club.md)
-2. [Find Your Way Around](find-your-way-around.md)
-3. [How Accounts Work](how-accounts-work.md)
-4. [Take Payments (Stripe)](take-payments-stripe.md)
-5. [Report A Problem](report-a-problem.md)
+1. [Start Your Club](1-start-your-club.md)
+2. [Find Your Way Around](2-find-your-way-around.md)
+3. [How Accounts Work](3-how-accounts-work.md)
+4. [Take Payments (Stripe)](5-take-payments-stripe.md)
+5. [Report A Problem](4-report-a-problem.md)
