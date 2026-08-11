@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # How Accounts Work
 
 This guide will explain how clubs and accounts are set up in the TUSA system. Reading this document will save you a lot of confusion especially during club handovers and reaffiliation.

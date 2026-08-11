@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Your Events
 
 Running an event from creation through to check-in on the day.

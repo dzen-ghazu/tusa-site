@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Grants
 
 TUSA offers several grant programs throughout the year to support club activities, events, and initiatives:

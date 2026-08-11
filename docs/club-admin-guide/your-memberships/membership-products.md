@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Membership Products
 
 Membership is not just a title for your club members, it is a symbol of belonging. Create a membership product to segue others into your club and become a member or unlock your members to exclusive events, and use memberships and the tag system to manage your member's privileges and the exclusive contents they could get.

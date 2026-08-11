@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Deliver Your Products
 
 If you're selling physical products such as merchandises (T-shirts, stickers, etc.), you will need to setup pickup or shipping to deliver your products to the customers.

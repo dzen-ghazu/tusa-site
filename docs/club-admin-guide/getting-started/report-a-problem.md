@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Report A Problem
 
 If something on the TUSA site isn't working as you expect, **DO NOT try to fix it yourself.**

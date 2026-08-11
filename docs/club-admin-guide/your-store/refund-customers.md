@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Refund Customers
 
 There could always be something going wrong, but we got you covered. No matter it is a faulty product, a cancelled event, or a member changing their mind, you will be able to flow the money back and keep your customer in trust and promise of the quality work you and your club supplies.

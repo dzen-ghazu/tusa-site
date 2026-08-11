@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Your Club
 
 Ongoing administrative tasks for keeping your club affiliated and funded.

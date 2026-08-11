@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Managing Club Members
 
 This guide will explain how to manage members in your club group. More importantly, it will explain when you **should** and **shouldn't** use these tools.

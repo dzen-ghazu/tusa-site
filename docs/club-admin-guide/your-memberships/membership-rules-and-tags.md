@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Membership Rules And Tags
 
 Membership rules and tags are the tools for you as a club admin to grant full control of:

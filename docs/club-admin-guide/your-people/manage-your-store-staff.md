@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Manage People's Access
 
 This guide explains how to add staff members to your club store so they can help with scanning tickets, processing sales, and managing orders.

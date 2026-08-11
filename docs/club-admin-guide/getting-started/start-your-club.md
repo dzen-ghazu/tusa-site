@@ -6,6 +6,7 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
 --8<-- "includes/abbr.md"
 
 # Start Your Club

@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Your Products
 
 Once your club is offically created via affiliation, it will automatically come with a store. The store can unlock your potential to excel your business talent and make some revenue to keep the club running.

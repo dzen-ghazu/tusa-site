@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Event Applications
 
 This guide covers event applications, risk assessments, temporary stall permits, and liquor permits for your club activities.

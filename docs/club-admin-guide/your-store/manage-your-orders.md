@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Manage Your Orders
 
 You can access your store's current orders by visiting **your profile page > Store Manager**, then click on the **Orders** tab and choose the **All Orders** expanded tab.

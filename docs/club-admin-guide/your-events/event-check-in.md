@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Event Check-In
 
 This guide covers how to check in attendees at your club events using the QR code scanner and manage attendance.

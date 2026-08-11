@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Creating an Event
 
 This guide explains how to create events for your club. You'll need to create a draft event before you can submit an event application.

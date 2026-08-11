@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Take Payments (Stripe)
 
 Stripe is the financial platform used in TUSA for clubs to accept payments, manage billing and revenues, and customise their own business models.

@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Hiring Equipment from TUSA
 
 This guide explains how to hire equipment (marquees, tables, chairs, BBQs, etc.) from the TUSA Hire Store for your club events.

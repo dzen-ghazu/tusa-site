@@ -6,6 +6,9 @@ hide:
   - toc
 ---
 
+<!-- For Acronyms Hint-On-Hover -->
+--8<-- "includes/abbr.md"
+
 # Club Admin Guide
 
 Welcome to the TUSA Club Admin Guide. This page is the map of the whole guide: every section, every page, and the order they're meant to be read in.
