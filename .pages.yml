@@ -41,6 +41,15 @@ content:
           multiple: true
           values: ["navigation", "toc", "path", "footer", "feedback"]
 
+      - name: file_map
+        label: File Map PDF
+        type: file
+        description: "Upload the File Map PDF"
+        options:
+          accept:
+            - application/pdf
+
+
       - name: body
         label: Page Content
         type: rich-text
