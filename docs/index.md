@@ -1,17 +1,20 @@
 ---
 title: TUSA Docs Home
-description: The central documentation hub for club administration and student support at TUSA.
+description: The central documentation hub for club administration and student
+  support at TUSA.
 icon: material/home
 hide:
   - toc
 ---
 
-<!-- For Acronyms Hint-On-Hover -->
+
 --8<-- "includes/abbr.md"
 
 # Welcome to TUSA Docs
 
 TUSA Docs is the central hub for the documentation that helps students and club leaders use the TUSA platform. Whether you are starting a club, managing one, joining activities, attending events, or volunteering, this site brings the key guides together in one place.
+
+![File-Map.png](../../media/File-Map.png)
 
 ## Choose your pathway
 
@@ -47,3 +50,4 @@ Use the Student Help Centre to find out how to participate in student life at TU
 - Club member and store staff management
 - Event creation, approvals, and check-in
 - Student participation, event attendance, compliance, and volunteering
+
