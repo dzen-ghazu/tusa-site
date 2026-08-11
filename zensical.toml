@@ -46,7 +46,8 @@ Copyright &copy TUSA 2026
 # Read more: https://zensical.org/docs/setup/navigation/
 
 nav = [
-    { "Club admin guide" = [
+    { "Home" = "index.md"},
+    { "Club Admin Guide" = [
         "club-admin-guide/index.md",
         { "Getting Started" = [
             "club-admin-guide/1-getting-started/index.md",
@@ -85,6 +86,23 @@ nav = [
             { "Event Applications" = "club-admin-guide/6-your-events/2-event-applications.md" },
             { "Hire From TUSA" = "club-admin-guide/6-your-events/3-hire-from-tusa.md" },
             { "Event Check-In" = "club-admin-guide/6-your-events/4-event-check-in.md" },
+        ] },
+    ] },
+    { "Student Help Centre" = [
+        "student-help-centre/index.md",
+        { "Clubs And Societies" = [
+            "student-help-centre/1-clubs-and-societies/index.md",
+            { "Join Clubs" = "student-help-centre/1-clubs-and-societies/1-join-clubs.md" },
+            { "Start A New Club" = "student-help-centre/1-clubs-and-societies/2-start-a-new-club.md" },
+        ] },
+        { "Events" = [
+            "student-help-centre/2-events/index.md",
+            { "Attend Events" = "student-help-centre/2-events/1-attent-events.md" },
+            { "Compliance Forms for Event Attendees" = "student-help-centre/2-events/2-compliance-forms-for-event-attendees.md" },
+        ] },
+        { "Volunteering" = [
+            "student-help-centre/3-volunteering/index.md",
+            { "Food Hub Volunteering" = "student-help-centre/3-volunteering/1-food-hub-volunteering.md" },
         ] },
     ] },
 ]

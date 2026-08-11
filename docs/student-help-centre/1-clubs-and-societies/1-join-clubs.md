@@ -1,4 +1,4 @@
-# Joining Clubs
+# Join Clubs
 
 [][1]
 
