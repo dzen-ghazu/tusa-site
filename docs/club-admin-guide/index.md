@@ -27,29 +27,29 @@ If you're setting up a club for the first time, start at **Getting Started** and
 - [Report A Problem](1-getting-started/5-report-a-problem.md)
 
 ### 2. Your Club
-- [Annual Reaffiliation](your-club/1-annual-reaffiliation.md)
-- [Club Documents](your-club/2-club-documents.md)
-- [Grants](your-club/3-grants.md)
+- [Annual Reaffiliation](2-your-club/1-annual-reaffiliation.md)
+- [Club Documents](2-your-club/2-club-documents.md)
+- [Grants](2-your-club/3-grants.md)
 
 ### 3. Your Store
-- [Your Products](your-store/your-products.md)
-- [Deliver Your Products](your-store/deliver-your-products.md)
-- [Manage Your Orders](your-store/manage-your-orders.md)
-- [Refund Customers](your-store/refund-customers.md)
+- [Your Products](3-your-store/1-your-products.md)
+- [Deliver Your Products](3-your-store/2-deliver-your-products.md)
+- [Manage Your Orders](3-your-store/3-manage-your-orders.md)
+- [Refund Customers](3-your-store/4-refund-customers.md)
 
 ### 4. Your Memberships
-- [Membership Products](your-memberships/membership-products.md)
-- [Membership Rules and Tags](your-memberships/membership-rules-and-tags.md)
+- [Membership Products](4-your-memberships/1-membership-products.md)
+- [Membership Rules and Tags](4-your-memberships/2-membership-rules-and-tags.md)
 
 ### 5. Your People
-- [Manage Your Members](your-people/manage-your-members.md)
-- [Manage Your Store Staff](your-people/manage-your-store-staff.md)
+- [Manage Your Members](5-your-people/1-manage-your-members.md)
+- [Manage Your Store Staff](5-your-people/2-manage-your-store-staff.md)
 
 ### 6. Your Events
-- [Create An Event](your-events/create-an-event.md)
-- [Event Applications](your-events/event-applications.md)
-- [Hire From TUSA](your-events/hire-from-tusa.md)
-- [Event Check-In](your-events/event-check-in.md)
+- [Create An Event](6-your-events/1-create-an-event.md)
+- [Event Applications](6-your-events/2-event-applications.md)
+- [Hire From TUSA](6-your-events/3-hire-from-tusa.md)
+- [Event Check-In](6-your-events/4-event-check-in.md)
 
 ---
 

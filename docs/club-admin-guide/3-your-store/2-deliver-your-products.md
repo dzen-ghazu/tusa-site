@@ -239,8 +239,8 @@ Only add Local Pickup method to Tasmania (or relevant) zone. Don't add Flat Rate
 
 ## Related Guides
 
-[Adding Products](./1-adding-products-to-your-club-store.md) – Creating products
+[Adding Products](1-adding-products-to-your-club-store.md) – Creating products
 
-[Creating Membership Products](./2-creating-membership-products.md) – These don't need shipping
+[Creating Membership Products](2-creating-membership-products.md) – These don't need shipping
 
 _Physical products need shipping. Digital products (memberships, tickets) don't._

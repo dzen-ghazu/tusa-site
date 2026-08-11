@@ -312,7 +312,7 @@ One example could be:
 
 ## Related Guides
 
-[Annual Reaffiliation](../your-club/1-annual-reaffiliation.md) — How to update club details each year
+[Annual Reaffiliation](../2-your-club/1-annual-reaffiliation.mdmd) — How to update club details each year
 
 [Find Your Way Around](2-find-your-way-around.md) — Where to find things
 

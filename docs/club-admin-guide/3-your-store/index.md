@@ -13,7 +13,7 @@ hide:
 
 How to sell, deliver, manage, and refund products through your club store.
 
-1. [Your Products](your-products.md)
-2. [Deliver Your Products](deliver-your-products.md)
-3. [Manage Your Orders](manage-your-orders.md)
-4. [Refund Customers](refund-customers.md)
+1. [Your Products](1-your-products.md)
+2. [Deliver Your Products](2-deliver-your-products.md)
+3. [Manage Your Orders](3-manage-your-orders.md)
+4. [Refund Customers](4-refund-customers.md)

@@ -306,8 +306,8 @@ Before your membership product is ready:
 
 ## Related Guides
 
-[Membership Rules](./4-managing-membership-rules-and-tags.md) – Setting up group access rules
+[Membership Rules](4-managing-membership-rules-and-tags.md) – Setting up group access rules
 
-[Shipping Setup](./3-setting-up-shipping-for-your-store.md) – Required for physical products (not memberships)
+[Shipping Setup](3-setting-up-shipping-for-your-store.md) – Required for physical products (not memberships)
 
 _Membership products are digital – no shipping required. The tag is the product!_

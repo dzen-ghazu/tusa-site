@@ -257,9 +257,9 @@ Report it immediately at return. Damage costs may apply depending on circumstanc
 
 ## Related Guides
 
-[Event Applications](./event-applications.md) - Submitting your event application
+[Event Applications](2-event-applications.md) - Submitting your event application
 
-[Creating Events](./create-an-event.md) – Setting up your event
+[Creating Events](1-create-an-event.md) – Setting up your event
 
 ## Need Help?
 

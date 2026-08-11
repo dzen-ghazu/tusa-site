@@ -222,7 +222,7 @@ Now that you have a draft event, you need to submit an event application:
 - Go to **Club Dashboard** → **Risk & Events**
 - Click **New Application**
 - The form may let you select your draft event to prefill details
-- Complete the full event application (see [Event Applications guide](./event-applications.md))
+- Complete the full event application (see [Event Applications guide](2-event-applications.md))
 - Submit for approval
 
 ### What Happens Next

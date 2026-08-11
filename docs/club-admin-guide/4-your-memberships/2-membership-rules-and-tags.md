@@ -423,7 +423,7 @@ This is complex – contact TUSA for advice. One option is to manually apply tag
 
 [Club Identity Model](../8-understanding-your-club/2-understanding-club-identity-the-keystone-account-model.md) — How clubs work
 
-[Creating Membership Products](./2-creating-membership-products.md) — Setting up the products that grant tags
+[Creating Membership Products](2-creating-membership-products.md) — Setting up the products that grant tags
 
 [Reporting an Issue](../6-general/1-reporting-an-issue.md) — When something isn't working
 

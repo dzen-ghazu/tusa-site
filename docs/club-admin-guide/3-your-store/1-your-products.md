@@ -287,8 +287,8 @@ There are some common mistakes that everyone could make while managing their pro
 
 Now that you know how to add basic products:
 
-- [**Sell Memberships**](./2-creating-membership-products.md) – Special settings for memberships
-- [**Setting Up Shipping**](./3-setting-up-shipping-for-your-store.md) – Required for physical products
+- [**Sell Memberships**](2-creating-membership-products.md) – Special settings for memberships
+- [**Setting Up Shipping**](3-setting-up-shipping-for-your-store.md) – Required for physical products
 - [**Creating Events**](../4-events-&-activities/2-creating-events.md) – For event tickets
 
 ## Need Help?

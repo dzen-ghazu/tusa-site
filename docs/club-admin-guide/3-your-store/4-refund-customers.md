@@ -244,7 +244,7 @@ Disputes are stressful — they're rare for clubs but they can happen. The singl
 
 ## Related Guides[](#related-guides)
 
-[Managing Orders](./5-managing-orders.md) — order statuses, fulfilment, day-to-day order management
+[Managing Orders](5-managing-orders.md) — order statuses, fulfilment, day-to-day order management
 
 [Stripe & Payments](../1-getting-started/1-stripe-&-payments.md) — how TUSA manages your club's Stripe connection
 

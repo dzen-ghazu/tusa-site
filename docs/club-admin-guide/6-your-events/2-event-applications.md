@@ -13,7 +13,7 @@ hide:
 
 This guide covers event applications, risk assessments, temporary stall permits, and liquor permits for your club activities.
 
-**Before you start:** You need to create a draft event before submitting an event application. See [Creating Events](./create-an-event.md) first.
+**Before you start:** You need to create a draft event before submitting an event application. See [Creating Events](1-create-an-event.md) first.
 
 ## How to Access Event Applications
 
@@ -195,7 +195,7 @@ If you're hiring equipment from TUSA (marquees, tables, chairs, BBQs, etc.), you
 
 **Important:** Stock is reserved when you **checkout**, not while in cart. Don't leave items sitting – complete the order to secure your booking.
 
-[Click here to see the full guide.](./hire-from-tusa.md)
+[Click here to see the full guide.](3-hire-from-tusa.md)
 
 ## Transport & Travel
 
@@ -257,7 +257,7 @@ If your club has junior members (under 18) and runs adventure activities:
 - **Emergency contacts** – Have parent/guardian contact details readily available
 - **Insurance** – Verify your insurance covers minors in adventure activities
 
-See [Managing Members](../your-people/manage-your-members.md) for more on junior member requirements.
+See [Managing Members](../5-your-people/1-manage-your-members.md) for more on junior member requirements.
 
 ### Overnight Trips (Non-Adventure)
 

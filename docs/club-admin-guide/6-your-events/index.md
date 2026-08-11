@@ -13,7 +13,7 @@ hide:
 
 Running an event from creation through to check-in on the day.
 
-1. [Create An Event](create-an-event.md)
-2. [Event Applications](event-applications.md)
-3. [Hire From TUSA](hire-from-tusa.md)
-4. [Event Check-In](event-check-in.md)
+1. [Create An Event](1-create-an-event.md)
+2. [Event Applications](2-event-applications.md)
+3. [Hire From TUSA](3-hire-from-tusa.md)
+4. [Event Check-In](4-event-check-in.md)
