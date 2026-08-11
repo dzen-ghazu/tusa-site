@@ -8,7 +8,7 @@ media:
 # Content Collections
 content:
   - name: docs
-    label: All Documentation
+    label: docs
     type: collection
     path: docs
     exclude:
