@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Join Clubs
 
 [][1]
@@ -10,10 +14,10 @@ TUSA has over 100 clubs and societies covering everything from sports and hobbie
 
 ### Browse the Club Directory[][3]
 
-1.  Go to the **Clubs & Societies** section of the website
-2.  Browse all available clubs
-3.  Use filters to narrow down by:
-    - **Category** (Sports, Academic, Cultural, etc.)
+1. Go to the **Clubs & Societies** section of the website
+2. Browse all available clubs
+3. Use filters to narrow down by:
+  - **Category** (Sports, Academic, Cultural, etc.)
     - **Campus** (Sandy Bay, Inveresk, Cradle Coast, etc.)
     - **Interest area**
 
@@ -32,15 +36,17 @@ TUSA has over 100 clubs and societies covering everything from sports and hobbie
 
 ## Types of Clubs[][6]
 
-| Type                        | Description                         | Examples                                        |
+
+| Type | Description | Examples |
 | --------------------------- | ----------------------------------- | ----------------------------------------------- |
-| **Sports & Recreation**     | Active and fitness-focused clubs    | Hiking, Tennis, Yoga, Ultimate Frisbee          |
-| **Academic & Professional** | Related to study areas or careers   | Law Society, Engineering Club, Medical Students |
-| **Cultural**                | Celebrating cultures and identities | International student groups, Language clubs    |
-| **Arts & Creative**         | Creative and artistic pursuits      | Photography, Theatre, Art Society               |
-| **Gaming & Hobbies**        | Shared interests and hobbies        | Board Games, Anime, Book Club                   |
-| **Faith & Spirituality**    | Religious and spiritual groups      | Various faith-based communities                 |
-| **Special Interest**        | Unique focuses                      | Environmental, Political, Social causes         |
+| **Sports & Recreation** | Active and fitness-focused clubs | Hiking, Tennis, Yoga, Ultimate Frisbee |
+| **Academic & Professional** | Related to study areas or careers | Law Society, Engineering Club, Medical Students |
+| **Cultural** | Celebrating cultures and identities | International student groups, Language clubs |
+| **Arts & Creative** | Creative and artistic pursuits | Photography, Theatre, Art Society |
+| **Gaming & Hobbies** | Shared interests and hobbies | Board Games, Anime, Book Club |
+| **Faith & Spirituality** | Religious and spiritual groups | Various faith-based communities |
+| **Special Interest** | Unique focuses | Environmental, Political, Social causes |
+
 
 ---
 
@@ -97,10 +103,12 @@ After joining:
 
 ### Free vs Paid Memberships[][13]
 
-| Type                | Cost           | What You Get                                |
+
+| Type | Cost | What You Get |
 | ------------------- | -------------- | ------------------------------------------- |
-| **Free Membership** | \$0            | Access to club community, some events       |
+| **Free Membership** | 0 | Access to club community, some events |
 | **Paid Membership** | Varies by club | Full benefits, event discounts, merchandise |
+
 
 **Note:** Each club sets its own membership structure. Some are completely free, others have annual fees.
 
@@ -117,12 +125,14 @@ Club membership fees typically go toward:
 
 **Important:** Each club controls their own membership terms, including:
 
-| What Clubs Decide           | Example                                |
+
+| What Clubs Decide | Example |
 | --------------------------- | -------------------------------------- |
-| **Membership cost**         | Free, \$5, \$20, varies                |
-| **Membership duration**     | Calendar year, academic year, lifetime |
-| **When memberships expire** | End of December, end of semester       |
-| **Renewal requirements**    | Annual, automatic, manual              |
+| **Membership cost** | Free, 5, 20, varies |
+| **Membership duration** | Calendar year, academic year, lifetime |
+| **When memberships expire** | End of December, end of semester |
+| **Renewal requirements** | Annual, automatic, manual |
+
 
 This means:
 
@@ -167,14 +177,16 @@ Club memberships unlock exclusive deals from local businesses. Here's how it wor
 
 **Where to Find Your Deals:**
 
-| Location         | How to Access                                              |
+
+| Location | How to Access |
 | ---------------- | ---------------------------------------------------------- |
 | **Your Profile** | Profile → Deals tab → See all your deals with verification |
-| **Club Group**   | Groups → Your Club → Club Deals → Current deals            |
+| **Club Group** | Groups → Your Club → Club Deals → Current deals |
+
 
 **Tip:** Use your Profile → Deals tab when redeeming deals at businesses. It shows your name and photo, making verification easy.
 
-**Why Profile Accuracy Matters:**\
+**Why Profile Accuracy Matters:**  
 Businesses verify you're a member when you use deals. Keep your:
 
 - Profile name accurate (your real name)
@@ -266,3 +278,4 @@ Consider [starting a new club]! TUSA can help you establish a new club for your 
 1. **[Browse Clubs]** – Find your perfect club
 2. **[Upcoming Events]** – See what's happening
 3. **[Market Day Info]** – Don't miss the next one!
+
