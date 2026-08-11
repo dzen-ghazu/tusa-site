@@ -14,7 +14,7 @@ TUSA Docs is the central hub for the documentation that helps students and club 
 
 
 
-Editor 1 (first commit) is working on the same page.
+Editor 2 now takes over.
 
 ![File-Map.png](../../media/file-map/File-Map.png)
 
