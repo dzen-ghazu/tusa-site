@@ -6,7 +6,7 @@ hide:
   - toc
 ---
 
-<!-- For Acronyms Hint-On-Hover -->
+
 --8<-- "includes/abbr.md"
 
 # Annual Reaffiliation
@@ -288,10 +288,6 @@ For your media files, some tips could be:
 
 ### Step 3: Update Club Details
 
-![your-club_annual-reaffiliation_update-club-details_1.png](../../media/your-club_annual-reaffiliation_update-club-details_1.png)
-
-![your-club_annual-reaffiliation_update-club-details_2.png](../../media/your-club_annual-reaffiliation_update-club-details_2.png)
-
 #### **Club Description**
 
 - Review and update your club's description
@@ -302,24 +298,23 @@ For your media files, some tips could be:
 
 - Select the categories that best describe your club
 - This helps students find your club
+  ![your-club_annual-reaffiliation_update-club-details_1.png](../../media/your-club_annual-reaffiliation_update-club-details_1.png)
+  ![your-club_annual-reaffiliation_update-club-details_2.png](../../media/your-club_annual-reaffiliation_update-club-details_2.png)
 
 #### **Manage Media (Optional)**
 
-You can keep or update media for your club such as logo/icon, banner/featured image.
+You can keep or update media for your club, such as a logo/icon, banner/featured image.
 
-If you intend to keep current media, click "Yes" while asked to keep the media.
+If you intend to keep current media, click "Yes" when asked to keep the media. If you intend to change it, click "No", and a file uploader will allow you to upload your new media files.  
 
 
-
-#### **UPDATE LOGO**
+**UPDATE LOGO**
 
 ![your-club_annual-reaffiliation_update_the_logo.png](../../media/your-club_annual-reaffiliation_update_the_logo.png)
 
 #### **UPDATE BANNER/FEATURE IMAGE**
 
 ![your-club_annual-reaffiliation_update-the-banner.png](../../media/your-club_annual-reaffiliation_update-the-banner.png)
-
-If you intend to change, click "No", and a file uploader will allow you to upload your new media files.
 
 For your media files, some tips could be:
 
@@ -335,8 +330,6 @@ For your media files, some tips could be:
 
 ### Step 4: Update President's Details
 
-![your-club_annual-reaffiliation_update-president-details_1.png](../../media/your-club_annual-reaffiliation_update-president-details_1.png)
-
 Confirm or update:
 
 - Your name
@@ -345,6 +338,7 @@ Confirm or update:
 - Student ID
 - Faculty/course
 - Address
+  ![your-club_annual-reaffiliation_update-president-details_1.png](../../media/your-club_annual-reaffiliation_update-president-details_1.png)
 
 **Remember:** Even if you're using a handed-down club admin account, **your personal email must be your own email.**
 
@@ -354,39 +348,35 @@ Perform the committee review as discussed before:
 
 **Keeping a Member:**
 
-![your-club_annual-reaffiliation_executive_committee_member_edit.png](../../media/your-club_annual-reaffiliation_executive_committee_member_edit.png)
-
 - Review their pre-filled information
 - Update any changed details (phone, address, role)
 - Make sure their personal email is correct
+  ![your-club_annual-reaffiliation_executive_committee_member_edit.png](../../media/your-club_annual-reaffiliation_executive_committee_member_edit.png)
 
 **Removing a Member:**
-
-![your-club_annual-reaffiliation_executive-committee-member-delete.png](../../media/your-club_annual-reaffiliation_executive-committee-member-delete.png)
 
 - Find the member who is no longer on committee
 - Click Remove/Delete on their entry
 - They won't be included in submission
+  ![your-club_annual-reaffiliation_executive-committee-member-delete.png](../../media/your-club_annual-reaffiliation_executive-committee-member-delete.png)
 
 **Adding a New Member:**
-
-![your-club_annual-reaffiliation_executive-committee-member-add.png](../../media/your-club_annual-reaffiliation_executive-committee-member-add.png)
 
 - Click “Add Committee Member”
 - Enter their full details
 - Make sure they have their own personal email
+  ![your-club_annual-reaffiliation_executive-committee-member-add.png](../../media/your-club_annual-reaffiliation_executive-committee-member-add.png)
 
 ### Step 6: Attach Membership List
 
 Attach the membership list as discussed before:
 
-![your-club_annual-reaffiliation_membership_list_CSV_export.png](../../media/your-club_annual-reaffiliation_membership_list_CSV_export.png)
-
 - Export your member list
-
-![your-club_annual-reaffiliation_upload-the-member-list.png](../../media/your-club_annual-reaffiliation_upload-the-member-list.png)
+  ![your-club_annual-reaffiliation_membership_list_CSV_export.png](../../media/your-club_annual-reaffiliation_membership_list_CSV_export.png)
 
 - Upload the file in the membership attachment section
+
+![your-club_annual-reaffiliation_upload-the-member-list.png](../../media/your-club_annual-reaffiliation_upload-the-member-list.png)
 
 
 
