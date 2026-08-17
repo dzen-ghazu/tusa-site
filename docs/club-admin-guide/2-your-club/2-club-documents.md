@@ -6,7 +6,7 @@ hide:
   - toc
 ---
 
-<!-- For Acronyms Hint-On-Hover -->
+
 --8<-- "includes/abbr.md"
 
 # Club Documents
@@ -24,13 +24,15 @@ Your club has a central document library. Upload once, use everywhere, no more r
 
 This club document library comes with various benefits:
 
-| Benefits                        | How It Helps                                                      |
+
+| Benefits | How It Helps |
 | ------------------------------- | ----------------------------------------------------------------- |
 | **Upload once, use everywhere** | Select existing documents in applications instead of re-uploading |
-| **Year-on-year continuity**     | Documents stay with the club when committee changes               |
-| **Expiry tracking**             | Track when certificates need renewing                             |
-| **Always accessible**           | Committee members can access anytime                              |
-| **Audit trail**                 | See who uploaded what and when (Only for TUSA Staff)              |
+| **Year-on-year continuity** | Documents stay with the club when committee changes |
+| **Expiry tracking** | Track when certificates need renewing |
+| **Always accessible** | Committee members can access anytime |
+| **Audit trail** | See who uploaded what and when (Only for TUSA Staff) |
+
 
 ## Where Is It?
 
@@ -41,21 +43,30 @@ The library can be accessed on the **club dashboard > Club Docs > Document Libra
 - Details
 - Download
 
+![your-clubs_club-documents_club-dashboard.png](../../media/your-clubs_club-documents_club-dashboard.png)
+
+![your-clubs_club-documents_where-is-it.png](../../media/your-clubs_club-documents_where-is-it.png)
+
 ## Upload Documents
 
 To upload a new document, same under your club dashboard and Club Docs tab, navigate to **Add a Doc** sub tab. You will see the form to upload your new document:
 
-| Field                 | What to Enter                                                       |
+![your-clubs_club-documents_upload-documents.png](../../media/your-clubs_club-documents_upload-documents.png)
+
+
+| Field | What to Enter |
 | --------------------- | ------------------------------------------------------------------- |
-| **Document Name**     | A clear, descriptive name (e.g., “Public Liability Insurance 2026”) |
-| **Document Category** | Select the appropriate category (see below)                         |
-| **Expiry Date**       | For certificates – when does it expire? (optional)                  |
-| **Notes**             | Any additional information (optional)                               |
+| **Document Name** | A clear, descriptive name (e.g., “Public Liability Insurance 2026”) |
+| **Document Category** | Select the appropriate category (see below) |
+| **Expiry Date** | For certificates – when does it expire? (optional) |
+| **Notes** | Any additional information (optional) |
+
 
 After filling all the required fields, attach the document in **Upload Document**, and click the **Upload Document** button to finish the upload. Please do mind for the document:
 
 - Accepted formats: PDF, DOC, DOCX, JPG, PNG
 - Maximum file size: 10MB
+  ![your-clubs_club-documents_upload-documents-2.png](../../media/your-clubs_club-documents_upload-documents-2.png)
 
 ## Document Categories
 
@@ -63,32 +74,36 @@ After filling all the required fields, attach the document in **Upload Document*
 
 You can select multiple categories for a single document if it fits more than one.
 
-| Category                                | What to Upload                                     |
+
+| Category | What to Upload |
 | --------------------------------------- | -------------------------------------------------- |
-| **Emergency & Safety**                  | Emergency plans, safety procedures                 |
-| **Insurance & Liability**               | Public liability certificates, insurance documents |
-| **Food Safety**                         | Food handling certificates, food safety plans      |
-| **Alcohol & Licensing**                 | RSA certificates, liquor permits                   |
-| **Working with Juniors**                | WWVP certificates, junior policies                 |
-| **Travel & Transport**                  | Travel risk documents, transport plans             |
-| **Sports & Equipment**                  | Equipment registers, sport-specific documents      |
-| **Event Planning**                      | Event plans, venue agreements                      |
-| **Certificates & Qualifications**       | First Aid, qualifications, accreditations          |
-| **General Event Related**               | Other event-related documents                      |
-| **Affiliation/Reaffiliation Documents** | Auto-set when uploading during affiliation         |
-| **Grant Applications**                  | Auto-set when uploading during grant applications  |
+| **Emergency & Safety** | Emergency plans, safety procedures |
+| **Insurance & Liability** | Public liability certificates, insurance documents |
+| **Food Safety** | Food handling certificates, food safety plans |
+| **Alcohol & Licensing** | RSA certificates, liquor permits |
+| **Working with Juniors** | WWVP certificates, junior policies |
+| **Travel & Transport** | Travel risk documents, transport plans |
+| **Sports & Equipment** | Equipment registers, sport-specific documents |
+| **Event Planning** | Event plans, venue agreements |
+| **Certificates & Qualifications** | First Aid, qualifications, accreditations |
+| **General Event Related** | Other event-related documents |
+| **Affiliation/Reaffiliation Documents** | Auto-set when uploading during affiliation |
+| **Grant Applications** | Auto-set when uploading during grant applications |
+
 
 ## Expiry Date Tracking
 
 For time-sensitive documents like certificates, always set an expiry date:
 
-| Document Type                  | Typical Validity            |
+
+| Document Type | Typical Validity |
 | ------------------------------ | --------------------------- |
-| Public Liability Insurance     | Annual                      |
-| RSA Certificates               | 3-5 years (varies by state) |
-| First Aid Certificates         | 1-3 years                   |
-| Working With Vulnerable People | 5 years                     |
-| Food Handling Certificates     | Varies                      |
+| Public Liability Insurance | Annual |
+| RSA Certificates | 3-5 years (varies by state) |
+| First Aid Certificates | 1-3 years |
+| Working With Vulnerable People | 5 years |
+| Food Handling Certificates | Varies |
+
 
 You set an expiry for the document to:
 
@@ -100,13 +115,24 @@ You set an expiry for the document to:
 
 ### View Documents
 
-- Click on any document to view details
+- Click on any document to view details (it will open a new webpage that has the information of the document)
 - Download documents as needed
+
+![your-clubs_club-documents_view-documents.png](../../media/your-clubs_club-documents_view-documents.png)
 
 ### Edit Documents
 
 - You can update document names, categories, and notes
-- To replace an expired document, upload the new version as a new document
+
+![your-clubs_club-documents_edit-documents.png](../../media/your-clubs_club-documents_edit-documents.png)
+
+![your-clubs_club-documents_edit-documents-2.png](../../media/your-clubs_club-documents_edit-documents-2.png)
+
+![your-clubs_club-documents_edit-documents-3.png](../../media/your-clubs_club-documents_edit-documents-3.png)
+
+- To replace an expired document, remove the old document first and upload the new version as a new document
+
+![your-clubs_club-documents_edit-documents-4.png](../../media/your-clubs_club-documents_edit-documents-4.png)
 
 ### Delete Documents
 
@@ -114,16 +140,20 @@ You set an expiry for the document to:
 - Be careful – deleted documents can't be recovered
 - Don't delete documents that are referenced in active applications
 
+![your-clubs_club-documents_delete-documents.png](../../media/your-clubs_club-documents_delete-documents.png)
+
 ## Who Can Access?
 
 Documents are only visible to your club and TUSA staff – not to other clubs or the public.
 
-| Role                   | Access                                               |
+
+| Role | Access |
 | ---------------------- | ---------------------------------------------------- |
-| **Club President**     | Full access – view, upload, edit, delete             |
-| **Club Admin**         | Full access – view, upload, edit, delete             |
-| **TUSA Staff**         | Can view all club documents (for compliance/support) |
-| **Other club members** | No access to document library                        |
+| **Club President** | Full access – view, upload, edit, delete |
+| **Club Admin** | Full access – view, upload, edit, delete |
+| **TUSA Staff** | Can view all club documents (for compliance/support) |
+| **Other club members** | No access to document library |
+
 
 ## Best Practices
 
